@@ -25,7 +25,7 @@
 </svelte:head>
 
 <slot />
-<div class="fixed w-full top-5 z-30">
+<div class="fixed w-full top-0 z-30">
 	<div class="max-w-5xl m-auto p-5 text-right">
 		<div class="dropdown dropdown-end">
 			<button class="btn btn-sm btn-ghost" aria-label="Change Theme">
