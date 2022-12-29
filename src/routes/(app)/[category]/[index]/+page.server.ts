@@ -1,14 +1,12 @@
 import type { PageServerLoad } from "./$types";
 import fs from 'fs'
-import path from 'path'
+import { stores } from "$lib/util";
 
 export const load: PageServerLoad = async ({ params: { index, category } }) => {
-  let dir = './static/store/' + category;
-  
-  const data = JSON.parse(fs.readFileSync(path.resolve(dir + '/index.json'), { encoding: 'utf8' }));
-  const ar = JSON.parse(fs.readFileSync(path.resolve(dir + '/ar/' + index + '.json'), { encoding: 'utf8' }));
-  const locale = JSON.parse(fs.readFileSync(path.resolve(dir + '/id/' + index + '.json'), { encoding: 'utf8' }));
-  const timestamp = JSON.parse(fs.readFileSync(path.resolve(dir + '/reciter/mishary/' + index + '.json'), { encoding: 'utf8' }));
+  const data = JSON.parse(fs.readFileSync(stores(category, 'index.json'), { encoding: 'utf8' }));
+  const ar = JSON.parse(fs.readFileSync(stores(category, 'ar', index+ '.json'), { encoding: 'utf8' }));
+  const locale = JSON.parse(fs.readFileSync(stores(category, 'id', index+ '.json'), { encoding: 'utf8' }));
+  const timestamp = JSON.parse(fs.readFileSync(stores(category, '/reciter/mishary/', index+ '.json'), { encoding: 'utf8' }));
   // console.log(timestamp)
   const list = merge(merge(ar, timestamp), locale);
 

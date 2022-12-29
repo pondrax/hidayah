@@ -1,3 +1,5 @@
+import path from 'path'
+
 export const intersect = () => {
   const intersectionObserver = new IntersectionObserver(
     (entries) =>
@@ -43,3 +45,7 @@ export const intersect = () => {
     intersectionObserver.disconnect();
   };
 };
+
+export const stores = (...name:any)=>{
+  return path.join(process.cwd(), '/static/store', ...name);
+}
