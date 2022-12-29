@@ -1,9 +1,12 @@
 <script lang="ts">
-  import { PUBLIC_APP_NAME } from '$env/static/public';
+	import { PUBLIC_APP_NAME } from '$env/static/public';
+	import { lastRead } from '$lib/store';
 	import type { PageData } from './$types';
 
 	export let data: PageData;
+	// data.list = $lastRead
 	// console.log(data);
+	let list: any = Object.entries($lastRead);
 </script>
 
 <div class="flex flex-col gap-5 relative max-w-5xl m-auto h-screen">
@@ -35,19 +38,31 @@
 		/>
 	</div>
 
-	<div class="grid gap-5 px-5 pt-5 pb-48 overflow-scroll h-full">
-		{#each data.list as d}
-			<div class="card glass">
-				<!-- <figure><img src="https://placeimg.com/400/225/arch" alt="car!"/></figure> -->
-				<div class="card-body py-3">
-					<h2 class="card-title text-sm justify-center">
-            {d}
-          </h2>
-					<!-- <div class="card-actions justify-end">
-          <button class="btn btn-primary btn-xs">Learn now!</button>
-        </div> -->
-				</div>
-			</div>
-		{/each}
+	<div class="overflow-scroll h-full">
+		<div class="grid sm:grid-cols-2 md:grid-cols-3 gap-5 p-5 pb-20 justify-center">
+			{#each list as [slug, d]}
+				<a
+					href={slug}
+					data-sveltekit-preload-data="tap"
+					class="card card-side glass transition duration-150 hover:-translate-y-1"
+				>
+					<div class="w-16 p-3 text-right border-r-2x">
+						<div class="text-xl text-center ">{d.no}</div>
+            <div class="text-xs text-center ">{d.id}</div>
+					</div>
+					<div class="card-body py-2">
+						<h2 class="card-title text-sm">
+							{d.title}
+						</h2>
+						<p class="text-xs">
+							{d.subtitle}
+						</p>
+					</div>
+          <div class="text-sm text-center p-2">
+            {@html new Date(d.time).toISOString().replace(/\..*/g,'').replace('T','<br>')}
+          </div>
+				</a>
+			{/each}
+		</div>
 	</div>
 </div>

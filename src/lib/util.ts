@@ -1,5 +1,8 @@
 import { PUBLIC_URL } from '$env/static/public';
+// if(process.env.VERCEL_URL){
 
+//   console.log(process)
+// }
 export const intersect = () => {
   const intersectionObserver = new IntersectionObserver(
     (entries) =>

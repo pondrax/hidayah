@@ -4,14 +4,17 @@
 	import { onMount } from 'svelte';
 	import { intersect } from '$lib/util';
 	import { lastRead } from '$lib/store';
+	import { browser } from '$app/environment';
+	// import { invalidateAll } from '$app/navigation';
 
 	export let data: PageData;
 	$: header = data.header;
-	$: category = data.category;
+	$: categories = data.categories;
 	$: list = data.list;
 
 	let visibility = 15;
 	let load = false;
+	let query = '';
 
 	$: if (load == true) {
 		visibility += 15;
@@ -21,34 +24,26 @@
 		load = e.detail?.isIntersecting;
 	};
 	const setLastRead = (e: any) => {
-		if (e.detail?.isIntersecting) {
+		if (e.detail?.isIntersecting && e.target.id) {
 			let id = e.target.id.replace('id-', '');
-			let tag = category + '-' + header.no;
+			let tag = '/' + header.category + '/' + header.no;
 
 			$lastRead = Object.assign($lastRead, {
 				[tag]: {
 					id,
-					data: {
-						no: header.no,
-						title: header.title
-					}
+					no: header.no,
+					title: header.title,
+					subtitle: header.subtitle,
+					time: new Date().getTime()
 				}
 			});
-			// let current = _read.findIndex((x: any) => x.tag == tag && x.id != id);
-			// if (_read.length == 0) {
-			// 	_read = [read];
-			// } else {
-			// 	if (current > -1) {
-			// 		_read.splice(current, 1);
-			// 	} else {
-			// 		_read.push(read);
-			// 	}
-			// }
-			// $lastRead = _read;
 		}
 	};
 
 	onMount(async () => {
+		if (browser) {
+			query = location.search;
+		}
 		intersect();
 	});
 
@@ -101,9 +96,25 @@
 			return '٠١٢٣٤٥٦٧٨٩'.slice(+t, +t + 1);
 		});
 	};
+
+	const prev = (num: string) => {
+		return Math.max(parseInt(num) - 1, 1);
+	};
+	const next = (num: string) => {
+		return Math.min(parseInt(num) + 1, list.length + 1);
+	};
+	const submit = async (ev: any) => {
+		ev.preventDefault();
+		ev.target.form.submit();
+		const data = new FormData(ev.target.form);
+		const params = new URLSearchParams(data as any);
+		history.pushState({}, '', '?' + params.toString());
+		query = '?' + params.toString();
+		// await invalidateAll()
+	};
 </script>
 
-{JSON.stringify($lastRead)}
+<!-- {JSON.stringify($lastRead)} -->
 <div class="flex flex-col relative max-w-5xl m-auto h-screen">
 	<div class="flex flex-wrap md:flex-nowrap w-full top-0 z-10 bg-base-100 px-5">
 		<a href="/home" class="mx-auto px-10 py-5">
@@ -143,7 +154,25 @@
 			</div>
 		</div>
 	</div>
+	<div class="flex justify-between px-6 z-10">
+    <!-- {JSON.stringify(categories[header.no-1])} -->
+		<div class="btn-group">
+			<a href={'/quran/' + prev(header.no) + query} aria-label="Prev" class="btn btn-sm btn-ghost gap-2">
+				<i class="ri-arrow-left-s-line" /> {categories[prev(header.no)-1]}
+			</a>
+			<a href={'/quran/' + next(header.no) + query} aria-label="Next" class="btn btn-sm btn-ghost gap-2">
+        {categories[next(header.no)-1]}<i class="ri-arrow-right-s-line" />
+			</a>
+		</div>
 
+		<form method="get">
+			<select name="reciter" class="select select-sm select-ghost" on:change={submit}>
+				{#each Object.entries(header.reciterList) as [key]}
+					<option value={key} selected={key == header.reciter}>Reciter: {key}</option>
+				{/each}
+			</select>
+		</form>
+	</div>
 	<div class="overflow-y-scroll overflow-x-hidden h-full">
 		<div class="grid gap-5 p-5 pb-20">
 			<div class="text-center">
@@ -176,9 +205,10 @@
 								<div class="swap-on ri-pause-line" />
 								<div class="swap-off ri-play-line" />
 							</label>
+							<!-- {JSON.stringify(header.reciterList)} -->
 							<audio
 								data-id={aya.id}
-								src={`http://www.everyayah.com/data/Alafasy_128kbps/${aya.id}.mp3`}
+								src={header.reciterUrl + aya.id + '.mp3'}
 								preload="none"
 								on:timeupdate={({ target }) => onAudioUpdate(target, aya.id)}
 								on:ended={({ target }) => onAudioEnded(target, aya.id)}
