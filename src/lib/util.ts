@@ -1,4 +1,4 @@
-import path from 'path'
+import { PUBLIC_URL } from '$env/static/public';
 
 export const intersect = () => {
   const intersectionObserver = new IntersectionObserver(
@@ -46,6 +46,9 @@ export const intersect = () => {
   };
 };
 
-export const stores = (...name:any)=>{
-  return path.join(process.cwd(), '/static/store', ...name);
+export const stores = async (...name: any) => {
+  let url = PUBLIC_URL + '/store/' + ([...name].join('/'));
+  console.log(url)
+  return await (await (fetch(url))).json()
+  // return path.join(process.cwd(), '/static/store', ...name);
 }
