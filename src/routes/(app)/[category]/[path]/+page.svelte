@@ -3,10 +3,11 @@
 	import type { PageData } from './$types';
 	import { onMount } from 'svelte';
 	import { intersect } from '$lib/util';
-	import { text } from 'svelte/internal';
+	import { lastRead } from '$lib/store';
 
 	export let data: PageData;
 	$: header = data.header;
+	$: category = data.category;
 	$: list = data.list;
 
 	let visibility = 15;
@@ -18,6 +19,33 @@
 	}
 	const loadNext = (e: any) => {
 		load = e.detail?.isIntersecting;
+	};
+	const setLastRead = (e: any) => {
+		if (e.detail?.isIntersecting) {
+			let id = e.target.id.replace('id-', '');
+			let tag = category + '-' + header.no;
+
+			$lastRead = Object.assign($lastRead, {
+				[tag]: {
+					id,
+					data: {
+						no: header.no,
+						title: header.title
+					}
+				}
+			});
+			// let current = _read.findIndex((x: any) => x.tag == tag && x.id != id);
+			// if (_read.length == 0) {
+			// 	_read = [read];
+			// } else {
+			// 	if (current > -1) {
+			// 		_read.splice(current, 1);
+			// 	} else {
+			// 		_read.push(read);
+			// 	}
+			// }
+			// $lastRead = _read;
+		}
 	};
 
 	onMount(async () => {
@@ -75,6 +103,7 @@
 	};
 </script>
 
+{JSON.stringify($lastRead)}
 <div class="flex flex-col relative max-w-5xl m-auto h-screen">
 	<div class="flex flex-wrap md:flex-nowrap w-full top-0 z-10 bg-base-100 px-5">
 		<a href="/home" class="mx-auto px-10 py-5">
@@ -127,7 +156,12 @@
 			</div>
 			{#each data.list as [id, aya]}
 				{#if id <= visibility}
-					<div id={'id-' + aya.id} class="flex flex-col gap-3 p-5 w-full border-b-2">
+					<div
+						id={'id-' + aya.id}
+						class="flex flex-col gap-3 p-5 w-full border-b-2"
+						data-intersect
+						on:intersect={setLastRead}
+					>
 						<div class="flex flex-wrap gap-5 -mb-5">
 							<div class="text-xl">
 								{header.no} : {id}
