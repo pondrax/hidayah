@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Al Quran",
+    "slug": "quran",
+    "icon": "/images/quran.png",
+    "description": "Al-Qur'an atau Qur'an, adalah sebuah kitab suci utama dalam agama Islam, yang dipercayai Muslim bahwa kitab ini diturunkan oleh Allah, yang diturunkan kepada nabi Islam Muhammad. Kitab ini terbagi ke dalam beberapa surah 114 surah dan setiap surahnya terbagi ke dalam beberapa ayat."
+  },
+  {
+    "title": "Hadist",
+    "slug": "hadist",
+    "icon": "/images/hadist.png"
+  },
+  {
+    "title": "Jadwal Azan",
+    "slug": "azan",
+    "icon": "/images/azan.png"
+  },
+  {
+    "title": "Kisah Islami",
+    "slug": "kisah",
+    "icon": "/images/kisah.png"
+  }
+]

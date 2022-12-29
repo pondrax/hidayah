@@ -1,0 +1,51 @@
+@import 'remixicon/fonts/remixicon.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+	scroll-behavior: smooth;
+}
+.mobile ::-webkit-scrollbar {
+	-webkit-appearance: none;
+	display: none;
+}
+@media screen and (max-width: 480px) {
+	::-webkit-scrollbar {
+		-webkit-appearance: none;
+	}
+}
+::-webkit-scrollbar {
+	/* width of the entire scrollbar */
+	width: 8px;
+	height: 8px;
+}
+
+::-webkit-scrollbar-track {
+	/* color of the tracking area */
+	/* background: hsl(var(--b3));      */
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: hsl(var(--b3)); /* color of the scroll thumb */
+	border-radius: 20px;
+	/* roundness of the scroll thumb */
+	/* border: 3px solid orange;  creates padding around scroll thumb */
+}
+
+
+
+@font-face {
+  font-family: font-arabic;
+  src: url('/fonts/Uthmani.woff2');
+}
+
+.arabic {
+  font-family: font-arabic;
+  /* /* font-size: 1.8rem; */
+  line-height: 2em;
+  /* margin-top: 5px; */
+  /* margin-right: 0; */ 
+  direction: rtl;
+}
