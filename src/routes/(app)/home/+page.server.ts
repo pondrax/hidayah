@@ -1,6 +1,5 @@
 import type { PageServerLoad } from './$types';
 import { PUBLIC_APP_NAME } from '$env/static/public';
-import fs from 'fs';
 import { stores } from '$lib/util';
 
 export const load: PageServerLoad = async () => {

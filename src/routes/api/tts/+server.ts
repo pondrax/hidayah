@@ -1,11 +1,10 @@
-import { error } from '@sveltejs/kit';
 import type { RequestHandler } from './$types';
-import fs from 'fs';
 
 export const GET = (async ({ url, setHeaders }) => {
 	const resp = await getAudio(url.searchParams.get('q') ?? '');
 
 	setHeaders({
+		'Content-Type': 'audio/mpeg',
 		age: '31536000',
 		'cache-control': 'max-age=31536000, immutable'
 	});

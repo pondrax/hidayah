@@ -31,8 +31,8 @@ export const intersect = () => {
 			});
 		})
 	);
-	const intersected = document.querySelectorAll('[data-intersect]');
-	[...intersected].forEach((node: any) => {
+	const intersected = document.querySelectorAll<HTMLElement>('[data-intersect]');
+	[...intersected].forEach((node) => {
 		intersectionObserver.observe(node);
 		node.dataset.intersectInitialized = 'true';
 	});
@@ -49,7 +49,7 @@ export const intersect = () => {
 	};
 };
 
-export const stores = async (...name: any) => {
+export const stores = async (...name: string[]) => {
 	const url = PUBLIC_URL + '/store/' + [...name].join('/');
 	console.log(url);
 	return await (await fetch(url)).json();

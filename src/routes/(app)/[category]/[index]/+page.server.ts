@@ -1,5 +1,4 @@
 import type { PageServerLoad } from './$types';
-import fs from 'fs';
 import { stores } from '$lib/util';
 
 const RECITER: any = {
@@ -31,7 +30,7 @@ export const load: PageServerLoad = async ({
 			}
 		),
 		categories: data.map((d: any) => d.title),
-		list: Object.entries(list) as any
+		list: Object.entries(list) as unknown
 	};
 };
 
