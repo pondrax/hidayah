@@ -9,9 +9,9 @@ declare namespace App {
 }
 
 declare namespace svelte.JSX {
-	// interface DOMAttributes<T> {
-	// 	onintersect?: CompositionEventHandler<T>;
-	// 	onaway?: CompositionEventHandler<T>;
-	// 	onupdate?: CompositionEventHandler<T>;
-	// }
+	interface DOMAttributes<T> {
+		onintersect?: CompositionEventHandler<T>;
+		onaway?: CompositionEventHandler<T>;
+		onupdate?: CompositionEventHandler<T>;
+	}
 }

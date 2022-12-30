@@ -6,7 +6,7 @@ const pad = (surah: any, ayah: any) => {
 };
 export const GET = (async ({}) => {
 	Promise.all(
-		Array.from({ length: 114 }, async (x, i: number) => {
+		Array.from({ length: 114 }, async (_, i: number) => {
 			i++;
 			const dir = `./static/store/Al Quran/`;
 			if (!fs.existsSync(dir + 'ar')) {
