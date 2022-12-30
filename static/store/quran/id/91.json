@@ -1,1 +1,104 @@
-{"1":{"word":[{"locale":"demi matahari"},{"locale":"dan cahayanya pagi hari"}],"aya":"Demi matahari dan cahayanya di pagi hari,"},"2":{"word":[{"locale":"dan bulan"},{"locale":"apabila"},{"locale":"mengiringinya"}],"aya":"dan bulan apabila mengiringinya,"},"3":{"word":[{"locale":"dan siang"},{"locale":"apabila"},{"locale":"menampakkannya"}],"aya":"dan siang apabila menampakkannya,"},"4":{"word":[{"locale":"dan malam"},{"locale":"apabila"},{"locale":"menutupinya"}],"aya":"dan malam apabila menutupinya,"},"5":{"word":[{"locale":"dan langit"},{"locale":"dan apa"},{"locale":"pembinaannya"}],"aya":"dan langit serta pembinaannya,"},"6":{"word":[{"locale":"dan bumi"},{"locale":"dan apa"},{"locale":"penghamparannya"}],"aya":"dan bumi serta penghamparannya,"},"7":{"word":[{"locale":"dan manusia/jiwa"},{"locale":"dan apa"},{"locale":"penyempurnaanya"}],"aya":"dan jiwa serta penyempurnaannya (ciptaannya),"},"8":{"word":[{"locale":"maka Dia mengilhamkan padanya"},{"locale":"kedurhakaanya"},{"locale":"dan ketaqwaannya"}],"aya":"maka Allah mengilhamkan kepada jiwa itu (jalan) kefasikan dan ketakwaannya."},"9":{"word":[{"locale":"sesungguhnya"},{"locale":"beruntung"},{"locale":"siapa/orang"},{"locale":"mensucikannya"}],"aya":"sesungguhnya beruntunglah orang yang mensucikan jiwa itu,"},"10":{"word":[{"locale":"dan sesungguhnya"},{"locale":"celaka/rugi"},{"locale":"orang"},{"locale":"mengotorinya"}],"aya":"dan sesungguhnya merugilah orang yang mengotorinya."},"11":{"word":[{"locale":"telah mendustakan"},{"locale":"Samud"},{"locale":"dan melampui batas"}],"aya":"(Kaum) Tsamud telah mendustakan (rasulnya) karena mereka melampaui batas,"},"12":{"word":[{"locale":"ketika"},{"locale":"bangkit"},{"locale":"orang yang lebih celaka diantaranya"}],"aya":"ketika bangkit orang yang paling celaka di antara mereka,"},"13":{"word":[{"locale":"dan berkata"},{"locale":"kepada mereka"},{"locale":"rasul"},{"locale":"Allah"},{"locale":"unta betina"},{"locale":"Allah"},{"locale":"dan minumannya"}],"aya":"lalu Rasul Allah (Saleh) berkata kepada mereka: (\"Biarkanlah) unta betina Allah dan minumannya\"."},"14":{"word":[{"locale":"dan mendustakan"},{"locale":"maka mereka melukai/menyembelih"},{"locale":"maka menurunkan azab/membinasakan"},{"locale":"atas mereka"},{"locale":"Tuhan mereka"},{"locale":"dengan dosa-dosa mereka"},{"locale":"dan Dia meratakannya"}],"aya":"Lalu mereka mendustakannya dan menyembelih unta itu, maka Tuhan mereka membinasakan mereka disebabkan dosa mereka, lalu Allah menyama-ratakan mereka (dengan tanah),"},"15":{"word":[{"locale":"dan tidak"},{"locale":"takut"},{"locale":"akibatnya"}],"aya":"dan Allah tidak takut terhadap akibat tindakan-Nya itu."}}
+{
+	"1": {
+		"word": [{ "locale": "demi matahari" }, { "locale": "dan cahayanya pagi hari" }],
+		"aya": "Demi matahari dan cahayanya di pagi hari,"
+	},
+	"2": {
+		"word": [{ "locale": "dan bulan" }, { "locale": "apabila" }, { "locale": "mengiringinya" }],
+		"aya": "dan bulan apabila mengiringinya,"
+	},
+	"3": {
+		"word": [{ "locale": "dan siang" }, { "locale": "apabila" }, { "locale": "menampakkannya" }],
+		"aya": "dan siang apabila menampakkannya,"
+	},
+	"4": {
+		"word": [{ "locale": "dan malam" }, { "locale": "apabila" }, { "locale": "menutupinya" }],
+		"aya": "dan malam apabila menutupinya,"
+	},
+	"5": {
+		"word": [{ "locale": "dan langit" }, { "locale": "dan apa" }, { "locale": "pembinaannya" }],
+		"aya": "dan langit serta pembinaannya,"
+	},
+	"6": {
+		"word": [{ "locale": "dan bumi" }, { "locale": "dan apa" }, { "locale": "penghamparannya" }],
+		"aya": "dan bumi serta penghamparannya,"
+	},
+	"7": {
+		"word": [
+			{ "locale": "dan manusia/jiwa" },
+			{ "locale": "dan apa" },
+			{ "locale": "penyempurnaanya" }
+		],
+		"aya": "dan jiwa serta penyempurnaannya (ciptaannya),"
+	},
+	"8": {
+		"word": [
+			{ "locale": "maka Dia mengilhamkan padanya" },
+			{ "locale": "kedurhakaanya" },
+			{ "locale": "dan ketaqwaannya" }
+		],
+		"aya": "maka Allah mengilhamkan kepada jiwa itu (jalan) kefasikan dan ketakwaannya."
+	},
+	"9": {
+		"word": [
+			{ "locale": "sesungguhnya" },
+			{ "locale": "beruntung" },
+			{ "locale": "siapa/orang" },
+			{ "locale": "mensucikannya" }
+		],
+		"aya": "sesungguhnya beruntunglah orang yang mensucikan jiwa itu,"
+	},
+	"10": {
+		"word": [
+			{ "locale": "dan sesungguhnya" },
+			{ "locale": "celaka/rugi" },
+			{ "locale": "orang" },
+			{ "locale": "mengotorinya" }
+		],
+		"aya": "dan sesungguhnya merugilah orang yang mengotorinya."
+	},
+	"11": {
+		"word": [
+			{ "locale": "telah mendustakan" },
+			{ "locale": "Samud" },
+			{ "locale": "dan melampui batas" }
+		],
+		"aya": "(Kaum) Tsamud telah mendustakan (rasulnya) karena mereka melampaui batas,"
+	},
+	"12": {
+		"word": [
+			{ "locale": "ketika" },
+			{ "locale": "bangkit" },
+			{ "locale": "orang yang lebih celaka diantaranya" }
+		],
+		"aya": "ketika bangkit orang yang paling celaka di antara mereka,"
+	},
+	"13": {
+		"word": [
+			{ "locale": "dan berkata" },
+			{ "locale": "kepada mereka" },
+			{ "locale": "rasul" },
+			{ "locale": "Allah" },
+			{ "locale": "unta betina" },
+			{ "locale": "Allah" },
+			{ "locale": "dan minumannya" }
+		],
+		"aya": "lalu Rasul Allah (Saleh) berkata kepada mereka: (\"Biarkanlah) unta betina Allah dan minumannya\"."
+	},
+	"14": {
+		"word": [
+			{ "locale": "dan mendustakan" },
+			{ "locale": "maka mereka melukai/menyembelih" },
+			{ "locale": "maka menurunkan azab/membinasakan" },
+			{ "locale": "atas mereka" },
+			{ "locale": "Tuhan mereka" },
+			{ "locale": "dengan dosa-dosa mereka" },
+			{ "locale": "dan Dia meratakannya" }
+		],
+		"aya": "Lalu mereka mendustakannya dan menyembelih unta itu, maka Tuhan mereka membinasakan mereka disebabkan dosa mereka, lalu Allah menyama-ratakan mereka (dengan tanah),"
+	},
+	"15": {
+		"word": [{ "locale": "dan tidak" }, { "locale": "takut" }, { "locale": "akibatnya" }],
+		"aya": "dan Allah tidak takut terhadap akibat tindakan-Nya itu."
+	}
+}

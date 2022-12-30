@@ -1,1 +1,55 @@
-{"1":{"word":[{"locale":"dengan nama"},{"locale":"Allah"},{"locale":"Maha Pengasih"},{"locale":"Maha Penyayang"}],"aya":"Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang."},"2":{"word":[{"locale":"pujian"},{"locale":"bagi Allah"},{"locale":"Tuhan"},{"locale":"alam semesta"}],"aya":"Segala puji bagi Allah, Tuhan semesta alam."},"3":{"word":[{"locale":"Maha Pengasih"},{"locale":"Maha Penyayang"}],"aya":"Maha Pemurah lagi Maha Penyayang."},"4":{"word":[{"locale":"Penguasa"},{"locale":"hari"},{"locale":"pembalasan"}],"aya":"Yang menguasai di Hari Pembalasan."},"5":{"word":[{"locale":"hanya kepadaMu"},{"locale":"kami menyembah"},{"locale":"dan hanya kepadaMu"},{"locale":"kami mohon pertolongan"}],"aya":"Hanya Engkaulah yang kami sembah, dan hanya kepada Engkaulah kami meminta pertolongan."},"6":{"word":[{"locale":"tunjukkan kami"},{"locale":"jalan"},{"locale":"lurus"}],"aya":"Tunjukilah kami jalan yang lurus,"},"7":{"word":[{"locale":"jalan"},{"locale":"orang-orang yang"},{"locale":"diberi nikmat"},{"locale":"kepadanya"},{"locale":"bukan"},{"locale":"orang yang dimurkai"},{"locale":"kepadanya"},{"locale":"dan tidak"},{"locale":"orang-orang yang sesat"}],"aya":"(yaitu) Jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat."}}
+{
+	"1": {
+		"word": [
+			{ "locale": "dengan nama" },
+			{ "locale": "Allah" },
+			{ "locale": "Maha Pengasih" },
+			{ "locale": "Maha Penyayang" }
+		],
+		"aya": "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang."
+	},
+	"2": {
+		"word": [
+			{ "locale": "pujian" },
+			{ "locale": "bagi Allah" },
+			{ "locale": "Tuhan" },
+			{ "locale": "alam semesta" }
+		],
+		"aya": "Segala puji bagi Allah, Tuhan semesta alam."
+	},
+	"3": {
+		"word": [{ "locale": "Maha Pengasih" }, { "locale": "Maha Penyayang" }],
+		"aya": "Maha Pemurah lagi Maha Penyayang."
+	},
+	"4": {
+		"word": [{ "locale": "Penguasa" }, { "locale": "hari" }, { "locale": "pembalasan" }],
+		"aya": "Yang menguasai di Hari Pembalasan."
+	},
+	"5": {
+		"word": [
+			{ "locale": "hanya kepadaMu" },
+			{ "locale": "kami menyembah" },
+			{ "locale": "dan hanya kepadaMu" },
+			{ "locale": "kami mohon pertolongan" }
+		],
+		"aya": "Hanya Engkaulah yang kami sembah, dan hanya kepada Engkaulah kami meminta pertolongan."
+	},
+	"6": {
+		"word": [{ "locale": "tunjukkan kami" }, { "locale": "jalan" }, { "locale": "lurus" }],
+		"aya": "Tunjukilah kami jalan yang lurus,"
+	},
+	"7": {
+		"word": [
+			{ "locale": "jalan" },
+			{ "locale": "orang-orang yang" },
+			{ "locale": "diberi nikmat" },
+			{ "locale": "kepadanya" },
+			{ "locale": "bukan" },
+			{ "locale": "orang yang dimurkai" },
+			{ "locale": "kepadanya" },
+			{ "locale": "dan tidak" },
+			{ "locale": "orang-orang yang sesat" }
+		],
+		"aya": "(yaitu) Jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat."
+	}
+}

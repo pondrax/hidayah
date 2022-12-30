@@ -1,1 +1,59 @@
-{"1":{"word":[{"start":0.05,"end":0.52},{"start":0.52,"end":1.19},{"start":1.19,"end":2.35},{"start":2.35,"end":null}]},"2":{"word":[{"start":0.7,"end":1.42},{"start":1.42,"end":2.21},{"start":2.21,"end":2.89},{"start":2.89,"end":null}]},"3":{"word":[{"start":0.15,"end":1.41},{"start":1.41,"end":null}]},"4":{"word":[{"start":0,"end":1.05},{"start":1.05,"end":1.67},{"start":1.67,"end":null}]},"5":{"word":[{"start":0.35,"end":1.32},{"start":1.32,"end":2.22},{"start":2.22,"end":3.52},{"start":3.52,"end":null}]},"6":{"word":[{"start":0.3,"end":0.88},{"start":0.88,"end":1.8},{"start":1.8,"end":null}]},"7":{"word":[{"start":0.45,"end":1.21},{"start":1.21,"end":2.12},{"start":2.12,"end":3.08},{"start":3.08,"end":4.23},{"start":4.23,"end":4.95},{"start":4.95,"end":6.21},{"start":6.21,"end":7.38},{"start":7.38,"end":7.7},{"start":7.7,"end":null}]}}
+{
+	"1": {
+		"word": [
+			{ "start": 0.05, "end": 0.52 },
+			{ "start": 0.52, "end": 1.19 },
+			{ "start": 1.19, "end": 2.35 },
+			{ "start": 2.35, "end": null }
+		]
+	},
+	"2": {
+		"word": [
+			{ "start": 0.7, "end": 1.42 },
+			{ "start": 1.42, "end": 2.21 },
+			{ "start": 2.21, "end": 2.89 },
+			{ "start": 2.89, "end": null }
+		]
+	},
+	"3": {
+		"word": [
+			{ "start": 0.15, "end": 1.41 },
+			{ "start": 1.41, "end": null }
+		]
+	},
+	"4": {
+		"word": [
+			{ "start": 0, "end": 1.05 },
+			{ "start": 1.05, "end": 1.67 },
+			{ "start": 1.67, "end": null }
+		]
+	},
+	"5": {
+		"word": [
+			{ "start": 0.35, "end": 1.32 },
+			{ "start": 1.32, "end": 2.22 },
+			{ "start": 2.22, "end": 3.52 },
+			{ "start": 3.52, "end": null }
+		]
+	},
+	"6": {
+		"word": [
+			{ "start": 0.3, "end": 0.88 },
+			{ "start": 0.88, "end": 1.8 },
+			{ "start": 1.8, "end": null }
+		]
+	},
+	"7": {
+		"word": [
+			{ "start": 0.45, "end": 1.21 },
+			{ "start": 1.21, "end": 2.12 },
+			{ "start": 2.12, "end": 3.08 },
+			{ "start": 3.08, "end": 4.23 },
+			{ "start": 4.23, "end": 4.95 },
+			{ "start": 4.95, "end": 6.21 },
+			{ "start": 6.21, "end": 7.38 },
+			{ "start": 7.38, "end": 7.7 },
+			{ "start": 7.7, "end": null }
+		]
+	}
+}

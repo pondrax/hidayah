@@ -1,1 +1,139 @@
-{"1":{"word":[{"locale":"bacalah"},{"locale":"dengan nama"},{"locale":"Tuhanmu"},{"locale":"yang"},{"locale":"menciptakan"}],"aya":"Bacalah dengan (menyebut) nama Tuhanmu Yang menciptakan,"},"2":{"word":[{"locale":"menciptakan"},{"locale":"manusia"},{"locale":"dari"},{"locale":"segumpal darah"}],"aya":"Dia telah menciptakan manusia dari segumpal darah."},"3":{"word":[{"locale":"bacalah"},{"locale":"dan Tuhanmu"},{"locale":"amat mulia"}],"aya":"Bacalah, dan Tuhanmulah Yang Maha Pemurah,"},"4":{"word":[{"locale":"yang"},{"locale":"Dia mengajar"},{"locale":"dengan kalam"}],"aya":"Yang mengajar (manusia) dengan perantaran kalam,"},"5":{"word":[{"locale":"Dia mengajarkan"},{"locale":"manusia"},{"locale":"apa"},{"locale":"tidak"},{"locale":"dia ketahui"}],"aya":"Dia mengajar kepada manusia apa yang tidak diketahuinya."},"6":{"word":[{"locale":"sekali-kali tidak"},{"locale":"sesungguhnya"},{"locale":"manusia"},{"locale":"benar-benar melampui batas"}],"aya":"Ketahuilah! Sesungguhnya manusia benar-benar melampaui batas,"},"7":{"word":[{"locale":"bahwa"},{"locale":"ia melihatnya"},{"locale":"dia serba cukup"}],"aya":"karena dia melihat dirinya serba cukup."},"8":{"word":[{"locale":"sesungguhnya"},{"locale":"kepada"},{"locale":"Tuhanmu"},{"locale":"tempat kembali"}],"aya":"Sesungguhnya hanya kepada Tuhanmulah kembali(mu)."},"9":{"word":[{"locale":"apakah kamu lihat/pendapatmu"},{"locale":"yang/orang-orang"},{"locale":"ia melarang"}],"aya":"Bagaimana pendapatmu tentang orang yang melarang,"},"10":{"word":[{"locale":"hamba"},{"locale":"apabila"},{"locale":"sholat"}],"aya":"seorang hamba ketika mengerjakan shalat,"},"11":{"word":[{"locale":"apakah kamu lihat/pendapatmu"},{"locale":"jika"},{"locale":"adalah"},{"locale":"atas"},{"locale":"petunjuk"}],"aya":"bagaimana pendapatmu jika orang yang melarang itu berada di atas kebenaran,"},"12":{"word":[{"locale":"atau"},{"locale":"dia menyuruh"},{"locale":"dengan taqwa"}],"aya":"atau dia menyuruh bertakwa (kepada Allah)?"},"13":{"word":[{"locale":"apakah kamu lihat/pendapatmu"},{"locale":"jika"},{"locale":"mendustakan"},{"locale":"dan dia berpaling"}],"aya":"Bagaimana pendapatmu jika orang yang melarang itu mendustakan dan berpaling?"},"14":{"word":[{"locale":"apakah tidak/tidaklah"},{"locale":"dia mengetahui"},{"locale":"bahwa sesungguhnya"},{"locale":"Allah"},{"locale":"Dia melihat"}],"aya":"Tidaklah dia mengetahui bahwa sesungguhnya Allah melihat segala perbuatannya?"},"15":{"word":[{"locale":"sekali-kali tidak"},{"locale":"sungguh jika"},{"locale":"tidak"},{"locale":"dia berhenti"},{"locale":"niscaya kami pegang/tarik"},{"locale":"dengan umbun-umbun"}],"aya":"Ketahuilah, sungguh jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya,"},"16":{"word":[{"locale":"umbun-umbun"},{"locale":"pendusta"},{"locale":"salah/durhaka"}],"aya":"(yaitu) ubun-ubun orang yang mendustakan lagi durhaka."},"17":{"word":[{"locale":"maka hendaklah dia memanggil"},{"locale":"kaum/golongannya"}],"aya":"Maka biarlah dia memanggil golongannya (untuk menolongnya),"},"18":{"word":[{"locale":"kelak Kami memanggil"},{"locale":"Zabaniyah"}],"aya":"kelak Kami akan memanggil malaikat Zabaniyah,"},"19":{"word":[{"locale":"sekali-kali"},{"locale":"jangan"},{"locale":"kamu patuh kepadanya"},{"locale":"dan sujudlah"},{"locale":"dan dekatkanlah"}],"aya":"sekali-kali jangan, janganlah kamu patuh kepadanya; dan sujudlah dan dekatkanlah (dirimu kepada Tuhan)."}}
+{
+	"1": {
+		"word": [
+			{ "locale": "bacalah" },
+			{ "locale": "dengan nama" },
+			{ "locale": "Tuhanmu" },
+			{ "locale": "yang" },
+			{ "locale": "menciptakan" }
+		],
+		"aya": "Bacalah dengan (menyebut) nama Tuhanmu Yang menciptakan,"
+	},
+	"2": {
+		"word": [
+			{ "locale": "menciptakan" },
+			{ "locale": "manusia" },
+			{ "locale": "dari" },
+			{ "locale": "segumpal darah" }
+		],
+		"aya": "Dia telah menciptakan manusia dari segumpal darah."
+	},
+	"3": {
+		"word": [{ "locale": "bacalah" }, { "locale": "dan Tuhanmu" }, { "locale": "amat mulia" }],
+		"aya": "Bacalah, dan Tuhanmulah Yang Maha Pemurah,"
+	},
+	"4": {
+		"word": [{ "locale": "yang" }, { "locale": "Dia mengajar" }, { "locale": "dengan kalam" }],
+		"aya": "Yang mengajar (manusia) dengan perantaran kalam,"
+	},
+	"5": {
+		"word": [
+			{ "locale": "Dia mengajarkan" },
+			{ "locale": "manusia" },
+			{ "locale": "apa" },
+			{ "locale": "tidak" },
+			{ "locale": "dia ketahui" }
+		],
+		"aya": "Dia mengajar kepada manusia apa yang tidak diketahuinya."
+	},
+	"6": {
+		"word": [
+			{ "locale": "sekali-kali tidak" },
+			{ "locale": "sesungguhnya" },
+			{ "locale": "manusia" },
+			{ "locale": "benar-benar melampui batas" }
+		],
+		"aya": "Ketahuilah! Sesungguhnya manusia benar-benar melampaui batas,"
+	},
+	"7": {
+		"word": [{ "locale": "bahwa" }, { "locale": "ia melihatnya" }, { "locale": "dia serba cukup" }],
+		"aya": "karena dia melihat dirinya serba cukup."
+	},
+	"8": {
+		"word": [
+			{ "locale": "sesungguhnya" },
+			{ "locale": "kepada" },
+			{ "locale": "Tuhanmu" },
+			{ "locale": "tempat kembali" }
+		],
+		"aya": "Sesungguhnya hanya kepada Tuhanmulah kembali(mu)."
+	},
+	"9": {
+		"word": [
+			{ "locale": "apakah kamu lihat/pendapatmu" },
+			{ "locale": "yang/orang-orang" },
+			{ "locale": "ia melarang" }
+		],
+		"aya": "Bagaimana pendapatmu tentang orang yang melarang,"
+	},
+	"10": {
+		"word": [{ "locale": "hamba" }, { "locale": "apabila" }, { "locale": "sholat" }],
+		"aya": "seorang hamba ketika mengerjakan shalat,"
+	},
+	"11": {
+		"word": [
+			{ "locale": "apakah kamu lihat/pendapatmu" },
+			{ "locale": "jika" },
+			{ "locale": "adalah" },
+			{ "locale": "atas" },
+			{ "locale": "petunjuk" }
+		],
+		"aya": "bagaimana pendapatmu jika orang yang melarang itu berada di atas kebenaran,"
+	},
+	"12": {
+		"word": [{ "locale": "atau" }, { "locale": "dia menyuruh" }, { "locale": "dengan taqwa" }],
+		"aya": "atau dia menyuruh bertakwa (kepada Allah)?"
+	},
+	"13": {
+		"word": [
+			{ "locale": "apakah kamu lihat/pendapatmu" },
+			{ "locale": "jika" },
+			{ "locale": "mendustakan" },
+			{ "locale": "dan dia berpaling" }
+		],
+		"aya": "Bagaimana pendapatmu jika orang yang melarang itu mendustakan dan berpaling?"
+	},
+	"14": {
+		"word": [
+			{ "locale": "apakah tidak/tidaklah" },
+			{ "locale": "dia mengetahui" },
+			{ "locale": "bahwa sesungguhnya" },
+			{ "locale": "Allah" },
+			{ "locale": "Dia melihat" }
+		],
+		"aya": "Tidaklah dia mengetahui bahwa sesungguhnya Allah melihat segala perbuatannya?"
+	},
+	"15": {
+		"word": [
+			{ "locale": "sekali-kali tidak" },
+			{ "locale": "sungguh jika" },
+			{ "locale": "tidak" },
+			{ "locale": "dia berhenti" },
+			{ "locale": "niscaya kami pegang/tarik" },
+			{ "locale": "dengan umbun-umbun" }
+		],
+		"aya": "Ketahuilah, sungguh jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya,"
+	},
+	"16": {
+		"word": [{ "locale": "umbun-umbun" }, { "locale": "pendusta" }, { "locale": "salah/durhaka" }],
+		"aya": "(yaitu) ubun-ubun orang yang mendustakan lagi durhaka."
+	},
+	"17": {
+		"word": [{ "locale": "maka hendaklah dia memanggil" }, { "locale": "kaum/golongannya" }],
+		"aya": "Maka biarlah dia memanggil golongannya (untuk menolongnya),"
+	},
+	"18": {
+		"word": [{ "locale": "kelak Kami memanggil" }, { "locale": "Zabaniyah" }],
+		"aya": "kelak Kami akan memanggil malaikat Zabaniyah,"
+	},
+	"19": {
+		"word": [
+			{ "locale": "sekali-kali" },
+			{ "locale": "jangan" },
+			{ "locale": "kamu patuh kepadanya" },
+			{ "locale": "dan sujudlah" },
+			{ "locale": "dan dekatkanlah" }
+		],
+		"aya": "sekali-kali jangan, janganlah kamu patuh kepadanya; dan sujudlah dan dekatkanlah (dirimu kepada Tuhan)."
+	}
+}

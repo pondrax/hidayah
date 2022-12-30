@@ -1,1 +1,36 @@
-{"1":{"word":[{"locale":"apabila"},{"locale":"datang"},{"locale":"pertolongan"},{"locale":"Allah"},{"locale":"dan kemenangan"}],"aya":"Apabila telah datang pertolongan Allah dan kemenangan,"},"2":{"word":[{"locale":"dan kamu lihat"},{"locale":"manusia"},{"locale":"masuk"},{"locale":"kedalam"},{"locale":"agama"},{"locale":"Allah"},{"locale":"berbondong-bondong"}],"aya":"dan kamu lihat manusia masuk agama Allah dengan berbondong-bondong,"},"3":{"word":[{"locale":"maka bertasbihlah"},{"locale":"dengan memuji"},{"locale":"Tuhanmu"},{"locale":"dan mohonlah ampun"},{"locale":"sesungguhnya Dia"},{"locale":"adalah Dia"},{"locale":"Maha Penerima Taubat"}],"aya":"maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia adalah Maha Penerima taubat."}}
+{
+	"1": {
+		"word": [
+			{ "locale": "apabila" },
+			{ "locale": "datang" },
+			{ "locale": "pertolongan" },
+			{ "locale": "Allah" },
+			{ "locale": "dan kemenangan" }
+		],
+		"aya": "Apabila telah datang pertolongan Allah dan kemenangan,"
+	},
+	"2": {
+		"word": [
+			{ "locale": "dan kamu lihat" },
+			{ "locale": "manusia" },
+			{ "locale": "masuk" },
+			{ "locale": "kedalam" },
+			{ "locale": "agama" },
+			{ "locale": "Allah" },
+			{ "locale": "berbondong-bondong" }
+		],
+		"aya": "dan kamu lihat manusia masuk agama Allah dengan berbondong-bondong,"
+	},
+	"3": {
+		"word": [
+			{ "locale": "maka bertasbihlah" },
+			{ "locale": "dengan memuji" },
+			{ "locale": "Tuhanmu" },
+			{ "locale": "dan mohonlah ampun" },
+			{ "locale": "sesungguhnya Dia" },
+			{ "locale": "adalah Dia" },
+			{ "locale": "Maha Penerima Taubat" }
+		],
+		"aya": "maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia adalah Maha Penerima taubat."
+	}
+}

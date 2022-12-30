@@ -1,1 +1,1642 @@
-{"1":{"id":"023001","word":[{"ar":"قَدۡ","tl":"qad"},{"ar":"أَفۡلَحَ","tl":"aflaha"},{"ar":"ٱلۡمُؤۡمِنُونَ","tl":"al-mu'minuna"}]},"2":{"id":"023002","word":[{"ar":"ٱلَّذِينَ","tl":"alladhina"},{"ar":"هُمۡ","tl":"hum"},{"ar":"فِي","tl":"fi"},{"ar":"صَلَاتِهِمۡ","tl":"salatihim"},{"ar":"خَٰشِعُونَ","tl":"khashi'una"}]},"3":{"id":"023003","word":[{"ar":"وَٱلَّذِينَ","tl":"wa-alladhina"},{"ar":"هُمۡ","tl":"hum"},{"ar":"عَنِ","tl":"ani"},{"ar":"ٱللَّغۡوِ","tl":"al-laghwi"},{"ar":"مُعۡرِضُونَ","tl":"mu'riduna"}]},"4":{"id":"023004","word":[{"ar":"وَٱلَّذِينَ","tl":"wa-alladhina"},{"ar":"هُمۡ","tl":"hum"},{"ar":"لِلزَّكَوٰةِ","tl":"lilzzakati"},{"ar":"فَٰعِلُونَ","tl":"fa'iluna"}]},"5":{"id":"023005","word":[{"ar":"وَٱلَّذِينَ","tl":"wa-alladhina"},{"ar":"هُمۡ","tl":"hum"},{"ar":"لِفُرُوجِهِمۡ","tl":"lifurujihim"},{"ar":"حَٰفِظُونَ","tl":"hafizuna"}]},"6":{"id":"023006","word":[{"ar":"إِلَّا","tl":"illa"},{"ar":"عَلَىٰٓ","tl":"ala"},{"ar":"أَزۡوَٰجِهِمۡ","tl":"azwajihim"},{"ar":"أَوۡ","tl":"aw"},{"ar":"مَا","tl":"ma"},{"ar":"مَلَكَتۡ","tl":"malakat"},{"ar":"أَيۡمَٰنُهُمۡ","tl":"aymanuhum"},{"ar":"فَإِنَّهُمۡ","tl":"fa-innahum"},{"ar":"غَيۡرُ","tl":"ghayru"},{"ar":"مَلُومِينَ","tl":"malumina"}]},"7":{"id":"023007","word":[{"ar":"فَمَنِ","tl":"famani"},{"ar":"ٱبۡتَغَىٰ","tl":"ib'tagha"},{"ar":"وَرَآءَ","tl":"waraa"},{"ar":"ذَٰلِكَ","tl":"dhalika"},{"ar":"فَأُوْلَـٰٓئِكَ","tl":"fa-ulaika"},{"ar":"هُمُ","tl":"humu"},{"ar":"ٱلۡعَادُونَ","tl":"al-'aduna"}]},"8":{"id":"023008","word":[{"ar":"وَٱلَّذِينَ","tl":"wa-alladhina"},{"ar":"هُمۡ","tl":"hum"},{"ar":"لِأَمَٰنَٰتِهِمۡ","tl":"li-amanatihim"},{"ar":"وَعَهۡدِهِمۡ","tl":"wa'ahdihim"},{"ar":"رَٰعُونَ","tl":"ra'una"}]},"9":{"id":"023009","word":[{"ar":"وَٱلَّذِينَ","tl":"wa-alladhina"},{"ar":"هُمۡ","tl":"hum"},{"ar":"عَلَىٰ","tl":"ala"},{"ar":"صَلَوَٰتِهِمۡ","tl":"salawatihim"},{"ar":"يُحَافِظُونَ","tl":"yuhafizuna"}]},"10":{"id":"023010","word":[{"ar":"أُوْلَـٰٓئِكَ","tl":"ulaika"},{"ar":"هُمُ","tl":"humu"},{"ar":"ٱلۡوَٰرِثُونَ","tl":"al-warithuna"}]},"11":{"id":"023011","word":[{"ar":"ٱلَّذِينَ","tl":"alladhina"},{"ar":"يَرِثُونَ","tl":"yarithuna"},{"ar":"ٱلۡفِرۡدَوۡسَ","tl":"al-fir'dawsa"},{"ar":"هُمۡ","tl":"hum"},{"ar":"فِيهَا","tl":"fiha"},{"ar":"خَٰلِدُونَ","tl":"khaliduna"}]},"12":{"id":"023012","word":[{"ar":"وَلَقَدۡ","tl":"walaqad"},{"ar":"خَلَقۡنَا","tl":"khalaqna"},{"ar":"ٱلۡإِنسَٰنَ","tl":"al-insana"},{"ar":"مِن","tl":"min"},{"ar":"سُلَٰلَةٖ","tl":"sulalatin"},{"ar":"مِّن","tl":"min"},{"ar":"طِينٖ","tl":"tinin"}]},"13":{"id":"023013","word":[{"ar":"ثُمَّ","tl":"thumma"},{"ar":"جَعَلۡنَٰهُ","tl":"ja'alnahu"},{"ar":"نُطۡفَةٗ","tl":"nut'fatan"},{"ar":"فِي","tl":"fi"},{"ar":"قَرَارٖ","tl":"qararin"},{"ar":"مَّكِينٖ","tl":"makinin"}]},"14":{"id":"023014","word":[{"ar":"ثُمَّ","tl":"thumma"},{"ar":"خَلَقۡنَا","tl":"khalaqna"},{"ar":"ٱلنُّطۡفَةَ","tl":"al-nut'fata"},{"ar":"عَلَقَةٗ","tl":"alaqatan"},{"ar":"فَخَلَقۡنَا","tl":"fakhalaqna"},{"ar":"ٱلۡعَلَقَةَ","tl":"al-'alaqata"},{"ar":"مُضۡغَةٗ","tl":"mud'ghatan"},{"ar":"فَخَلَقۡنَا","tl":"fakhalaqna"},{"ar":"ٱلۡمُضۡغَةَ","tl":"al-mud'ghata"},{"ar":"عِظَٰمٗا","tl":"izaman"},{"ar":"فَكَسَوۡنَا","tl":"fakasawna"},{"ar":"ٱلۡعِظَٰمَ","tl":"al-'izama"},{"ar":"لَحۡمٗا","tl":"lahman"},{"ar":"ثُمَّ","tl":"thumma"},{"ar":"أَنشَأۡنَٰهُ","tl":"anshanahu"},{"ar":"خَلۡقًا","tl":"khalqan"},{"ar":"ءَاخَرَۚ","tl":"akhara"},{"ar":"فَتَبَارَكَ","tl":"fatabaraka"},{"ar":"ٱللَّهُ","tl":"al-lahu"},{"ar":"أَحۡسَنُ","tl":"ahsanu"},{"ar":"ٱلۡخَٰلِقِينَ","tl":"al-khaliqina"}]},"15":{"id":"023015","word":[{"ar":"ثُمَّ","tl":"thumma"},{"ar":"إِنَّكُم","tl":"innakum"},{"ar":"بَعۡدَ","tl":"ba'da"},{"ar":"ذَٰلِكَ","tl":"dhalika"},{"ar":"لَمَيِّتُونَ","tl":"lamayyituna"}]},"16":{"id":"023016","word":[{"ar":"ثُمَّ","tl":"thumma"},{"ar":"إِنَّكُمۡ","tl":"innakum"},{"ar":"يَوۡمَ","tl":"yawma"},{"ar":"ٱلۡقِيَٰمَةِ","tl":"al-qiyamati"},{"ar":"تُبۡعَثُونَ","tl":"tub'athuna"}]},"17":{"id":"023017","word":[{"ar":"وَلَقَدۡ","tl":"walaqad"},{"ar":"خَلَقۡنَا","tl":"khalaqna"},{"ar":"فَوۡقَكُمۡ","tl":"fawqakum"},{"ar":"سَبۡعَ","tl":"sab'a"},{"ar":"طَرَآئِقَ","tl":"taraiqa"},{"ar":"وَمَا","tl":"wama"},{"ar":"كُنَّا","tl":"kunna"},{"ar":"عَنِ","tl":"ani"},{"ar":"ٱلۡخَلۡقِ","tl":"al-khalqi"},{"ar":"غَٰفِلِينَ","tl":"ghafilina"}]},"18":{"id":"023018","word":[{"ar":"وَأَنزَلۡنَا","tl":"wa-anzalna"},{"ar":"مِنَ","tl":"mina"},{"ar":"ٱلسَّمَآءِ","tl":"al-samai"},{"ar":"مَآءَۢ","tl":"maan"},{"ar":"بِقَدَرٖ","tl":"biqadarin"},{"ar":"فَأَسۡكَنَّـٰهُ","tl":"fa-askannahu"},{"ar":"فِي","tl":"fi"},{"ar":"ٱلۡأَرۡضِۖ","tl":"al-ardi"},{"ar":"وَإِنَّا","tl":"wa-inna"},{"ar":"عَلَىٰ","tl":"ala"},{"ar":"ذَهَابِۭ","tl":"dhahabin"},{"ar":"بِهِۦ","tl":"bihi"},{"ar":"لَقَٰدِرُونَ","tl":"laqadiruna"}]},"19":{"id":"023019","word":[{"ar":"فَأَنشَأۡنَا","tl":"fa-anshana"},{"ar":"لَكُم","tl":"lakum"},{"ar":"بِهِۦ","tl":"bihi"},{"ar":"جَنَّـٰتٖ","tl":"jannatin"},{"ar":"مِّن","tl":"min"},{"ar":"نَّخِيلٖ","tl":"nakhilin"},{"ar":"وَأَعۡنَٰبٖ","tl":"wa-a'nabin"},{"ar":"لَّكُمۡ","tl":"lakum"},{"ar":"فِيهَا","tl":"fiha"},{"ar":"فَوَٰكِهُ","tl":"fawakihu"},{"ar":"كَثِيرَةٞ","tl":"kathiratun"},{"ar":"وَمِنۡهَا","tl":"wamin'ha"},{"ar":"تَأۡكُلُونَ","tl":"takuluna"}]},"20":{"id":"023020","word":[{"ar":"وَشَجَرَةٗ","tl":"washajaratan"},{"ar":"تَخۡرُجُ","tl":"takhruju"},{"ar":"مِن","tl":"min"},{"ar":"طُورِ","tl":"turi"},{"ar":"سَيۡنَآءَ","tl":"saynaa"},{"ar":"تَنۢبُتُ","tl":"tanbutu"},{"ar":"بِٱلدُّهۡنِ","tl":"bil-duh'ni"},{"ar":"وَصِبۡغٖ","tl":"wasib'ghin"},{"ar":"لِّلۡأٓكِلِينَ","tl":"lil'akilina"}]},"21":{"id":"023021","word":[{"ar":"وَإِنَّ","tl":"wa-inna"},{"ar":"لَكُمۡ","tl":"lakum"},{"ar":"فِي","tl":"fi"},{"ar":"ٱلۡأَنۡعَٰمِ","tl":"al-an'ami"},{"ar":"لَعِبۡرَةٗۖ","tl":"la'ib'ratan"},{"ar":"نُّسۡقِيكُم","tl":"nus'qikum"},{"ar":"مِّمَّا","tl":"mimma"},{"ar":"فِي","tl":"fi"},{"ar":"بُطُونِهَا","tl":"butuniha"},{"ar":"وَلَكُمۡ","tl":"walakum"},{"ar":"فِيهَا","tl":"fiha"},{"ar":"مَنَٰفِعُ","tl":"manafi'u"},{"ar":"كَثِيرَةٞ","tl":"kathiratun"},{"ar":"وَمِنۡهَا","tl":"wamin'ha"},{"ar":"تَأۡكُلُونَ","tl":"takuluna"}]},"22":{"id":"023022","word":[{"ar":"وَعَلَيۡهَا","tl":"wa'alayha"},{"ar":"وَعَلَى","tl":"wa'ala"},{"ar":"ٱلۡفُلۡكِ","tl":"al-ful'ki"},{"ar":"تُحۡمَلُونَ","tl":"tuh'maluna"}]},"23":{"id":"023023","word":[{"ar":"وَلَقَدۡ","tl":"walaqad"},{"ar":"أَرۡسَلۡنَا","tl":"arsalna"},{"ar":"نُوحًا","tl":"nuhan"},{"ar":"إِلَىٰ","tl":"ila"},{"ar":"قَوۡمِهِۦ","tl":"qawmihi"},{"ar":"فَقَالَ","tl":"faqala"},{"ar":"يَٰقَوۡمِ","tl":"yaqawmi"},{"ar":"ٱعۡبُدُواْ","tl":"u'budu"},{"ar":"ٱللَّهَ","tl":"al-laha"},{"ar":"مَا","tl":"ma"},{"ar":"لَكُم","tl":"lakum"},{"ar":"مِّنۡ","tl":"min"},{"ar":"إِلَٰهٍ","tl":"ilahin"},{"ar":"غَيۡرُهُۥٓۚ","tl":"ghayruhu"},{"ar":"أَفَلَا","tl":"afala"},{"ar":"تَتَّقُونَ","tl":"tattaquna"}]},"24":{"id":"023024","word":[{"ar":"فَقَالَ","tl":"faqala"},{"ar":"ٱلۡمَلَؤُاْ","tl":"al-mala-u"},{"ar":"ٱلَّذِينَ","tl":"alladhina"},{"ar":"كَفَرُواْ","tl":"kafaru"},{"ar":"مِن","tl":"min"},{"ar":"قَوۡمِهِۦ","tl":"qawmihi"},{"ar":"مَا","tl":"ma"},{"ar":"هَٰذَآ","tl":"hadha"},{"ar":"إِلَّا","tl":"illa"},{"ar":"بَشَرٞ","tl":"basharun"},{"ar":"مِّثۡلُكُمۡ","tl":"mith'lukum"},{"ar":"يُرِيدُ","tl":"yuridu"},{"ar":"أَن","tl":"an"},{"ar":"يَتَفَضَّلَ","tl":"yatafaddala"},{"ar":"عَلَيۡكُمۡ","tl":"alaykum"},{"ar":"وَلَوۡ","tl":"walaw"},{"ar":"شَآءَ","tl":"shaa"},{"ar":"ٱللَّهُ","tl":"al-lahu"},{"ar":"لَأَنزَلَ","tl":"la-anzala"},{"ar":"مَلَـٰٓئِكَةٗ","tl":"malaikatan"},{"ar":"مَّا","tl":"ma"},{"ar":"سَمِعۡنَا","tl":"sami'na"},{"ar":"بِهَٰذَا","tl":"bihadha"},{"ar":"فِيٓ","tl":"fi"},{"ar":"ءَابَآئِنَا","tl":"abaina"},{"ar":"ٱلۡأَوَّلِينَ","tl":"al-awalina"}]},"25":{"id":"023025","word":[{"ar":"إِنۡ","tl":"in"},{"ar":"هُوَ","tl":"huwa"},{"ar":"إِلَّا","tl":"illa"},{"ar":"رَجُلُۢ","tl":"rajulun"},{"ar":"بِهِۦ","tl":"bihi"},{"ar":"جِنَّةٞ","tl":"jinnatun"},{"ar":"فَتَرَبَّصُواْ","tl":"fatarabbasu"},{"ar":"بِهِۦ","tl":"bihi"},{"ar":"حَتَّىٰ","tl":"hatta"},{"ar":"حِينٖ","tl":"hinin"}]},"26":{"id":"023026","word":[{"ar":"قَالَ","tl":"qala"},{"ar":"رَبِّ","tl":"rabbi"},{"ar":"ٱنصُرۡنِي","tl":"unsur'ni"},{"ar":"بِمَا","tl":"bima"},{"ar":"كَذَّبُونِ","tl":"kadhabuni"}]},"27":{"id":"023027","word":[{"ar":"فَأَوۡحَيۡنَآ","tl":"fa-awhayna"},{"ar":"إِلَيۡهِ","tl":"ilayhi"},{"ar":"أَنِ","tl":"ani"},{"ar":"ٱصۡنَعِ","tl":"is'na'i"},{"ar":"ٱلۡفُلۡكَ","tl":"al-ful'ka"},{"ar":"بِأَعۡيُنِنَا","tl":"bi-a'yunina"},{"ar":"وَوَحۡيِنَا","tl":"wawahyina"},{"ar":"فَإِذَا","tl":"fa-idha"},{"ar":"جَآءَ","tl":"jaa"},{"ar":"أَمۡرُنَا","tl":"amruna"},{"ar":"وَفَارَ","tl":"wafara"},{"ar":"ٱلتَّنُّورُ","tl":"al-tanuru"},{"ar":"فَٱسۡلُكۡ","tl":"fa-us'luk"},{"ar":"فِيهَا","tl":"fiha"},{"ar":"مِن","tl":"min"},{"ar":"كُلّٖ","tl":"kullin"},{"ar":"زَوۡجَيۡنِ","tl":"zawjayni"},{"ar":"ٱثۡنَيۡنِ","tl":"ith'nayni"},{"ar":"وَأَهۡلَكَ","tl":"wa-ahlaka"},{"ar":"إِلَّا","tl":"illa"},{"ar":"مَن","tl":"man"},{"ar":"سَبَقَ","tl":"sabaqa"},{"ar":"عَلَيۡهِ","tl":"alayhi"},{"ar":"ٱلۡقَوۡلُ","tl":"al-qawlu"},{"ar":"مِنۡهُمۡۖ","tl":"min'hum"},{"ar":"وَلَا","tl":"wala"},{"ar":"تُخَٰطِبۡنِي","tl":"tukhatib'ni"},{"ar":"فِي","tl":"fi"},{"ar":"ٱلَّذِينَ","tl":"alladhina"},{"ar":"ظَلَمُوٓاْ","tl":"zalamu"},{"ar":"إِنَّهُم","tl":"innahum"},{"ar":"مُّغۡرَقُونَ","tl":"mugh'raquna"}]},"28":{"id":"023028","word":[{"ar":"فَإِذَا","tl":"fa-idha"},{"ar":"ٱسۡتَوَيۡتَ","tl":"is'tawayta"},{"ar":"أَنتَ","tl":"anta"},{"ar":"وَمَن","tl":"waman"},{"ar":"مَّعَكَ","tl":"ma'aka"},{"ar":"عَلَى","tl":"ala"},{"ar":"ٱلۡفُلۡكِ","tl":"al-ful'ki"},{"ar":"فَقُلِ","tl":"faquli"},{"ar":"ٱلۡحَمۡدُ","tl":"al-hamdu"},{"ar":"لِلَّهِ","tl":"lillahi"},{"ar":"ٱلَّذِي","tl":"alladhi"},{"ar":"نَجَّىٰنَا","tl":"najjana"},{"ar":"مِنَ","tl":"mina"},{"ar":"ٱلۡقَوۡمِ","tl":"al-qawmi"},{"ar":"ٱلظَّـٰلِمِينَ","tl":"al-zalimina"}]},"29":{"id":"023029","word":[{"ar":"وَقُل","tl":"waqul"},{"ar":"رَّبِّ","tl":"rabbi"},{"ar":"أَنزِلۡنِي","tl":"anzil'ni"},{"ar":"مُنزَلٗا","tl":"munzalan"},{"ar":"مُّبَارَكٗا","tl":"mubarakan"},{"ar":"وَأَنتَ","tl":"wa-anta"},{"ar":"خَيۡرُ","tl":"khayru"},{"ar":"ٱلۡمُنزِلِينَ","tl":"al-munzilina"}]},"30":{"id":"023030","word":[{"ar":"إِنَّ","tl":"inna"},{"ar":"فِي","tl":"fi"},{"ar":"ذَٰلِكَ","tl":"dhalika"},{"ar":"لَأٓيَٰتٖ","tl":"laayatin"},{"ar":"وَإِن","tl":"wa-in"},{"ar":"كُنَّا","tl":"kunna"},{"ar":"لَمُبۡتَلِينَ","tl":"lamub'talina"}]},"31":{"id":"023031","word":[{"ar":"ثُمَّ","tl":"thumma"},{"ar":"أَنشَأۡنَا","tl":"anshana"},{"ar":"مِنۢ","tl":"min"},{"ar":"بَعۡدِهِمۡ","tl":"ba'dihim"},{"ar":"قَرۡنًا","tl":"qarnan"},{"ar":"ءَاخَرِينَ","tl":"akharina"}]},"32":{"id":"023032","word":[{"ar":"فَأَرۡسَلۡنَا","tl":"fa-arsalna"},{"ar":"فِيهِمۡ","tl":"fihim"},{"ar":"رَسُولٗا","tl":"rasulan"},{"ar":"مِّنۡهُمۡ","tl":"min'hum"},{"ar":"أَنِ","tl":"ani"},{"ar":"ٱعۡبُدُواْ","tl":"u'budu"},{"ar":"ٱللَّهَ","tl":"al-laha"},{"ar":"مَا","tl":"ma"},{"ar":"لَكُم","tl":"lakum"},{"ar":"مِّنۡ","tl":"min"},{"ar":"إِلَٰهٍ","tl":"ilahin"},{"ar":"غَيۡرُهُۥٓۚ","tl":"ghayruhu"},{"ar":"أَفَلَا","tl":"afala"},{"ar":"تَتَّقُونَ","tl":"tattaquna"}]},"33":{"id":"023033","word":[{"ar":"وَقَالَ","tl":"waqala"},{"ar":"ٱلۡمَلَأُ","tl":"al-mala-u"},{"ar":"مِن","tl":"min"},{"ar":"قَوۡمِهِ","tl":"qawmihi"},{"ar":"ٱلَّذِينَ","tl":"alladhina"},{"ar":"كَفَرُواْ","tl":"kafaru"},{"ar":"وَكَذَّبُواْ","tl":"wakadhabu"},{"ar":"بِلِقَآءِ","tl":"biliqai"},{"ar":"ٱلۡأٓخِرَةِ","tl":"al-akhirati"},{"ar":"وَأَتۡرَفۡنَٰهُمۡ","tl":"wa-atrafnahum"},{"ar":"فِي","tl":"fi"},{"ar":"ٱلۡحَيَوٰةِ","tl":"al-hayati"},{"ar":"ٱلدُّنۡيَا","tl":"al-dun'ya"},{"ar":"مَا","tl":"ma"},{"ar":"هَٰذَآ","tl":"hadha"},{"ar":"إِلَّا","tl":"illa"},{"ar":"بَشَرٞ","tl":"basharun"},{"ar":"مِّثۡلُكُمۡ","tl":"mith'lukum"},{"ar":"يَأۡكُلُ","tl":"yakulu"},{"ar":"مِمَّا","tl":"mimma"},{"ar":"تَأۡكُلُونَ","tl":"takuluna"},{"ar":"مِنۡهُ","tl":"min'hu"},{"ar":"وَيَشۡرَبُ","tl":"wayashrabu"},{"ar":"مِمَّا","tl":"mimma"},{"ar":"تَشۡرَبُونَ","tl":"tashrabuna"}]},"34":{"id":"023034","word":[{"ar":"وَلَئِنۡ","tl":"wala-in"},{"ar":"أَطَعۡتُم","tl":"ata'tum"},{"ar":"بَشَرٗا","tl":"basharan"},{"ar":"مِّثۡلَكُمۡ","tl":"mith'lakum"},{"ar":"إِنَّكُمۡ","tl":"innakum"},{"ar":"إِذٗا","tl":"idhan"},{"ar":"لَّخَٰسِرُونَ","tl":"lakhasiruna"}]},"35":{"id":"023035","word":[{"ar":"أَيَعِدُكُمۡ","tl":"aya'idukum"},{"ar":"أَنَّكُمۡ","tl":"annakum"},{"ar":"إِذَا","tl":"idha"},{"ar":"مِتُّمۡ","tl":"mittum"},{"ar":"وَكُنتُمۡ","tl":"wakuntum"},{"ar":"تُرَابٗا","tl":"turaban"},{"ar":"وَعِظَٰمًا","tl":"wa'izaman"},{"ar":"أَنَّكُم","tl":"annakum"},{"ar":"مُّخۡرَجُونَ","tl":"mukh'rajuna"}]},"36":{"id":"023036","word":[{"ar":"۞هَيۡهَاتَ","tl":"hayhata"},{"ar":"هَيۡهَاتَ","tl":"hayhata"},{"ar":"لِمَا","tl":"lima"},{"ar":"تُوعَدُونَ","tl":"tu'aduna"}]},"37":{"id":"023037","word":[{"ar":"إِنۡ","tl":"in"},{"ar":"هِيَ","tl":"hiya"},{"ar":"إِلَّا","tl":"illa"},{"ar":"حَيَاتُنَا","tl":"hayatuna"},{"ar":"ٱلدُّنۡيَا","tl":"al-dun'ya"},{"ar":"نَمُوتُ","tl":"namutu"},{"ar":"وَنَحۡيَا","tl":"wanahya"},{"ar":"وَمَا","tl":"wama"},{"ar":"نَحۡنُ","tl":"nahnu"},{"ar":"بِمَبۡعُوثِينَ","tl":"bimab'uthina"}]},"38":{"id":"023038","word":[{"ar":"إِنۡ","tl":"in"},{"ar":"هُوَ","tl":"huwa"},{"ar":"إِلَّا","tl":"illa"},{"ar":"رَجُلٌ","tl":"rajulun"},{"ar":"ٱفۡتَرَىٰ","tl":"if'tara"},{"ar":"عَلَى","tl":"ala"},{"ar":"ٱللَّهِ","tl":"al-lahi"},{"ar":"كَذِبٗا","tl":"kadhiban"},{"ar":"وَمَا","tl":"wama"},{"ar":"نَحۡنُ","tl":"nahnu"},{"ar":"لَهُۥ","tl":"lahu"},{"ar":"بِمُؤۡمِنِينَ","tl":"bimu'minina"}]},"39":{"id":"023039","word":[{"ar":"قَالَ","tl":"qala"},{"ar":"رَبِّ","tl":"rabbi"},{"ar":"ٱنصُرۡنِي","tl":"unsur'ni"},{"ar":"بِمَا","tl":"bima"},{"ar":"كَذَّبُونِ","tl":"kadhabuni"}]},"40":{"id":"023040","word":[{"ar":"قَالَ","tl":"qala"},{"ar":"عَمَّا","tl":"amma"},{"ar":"قَلِيلٖ","tl":"qalilin"},{"ar":"لَّيُصۡبِحُنَّ","tl":"layus'bihunna"},{"ar":"نَٰدِمِينَ","tl":"nadimina"}]},"41":{"id":"023041","word":[{"ar":"فَأَخَذَتۡهُمُ","tl":"fa-akhadhathumu"},{"ar":"ٱلصَّيۡحَةُ","tl":"al-sayhatu"},{"ar":"بِٱلۡحَقِّ","tl":"bil-haqi"},{"ar":"فَجَعَلۡنَٰهُمۡ","tl":"faja'alnahum"},{"ar":"غُثَآءٗۚ","tl":"ghuthaan"},{"ar":"فَبُعۡدٗا","tl":"fabu'dan"},{"ar":"لِّلۡقَوۡمِ","tl":"lil'qawmi"},{"ar":"ٱلظَّـٰلِمِينَ","tl":"al-zalimina"}]},"42":{"id":"023042","word":[{"ar":"ثُمَّ","tl":"thumma"},{"ar":"أَنشَأۡنَا","tl":"anshana"},{"ar":"مِنۢ","tl":"min"},{"ar":"بَعۡدِهِمۡ","tl":"ba'dihim"},{"ar":"قُرُونًا","tl":"qurunan"},{"ar":"ءَاخَرِينَ","tl":"akharina"}]},"43":{"id":"023043","word":[{"ar":"مَا","tl":"ma"},{"ar":"تَسۡبِقُ","tl":"tasbiqu"},{"ar":"مِنۡ","tl":"min"},{"ar":"أُمَّةٍ","tl":"ummatin"},{"ar":"أَجَلَهَا","tl":"ajalaha"},{"ar":"وَمَا","tl":"wama"},{"ar":"يَسۡتَـٔۡخِرُونَ","tl":"yastakhiruna"}]},"44":{"id":"023044","word":[{"ar":"ثُمَّ","tl":"thumma"},{"ar":"أَرۡسَلۡنَا","tl":"arsalna"},{"ar":"رُسُلَنَا","tl":"rusulana"},{"ar":"تَتۡرَاۖ","tl":"tatra"},{"ar":"كُلَّ","tl":"kulla"},{"ar":"مَا","tl":"ma"},{"ar":"جَآءَ","tl":"jaa"},{"ar":"أُمَّةٗ","tl":"ummatan"},{"ar":"رَّسُولُهَا","tl":"rasuluha"},{"ar":"كَذَّبُوهُۖ","tl":"kadhabuhu"},{"ar":"فَأَتۡبَعۡنَا","tl":"fa-atba'na"},{"ar":"بَعۡضَهُم","tl":"ba'dahum"},{"ar":"بَعۡضٗا","tl":"ba'dan"},{"ar":"وَجَعَلۡنَٰهُمۡ","tl":"waja'alnahum"},{"ar":"أَحَادِيثَۚ","tl":"ahaditha"},{"ar":"فَبُعۡدٗا","tl":"fabu'dan"},{"ar":"لِّقَوۡمٖ","tl":"liqawmin"},{"ar":"لَّا","tl":"la"},{"ar":"يُؤۡمِنُونَ","tl":"yu'minuna"}]},"45":{"id":"023045","word":[{"ar":"ثُمَّ","tl":"thumma"},{"ar":"أَرۡسَلۡنَا","tl":"arsalna"},{"ar":"مُوسَىٰ","tl":"musa"},{"ar":"وَأَخَاهُ","tl":"wa-akhahu"},{"ar":"هَٰرُونَ","tl":"haruna"},{"ar":"بِـَٔايَٰتِنَا","tl":"biayatina"},{"ar":"وَسُلۡطَٰنٖ","tl":"wasul'tanin"},{"ar":"مُّبِينٍ","tl":"mubinin"}]},"46":{"id":"023046","word":[{"ar":"إِلَىٰ","tl":"ila"},{"ar":"فِرۡعَوۡنَ","tl":"fir'awna"},{"ar":"وَمَلَإِيْهِۦ","tl":"wamala-ihi"},{"ar":"فَٱسۡتَكۡبَرُواْ","tl":"fa-is'takbaru"},{"ar":"وَكَانُواْ","tl":"wakanu"},{"ar":"قَوۡمًا","tl":"qawman"},{"ar":"عَالِينَ","tl":"alina"}]},"47":{"id":"023047","word":[{"ar":"فَقَالُوٓاْ","tl":"faqalu"},{"ar":"أَنُؤۡمِنُ","tl":"anu'minu"},{"ar":"لِبَشَرَيۡنِ","tl":"libasharayni"},{"ar":"مِثۡلِنَا","tl":"mith'lina"},{"ar":"وَقَوۡمُهُمَا","tl":"waqawmuhuma"},{"ar":"لَنَا","tl":"lana"},{"ar":"عَٰبِدُونَ","tl":"abiduna"}]},"48":{"id":"023048","word":[{"ar":"فَكَذَّبُوهُمَا","tl":"fakadhabuhuma"},{"ar":"فَكَانُواْ","tl":"fakanu"},{"ar":"مِنَ","tl":"mina"},{"ar":"ٱلۡمُهۡلَكِينَ","tl":"al-muh'lakina"}]},"49":{"id":"023049","word":[{"ar":"وَلَقَدۡ","tl":"walaqad"},{"ar":"ءَاتَيۡنَا","tl":"atayna"},{"ar":"مُوسَى","tl":"musa"},{"ar":"ٱلۡكِتَٰبَ","tl":"al-kitaba"},{"ar":"لَعَلَّهُمۡ","tl":"la'allahum"},{"ar":"يَهۡتَدُونَ","tl":"yahtaduna"}]},"50":{"id":"023050","word":[{"ar":"وَجَعَلۡنَا","tl":"waja'alna"},{"ar":"ٱبۡنَ","tl":"ib'na"},{"ar":"مَرۡيَمَ","tl":"maryama"},{"ar":"وَأُمَّهُۥٓ","tl":"wa-ummahu"},{"ar":"ءَايَةٗ","tl":"ayatan"},{"ar":"وَءَاوَيۡنَٰهُمَآ","tl":"waawaynahuma"},{"ar":"إِلَىٰ","tl":"ila"},{"ar":"رَبۡوَةٖ","tl":"rabwatin"},{"ar":"ذَاتِ","tl":"dhati"},{"ar":"قَرَارٖ","tl":"qararin"},{"ar":"وَمَعِينٖ","tl":"wama'inin"}]},"51":{"id":"023051","word":[{"ar":"يَـٰٓأَيُّهَا","tl":"yaayyuha"},{"ar":"ٱلرُّسُلُ","tl":"al-rusulu"},{"ar":"كُلُواْ","tl":"kulu"},{"ar":"مِنَ","tl":"mina"},{"ar":"ٱلطَّيِّبَٰتِ","tl":"al-tayibati"},{"ar":"وَٱعۡمَلُواْ","tl":"wa-i'malu"},{"ar":"صَٰلِحًاۖ","tl":"salihan"},{"ar":"إِنِّي","tl":"inni"},{"ar":"بِمَا","tl":"bima"},{"ar":"تَعۡمَلُونَ","tl":"ta'maluna"},{"ar":"عَلِيمٞ","tl":"alimun"}]},"52":{"id":"023052","word":[{"ar":"وَإِنَّ","tl":"wa-inna"},{"ar":"هَٰذِهِۦٓ","tl":"hadhihi"},{"ar":"أُمَّتُكُمۡ","tl":"ummatukum"},{"ar":"أُمَّةٗ","tl":"ummatan"},{"ar":"وَٰحِدَةٗ","tl":"wahidatan"},{"ar":"وَأَنَا۠","tl":"wa-ana"},{"ar":"رَبُّكُمۡ","tl":"rabbukum"},{"ar":"فَٱتَّقُونِ","tl":"fa-ittaquni"}]},"53":{"id":"023053","word":[{"ar":"فَتَقَطَّعُوٓاْ","tl":"fataqatta'u"},{"ar":"أَمۡرَهُم","tl":"amrahum"},{"ar":"بَيۡنَهُمۡ","tl":"baynahum"},{"ar":"زُبُرٗاۖ","tl":"zuburan"},{"ar":"كُلُّ","tl":"kullu"},{"ar":"حِزۡبِۭ","tl":"hiz'bin"},{"ar":"بِمَا","tl":"bima"},{"ar":"لَدَيۡهِمۡ","tl":"ladayhim"},{"ar":"فَرِحُونَ","tl":"farihuna"}]},"54":{"id":"023054","word":[{"ar":"فَذَرۡهُمۡ","tl":"fadharhum"},{"ar":"فِي","tl":"fi"},{"ar":"غَمۡرَتِهِمۡ","tl":"ghamratihim"},{"ar":"حَتَّىٰ","tl":"hatta"},{"ar":"حِينٍ","tl":"hinin"}]},"55":{"id":"023055","word":[{"ar":"أَيَحۡسَبُونَ","tl":"ayahsabuna"},{"ar":"أَنَّمَا","tl":"annama"},{"ar":"نُمِدُّهُم","tl":"numidduhum"},{"ar":"بِهِۦ","tl":"bihi"},{"ar":"مِن","tl":"min"},{"ar":"مَّالٖ","tl":"malin"},{"ar":"وَبَنِينَ","tl":"wabanina"}]},"56":{"id":"023056","word":[{"ar":"نُسَارِعُ","tl":"nusari'u"},{"ar":"لَهُمۡ","tl":"lahum"},{"ar":"فِي","tl":"fi"},{"ar":"ٱلۡخَيۡرَٰتِۚ","tl":"al-khayrati"},{"ar":"بَل","tl":"bal"},{"ar":"لَّا","tl":"la"},{"ar":"يَشۡعُرُونَ","tl":"yash'uruna"}]},"57":{"id":"023057","word":[{"ar":"إِنَّ","tl":"inna"},{"ar":"ٱلَّذِينَ","tl":"alladhina"},{"ar":"هُم","tl":"hum"},{"ar":"مِّنۡ","tl":"min"},{"ar":"خَشۡيَةِ","tl":"khashyati"},{"ar":"رَبِّهِم","tl":"rabbihim"},{"ar":"مُّشۡفِقُونَ","tl":"mush'fiquna"}]},"58":{"id":"023058","word":[{"ar":"وَٱلَّذِينَ","tl":"wa-alladhina"},{"ar":"هُم","tl":"hum"},{"ar":"بِـَٔايَٰتِ","tl":"biayati"},{"ar":"رَبِّهِمۡ","tl":"rabbihim"},{"ar":"يُؤۡمِنُونَ","tl":"yu'minuna"}]},"59":{"id":"023059","word":[{"ar":"وَٱلَّذِينَ","tl":"wa-alladhina"},{"ar":"هُم","tl":"hum"},{"ar":"بِرَبِّهِمۡ","tl":"birabbihim"},{"ar":"لَا","tl":"la"},{"ar":"يُشۡرِكُونَ","tl":"yush'rikuna"}]},"60":{"id":"023060","word":[{"ar":"وَٱلَّذِينَ","tl":"wa-alladhina"},{"ar":"يُؤۡتُونَ","tl":"yu'tuna"},{"ar":"مَآ","tl":"ma"},{"ar":"ءَاتَواْ","tl":"ataw"},{"ar":"وَّقُلُوبُهُمۡ","tl":"waqulubuhum"},{"ar":"وَجِلَةٌ","tl":"wajilatun"},{"ar":"أَنَّهُمۡ","tl":"annahum"},{"ar":"إِلَىٰ","tl":"ila"},{"ar":"رَبِّهِمۡ","tl":"rabbihim"},{"ar":"رَٰجِعُونَ","tl":"raji'una"}]},"61":{"id":"023061","word":[{"ar":"أُوْلَـٰٓئِكَ","tl":"ulaika"},{"ar":"يُسَٰرِعُونَ","tl":"yusari'una"},{"ar":"فِي","tl":"fi"},{"ar":"ٱلۡخَيۡرَٰتِ","tl":"al-khayrati"},{"ar":"وَهُمۡ","tl":"wahum"},{"ar":"لَهَا","tl":"laha"},{"ar":"سَٰبِقُونَ","tl":"sabiquna"}]},"62":{"id":"023062","word":[{"ar":"وَلَا","tl":"wala"},{"ar":"نُكَلِّفُ","tl":"nukallifu"},{"ar":"نَفۡسًا","tl":"nafsan"},{"ar":"إِلَّا","tl":"illa"},{"ar":"وُسۡعَهَاۚ","tl":"wus'aha"},{"ar":"وَلَدَيۡنَا","tl":"waladayna"},{"ar":"كِتَٰبٞ","tl":"kitabun"},{"ar":"يَنطِقُ","tl":"yantiqu"},{"ar":"بِٱلۡحَقِّ","tl":"bil-haqi"},{"ar":"وَهُمۡ","tl":"wahum"},{"ar":"لَا","tl":"la"},{"ar":"يُظۡلَمُونَ","tl":"yuz'lamuna"}]},"63":{"id":"023063","word":[{"ar":"بَلۡ","tl":"bal"},{"ar":"قُلُوبُهُمۡ","tl":"qulubuhum"},{"ar":"فِي","tl":"fi"},{"ar":"غَمۡرَةٖ","tl":"ghamratin"},{"ar":"مِّنۡ","tl":"min"},{"ar":"هَٰذَا","tl":"hadha"},{"ar":"وَلَهُمۡ","tl":"walahum"},{"ar":"أَعۡمَٰلٞ","tl":"a'malun"},{"ar":"مِّن","tl":"min"},{"ar":"دُونِ","tl":"duni"},{"ar":"ذَٰلِكَ","tl":"dhalika"},{"ar":"هُمۡ","tl":"hum"},{"ar":"لَهَا","tl":"laha"},{"ar":"عَٰمِلُونَ","tl":"amiluna"}]},"64":{"id":"023064","word":[{"ar":"حَتَّىٰٓ","tl":"hatta"},{"ar":"إِذَآ","tl":"idha"},{"ar":"أَخَذۡنَا","tl":"akhadhna"},{"ar":"مُتۡرَفِيهِم","tl":"mut'rafihim"},{"ar":"بِٱلۡعَذَابِ","tl":"bil-'adhabi"},{"ar":"إِذَا","tl":"idha"},{"ar":"هُمۡ","tl":"hum"},{"ar":"يَجۡـَٔرُونَ","tl":"yajaruna"}]},"65":{"id":"023065","word":[{"ar":"لَا","tl":"la"},{"ar":"تَجۡـَٔرُواْ","tl":"tajaru"},{"ar":"ٱلۡيَوۡمَۖ","tl":"al-yawma"},{"ar":"إِنَّكُم","tl":"innakum"},{"ar":"مِّنَّا","tl":"minna"},{"ar":"لَا","tl":"la"},{"ar":"تُنصَرُونَ","tl":"tunsaruna"}]},"66":{"id":"023066","word":[{"ar":"قَدۡ","tl":"qad"},{"ar":"كَانَتۡ","tl":"kanat"},{"ar":"ءَايَٰتِي","tl":"ayati"},{"ar":"تُتۡلَىٰ","tl":"tut'la"},{"ar":"عَلَيۡكُمۡ","tl":"alaykum"},{"ar":"فَكُنتُمۡ","tl":"fakuntum"},{"ar":"عَلَىٰٓ","tl":"ala"},{"ar":"أَعۡقَٰبِكُمۡ","tl":"a'qabikum"},{"ar":"تَنكِصُونَ","tl":"tankisuna"}]},"67":{"id":"023067","word":[{"ar":"مُسۡتَكۡبِرِينَ","tl":"mus'takbirina"},{"ar":"بِهِۦ","tl":"bihi"},{"ar":"سَٰمِرٗا","tl":"samiran"},{"ar":"تَهۡجُرُونَ","tl":"tahjuruna"}]},"68":{"id":"023068","word":[{"ar":"أَفَلَمۡ","tl":"afalam"},{"ar":"يَدَّبَّرُواْ","tl":"yaddabbaru"},{"ar":"ٱلۡقَوۡلَ","tl":"al-qawla"},{"ar":"أَمۡ","tl":"am"},{"ar":"جَآءَهُم","tl":"jaahum"},{"ar":"مَّا","tl":"ma"},{"ar":"لَمۡ","tl":"lam"},{"ar":"يَأۡتِ","tl":"yati"},{"ar":"ءَابَآءَهُمُ","tl":"abaahumu"},{"ar":"ٱلۡأَوَّلِينَ","tl":"al-awalina"}]},"69":{"id":"023069","word":[{"ar":"أَمۡ","tl":"am"},{"ar":"لَمۡ","tl":"lam"},{"ar":"يَعۡرِفُواْ","tl":"ya'rifu"},{"ar":"رَسُولَهُمۡ","tl":"rasulahum"},{"ar":"فَهُمۡ","tl":"fahum"},{"ar":"لَهُۥ","tl":"lahu"},{"ar":"مُنكِرُونَ","tl":"munkiruna"}]},"70":{"id":"023070","word":[{"ar":"أَمۡ","tl":"am"},{"ar":"يَقُولُونَ","tl":"yaquluna"},{"ar":"بِهِۦ","tl":"bihi"},{"ar":"جِنَّةُۢۚ","tl":"jinnatun"},{"ar":"بَلۡ","tl":"bal"},{"ar":"جَآءَهُم","tl":"jaahum"},{"ar":"بِٱلۡحَقِّ","tl":"bil-haqi"},{"ar":"وَأَكۡثَرُهُمۡ","tl":"wa-aktharuhum"},{"ar":"لِلۡحَقِّ","tl":"lil'haqqi"},{"ar":"كَٰرِهُونَ","tl":"karihuna"}]},"71":{"id":"023071","word":[{"ar":"وَلَوِ","tl":"walawi"},{"ar":"ٱتَّبَعَ","tl":"ittaba'a"},{"ar":"ٱلۡحَقُّ","tl":"al-haqu"},{"ar":"أَهۡوَآءَهُمۡ","tl":"ahwaahum"},{"ar":"لَفَسَدَتِ","tl":"lafasadati"},{"ar":"ٱلسَّمَٰوَٰتُ","tl":"al-samawatu"},{"ar":"وَٱلۡأَرۡضُ","tl":"wal-ardu"},{"ar":"وَمَن","tl":"waman"},{"ar":"فِيهِنَّۚ","tl":"fihinna"},{"ar":"بَلۡ","tl":"bal"},{"ar":"أَتَيۡنَٰهُم","tl":"ataynahum"},{"ar":"بِذِكۡرِهِمۡ","tl":"bidhik'rihim"},{"ar":"فَهُمۡ","tl":"fahum"},{"ar":"عَن","tl":"an"},{"ar":"ذِكۡرِهِم","tl":"dhik'rihim"},{"ar":"مُّعۡرِضُونَ","tl":"mu'riduna"}]},"72":{"id":"023072","word":[{"ar":"أَمۡ","tl":"am"},{"ar":"تَسۡـَٔلُهُمۡ","tl":"tasaluhum"},{"ar":"خَرۡجٗا","tl":"kharjan"},{"ar":"فَخَرَاجُ","tl":"fakharaju"},{"ar":"رَبِّكَ","tl":"rabbika"},{"ar":"خَيۡرٞۖ","tl":"khayrun"},{"ar":"وَهُوَ","tl":"wahuwa"},{"ar":"خَيۡرُ","tl":"khayru"},{"ar":"ٱلرَّـٰزِقِينَ","tl":"al-raziqina"}]},"73":{"id":"023073","word":[{"ar":"وَإِنَّكَ","tl":"wa-innaka"},{"ar":"لَتَدۡعُوهُمۡ","tl":"latad'uhum"},{"ar":"إِلَىٰ","tl":"ila"},{"ar":"صِرَٰطٖ","tl":"siratin"},{"ar":"مُّسۡتَقِيمٖ","tl":"mus'taqimin"}]},"74":{"id":"023074","word":[{"ar":"وَإِنَّ","tl":"wa-inna"},{"ar":"ٱلَّذِينَ","tl":"alladhina"},{"ar":"لَا","tl":"la"},{"ar":"يُؤۡمِنُونَ","tl":"yu'minuna"},{"ar":"بِٱلۡأٓخِرَةِ","tl":"bil-akhirati"},{"ar":"عَنِ","tl":"ani"},{"ar":"ٱلصِّرَٰطِ","tl":"al-sirati"},{"ar":"لَنَٰكِبُونَ","tl":"lanakibuna"}]},"75":{"id":"023075","word":[{"ar":"۞وَلَوۡ","tl":"walaw"},{"ar":"رَحِمۡنَٰهُمۡ","tl":"rahim'nahum"},{"ar":"وَكَشَفۡنَا","tl":"wakashafna"},{"ar":"مَا","tl":"ma"},{"ar":"بِهِم","tl":"bihim"},{"ar":"مِّن","tl":"min"},{"ar":"ضُرّٖ","tl":"durrin"},{"ar":"لَّلَجُّواْ","tl":"lalajju"},{"ar":"فِي","tl":"fi"},{"ar":"طُغۡيَٰنِهِمۡ","tl":"tugh'yanihim"},{"ar":"يَعۡمَهُونَ","tl":"ya'mahuna"}]},"76":{"id":"023076","word":[{"ar":"وَلَقَدۡ","tl":"walaqad"},{"ar":"أَخَذۡنَٰهُم","tl":"akhadhnahum"},{"ar":"بِٱلۡعَذَابِ","tl":"bil-'adhabi"},{"ar":"فَمَا","tl":"fama"},{"ar":"ٱسۡتَكَانُواْ","tl":"is'takanu"},{"ar":"لِرَبِّهِمۡ","tl":"lirabbihim"},{"ar":"وَمَا","tl":"wama"},{"ar":"يَتَضَرَّعُونَ","tl":"yatadarra'una"}]},"77":{"id":"023077","word":[{"ar":"حَتَّىٰٓ","tl":"hatta"},{"ar":"إِذَا","tl":"idha"},{"ar":"فَتَحۡنَا","tl":"fatahna"},{"ar":"عَلَيۡهِم","tl":"alayhim"},{"ar":"بَابٗا","tl":"baban"},{"ar":"ذَا","tl":"dha"},{"ar":"عَذَابٖ","tl":"adhabin"},{"ar":"شَدِيدٍ","tl":"shadidin"},{"ar":"إِذَا","tl":"idha"},{"ar":"هُمۡ","tl":"hum"},{"ar":"فِيهِ","tl":"fihi"},{"ar":"مُبۡلِسُونَ","tl":"mub'lisuna"}]},"78":{"id":"023078","word":[{"ar":"وَهُوَ","tl":"wahuwa"},{"ar":"ٱلَّذِيٓ","tl":"alladhi"},{"ar":"أَنشَأَ","tl":"ansha-a"},{"ar":"لَكُمُ","tl":"lakumu"},{"ar":"ٱلسَّمۡعَ","tl":"al-sam'a"},{"ar":"وَٱلۡأَبۡصَٰرَ","tl":"wal-absara"},{"ar":"وَٱلۡأَفۡـِٔدَةَۚ","tl":"wal-afidata"},{"ar":"قَلِيلٗا","tl":"qalilan"},{"ar":"مَّا","tl":"ma"},{"ar":"تَشۡكُرُونَ","tl":"tashkuruna"}]},"79":{"id":"023079","word":[{"ar":"وَهُوَ","tl":"wahuwa"},{"ar":"ٱلَّذِي","tl":"alladhi"},{"ar":"ذَرَأَكُمۡ","tl":"dhara-akum"},{"ar":"فِي","tl":"fi"},{"ar":"ٱلۡأَرۡضِ","tl":"al-ardi"},{"ar":"وَإِلَيۡهِ","tl":"wa-ilayhi"},{"ar":"تُحۡشَرُونَ","tl":"tuh'sharuna"}]},"80":{"id":"023080","word":[{"ar":"وَهُوَ","tl":"wahuwa"},{"ar":"ٱلَّذِي","tl":"alladhi"},{"ar":"يُحۡيِۦ","tl":"yuh'yi"},{"ar":"وَيُمِيتُ","tl":"wayumitu"},{"ar":"وَلَهُ","tl":"walahu"},{"ar":"ٱخۡتِلَٰفُ","tl":"ikh'tilafu"},{"ar":"ٱلَّيۡلِ","tl":"al-layli"},{"ar":"وَٱلنَّهَارِۚ","tl":"wal-nahari"},{"ar":"أَفَلَا","tl":"afala"},{"ar":"تَعۡقِلُونَ","tl":"ta'qiluna"}]},"81":{"id":"023081","word":[{"ar":"بَلۡ","tl":"bal"},{"ar":"قَالُواْ","tl":"qalu"},{"ar":"مِثۡلَ","tl":"mith'la"},{"ar":"مَا","tl":"ma"},{"ar":"قَالَ","tl":"qala"},{"ar":"ٱلۡأَوَّلُونَ","tl":"al-awaluna"}]},"82":{"id":"023082","word":[{"ar":"قَالُوٓاْ","tl":"qalu"},{"ar":"أَءِذَا","tl":"a-idha"},{"ar":"مِتۡنَا","tl":"mit'na"},{"ar":"وَكُنَّا","tl":"wakunna"},{"ar":"تُرَابٗا","tl":"turaban"},{"ar":"وَعِظَٰمًا","tl":"wa'izaman"},{"ar":"أَءِنَّا","tl":"a-inna"},{"ar":"لَمَبۡعُوثُونَ","tl":"lamab'uthuna"}]},"83":{"id":"023083","word":[{"ar":"لَقَدۡ","tl":"laqad"},{"ar":"وُعِدۡنَا","tl":"wu'id'na"},{"ar":"نَحۡنُ","tl":"nahnu"},{"ar":"وَءَابَآؤُنَا","tl":"waabauna"},{"ar":"هَٰذَا","tl":"hadha"},{"ar":"مِن","tl":"min"},{"ar":"قَبۡلُ","tl":"qablu"},{"ar":"إِنۡ","tl":"in"},{"ar":"هَٰذَآ","tl":"hadha"},{"ar":"إِلَّآ","tl":"illa"},{"ar":"أَسَٰطِيرُ","tl":"asatiru"},{"ar":"ٱلۡأَوَّلِينَ","tl":"al-awalina"}]},"84":{"id":"023084","word":[{"ar":"قُل","tl":"qul"},{"ar":"لِّمَنِ","tl":"limani"},{"ar":"ٱلۡأَرۡضُ","tl":"al-ardu"},{"ar":"وَمَن","tl":"waman"},{"ar":"فِيهَآ","tl":"fiha"},{"ar":"إِن","tl":"in"},{"ar":"كُنتُمۡ","tl":"kuntum"},{"ar":"تَعۡلَمُونَ","tl":"ta'lamuna"}]},"85":{"id":"023085","word":[{"ar":"سَيَقُولُونَ","tl":"sayaquluna"},{"ar":"لِلَّهِۚ","tl":"lillahi"},{"ar":"قُلۡ","tl":"qul"},{"ar":"أَفَلَا","tl":"afala"},{"ar":"تَذَكَّرُونَ","tl":"tadhakkaruna"}]},"86":{"id":"023086","word":[{"ar":"قُلۡ","tl":"qul"},{"ar":"مَن","tl":"man"},{"ar":"رَّبُّ","tl":"rabbu"},{"ar":"ٱلسَّمَٰوَٰتِ","tl":"al-samawati"},{"ar":"ٱلسَّبۡعِ","tl":"al-sab'i"},{"ar":"وَرَبُّ","tl":"warabbu"},{"ar":"ٱلۡعَرۡشِ","tl":"al-'arshi"},{"ar":"ٱلۡعَظِيمِ","tl":"al-'azimi"}]},"87":{"id":"023087","word":[{"ar":"سَيَقُولُونَ","tl":"sayaquluna"},{"ar":"لِلَّهِۚ","tl":"lillahi"},{"ar":"قُلۡ","tl":"qul"},{"ar":"أَفَلَا","tl":"afala"},{"ar":"تَتَّقُونَ","tl":"tattaquna"}]},"88":{"id":"023088","word":[{"ar":"قُلۡ","tl":"qul"},{"ar":"مَنۢ","tl":"man"},{"ar":"بِيَدِهِۦ","tl":"biyadihi"},{"ar":"مَلَكُوتُ","tl":"malakutu"},{"ar":"كُلِّ","tl":"kulli"},{"ar":"شَيۡءٖ","tl":"shayin"},{"ar":"وَهُوَ","tl":"wahuwa"},{"ar":"يُجِيرُ","tl":"yujiru"},{"ar":"وَلَا","tl":"wala"},{"ar":"يُجَارُ","tl":"yujaru"},{"ar":"عَلَيۡهِ","tl":"alayhi"},{"ar":"إِن","tl":"in"},{"ar":"كُنتُمۡ","tl":"kuntum"},{"ar":"تَعۡلَمُونَ","tl":"ta'lamuna"}]},"89":{"id":"023089","word":[{"ar":"سَيَقُولُونَ","tl":"sayaquluna"},{"ar":"لِلَّهِۚ","tl":"lillahi"},{"ar":"قُلۡ","tl":"qul"},{"ar":"فَأَنَّىٰ","tl":"fa-anna"},{"ar":"تُسۡحَرُونَ","tl":"tus'haruna"}]},"90":{"id":"023090","word":[{"ar":"بَلۡ","tl":"bal"},{"ar":"أَتَيۡنَٰهُم","tl":"ataynahum"},{"ar":"بِٱلۡحَقِّ","tl":"bil-haqi"},{"ar":"وَإِنَّهُمۡ","tl":"wa-innahum"},{"ar":"لَكَٰذِبُونَ","tl":"lakadhibuna"}]},"91":{"id":"023091","word":[{"ar":"مَا","tl":"ma"},{"ar":"ٱتَّخَذَ","tl":"ittakhadha"},{"ar":"ٱللَّهُ","tl":"al-lahu"},{"ar":"مِن","tl":"min"},{"ar":"وَلَدٖ","tl":"waladin"},{"ar":"وَمَا","tl":"wama"},{"ar":"كَانَ","tl":"kana"},{"ar":"مَعَهُۥ","tl":"ma'ahu"},{"ar":"مِنۡ","tl":"min"},{"ar":"إِلَٰهٍۚ","tl":"ilahin"},{"ar":"إِذٗا","tl":"idhan"},{"ar":"لَّذَهَبَ","tl":"ladhahaba"},{"ar":"كُلُّ","tl":"kullu"},{"ar":"إِلَٰهِۭ","tl":"ilahin"},{"ar":"بِمَا","tl":"bima"},{"ar":"خَلَقَ","tl":"khalaqa"},{"ar":"وَلَعَلَا","tl":"wala'ala"},{"ar":"بَعۡضُهُمۡ","tl":"ba'duhum"},{"ar":"عَلَىٰ","tl":"ala"},{"ar":"بَعۡضٖۚ","tl":"ba'din"},{"ar":"سُبۡحَٰنَ","tl":"sub'hana"},{"ar":"ٱللَّهِ","tl":"al-lahi"},{"ar":"عَمَّا","tl":"amma"},{"ar":"يَصِفُونَ","tl":"yasifuna"}]},"92":{"id":"023092","word":[{"ar":"عَٰلِمِ","tl":"alimi"},{"ar":"ٱلۡغَيۡبِ","tl":"al-ghaybi"},{"ar":"وَٱلشَّهَٰدَةِ","tl":"wal-shahadati"},{"ar":"فَتَعَٰلَىٰ","tl":"fata'ala"},{"ar":"عَمَّا","tl":"amma"},{"ar":"يُشۡرِكُونَ","tl":"yush'rikuna"}]},"93":{"id":"023093","word":[{"ar":"قُل","tl":"qul"},{"ar":"رَّبِّ","tl":"rabbi"},{"ar":"إِمَّا","tl":"imma"},{"ar":"تُرِيَنِّي","tl":"turiyanni"},{"ar":"مَا","tl":"ma"},{"ar":"يُوعَدُونَ","tl":"yu'aduna"}]},"94":{"id":"023094","word":[{"ar":"رَبِّ","tl":"rabbi"},{"ar":"فَلَا","tl":"fala"},{"ar":"تَجۡعَلۡنِي","tl":"taj'alni"},{"ar":"فِي","tl":"fi"},{"ar":"ٱلۡقَوۡمِ","tl":"al-qawmi"},{"ar":"ٱلظَّـٰلِمِينَ","tl":"al-zalimina"}]},"95":{"id":"023095","word":[{"ar":"وَإِنَّا","tl":"wa-inna"},{"ar":"عَلَىٰٓ","tl":"ala"},{"ar":"أَن","tl":"an"},{"ar":"نُّرِيَكَ","tl":"nuriyaka"},{"ar":"مَا","tl":"ma"},{"ar":"نَعِدُهُمۡ","tl":"na'iduhum"},{"ar":"لَقَٰدِرُونَ","tl":"laqadiruna"}]},"96":{"id":"023096","word":[{"ar":"ٱدۡفَعۡ","tl":"id'fa'"},{"ar":"بِٱلَّتِي","tl":"bi-allati"},{"ar":"هِيَ","tl":"hiya"},{"ar":"أَحۡسَنُ","tl":"ahsanu"},{"ar":"ٱلسَّيِّئَةَۚ","tl":"al-sayi-ata"},{"ar":"نَحۡنُ","tl":"nahnu"},{"ar":"أَعۡلَمُ","tl":"a'lamu"},{"ar":"بِمَا","tl":"bima"},{"ar":"يَصِفُونَ","tl":"yasifuna"}]},"97":{"id":"023097","word":[{"ar":"وَقُل","tl":"waqul"},{"ar":"رَّبِّ","tl":"rabbi"},{"ar":"أَعُوذُ","tl":"a'udhu"},{"ar":"بِكَ","tl":"bika"},{"ar":"مِنۡ","tl":"min"},{"ar":"هَمَزَٰتِ","tl":"hamazati"},{"ar":"ٱلشَّيَٰطِينِ","tl":"al-shayatini"}]},"98":{"id":"023098","word":[{"ar":"وَأَعُوذُ","tl":"wa-a'udhu"},{"ar":"بِكَ","tl":"bika"},{"ar":"رَبِّ","tl":"rabbi"},{"ar":"أَن","tl":"an"},{"ar":"يَحۡضُرُونِ","tl":"yahduruni"}]},"99":{"id":"023099","word":[{"ar":"حَتَّىٰٓ","tl":"hatta"},{"ar":"إِذَا","tl":"idha"},{"ar":"جَآءَ","tl":"jaa"},{"ar":"أَحَدَهُمُ","tl":"ahadahumu"},{"ar":"ٱلۡمَوۡتُ","tl":"al-mawtu"},{"ar":"قَالَ","tl":"qala"},{"ar":"رَبِّ","tl":"rabbi"},{"ar":"ٱرۡجِعُونِ","tl":"ir'ji'uni"}]},"100":{"id":"023100","word":[{"ar":"لَعَلِّيٓ","tl":"la'alli"},{"ar":"أَعۡمَلُ","tl":"a'malu"},{"ar":"صَٰلِحٗا","tl":"salihan"},{"ar":"فِيمَا","tl":"fima"},{"ar":"تَرَكۡتُۚ","tl":"taraktu"},{"ar":"كَلَّآۚ","tl":"kalla"},{"ar":"إِنَّهَا","tl":"innaha"},{"ar":"كَلِمَةٌ","tl":"kalimatun"},{"ar":"هُوَ","tl":"huwa"},{"ar":"قَآئِلُهَاۖ","tl":"qailuha"},{"ar":"وَمِن","tl":"wamin"},{"ar":"وَرَآئِهِم","tl":"waraihim"},{"ar":"بَرۡزَخٌ","tl":"barzakhun"},{"ar":"إِلَىٰ","tl":"ila"},{"ar":"يَوۡمِ","tl":"yawmi"},{"ar":"يُبۡعَثُونَ","tl":"yub'athuna"}]},"101":{"id":"023101","word":[{"ar":"فَإِذَا","tl":"fa-idha"},{"ar":"نُفِخَ","tl":"nufikha"},{"ar":"فِي","tl":"fi"},{"ar":"ٱلصُّورِ","tl":"al-suri"},{"ar":"فَلَآ","tl":"fala"},{"ar":"أَنسَابَ","tl":"ansaba"},{"ar":"بَيۡنَهُمۡ","tl":"baynahum"},{"ar":"يَوۡمَئِذٖ","tl":"yawma-idhin"},{"ar":"وَلَا","tl":"wala"},{"ar":"يَتَسَآءَلُونَ","tl":"yatasaaluna"}]},"102":{"id":"023102","word":[{"ar":"فَمَن","tl":"faman"},{"ar":"ثَقُلَتۡ","tl":"thaqulat"},{"ar":"مَوَٰزِينُهُۥ","tl":"mawazinuhu"},{"ar":"فَأُوْلَـٰٓئِكَ","tl":"fa-ulaika"},{"ar":"هُمُ","tl":"humu"},{"ar":"ٱلۡمُفۡلِحُونَ","tl":"al-muf'lihuna"}]},"103":{"id":"023103","word":[{"ar":"وَمَنۡ","tl":"waman"},{"ar":"خَفَّتۡ","tl":"khaffat"},{"ar":"مَوَٰزِينُهُۥ","tl":"mawazinuhu"},{"ar":"فَأُوْلَـٰٓئِكَ","tl":"fa-ulaika"},{"ar":"ٱلَّذِينَ","tl":"alladhina"},{"ar":"خَسِرُوٓاْ","tl":"khasiru"},{"ar":"أَنفُسَهُمۡ","tl":"anfusahum"},{"ar":"فِي","tl":"fi"},{"ar":"جَهَنَّمَ","tl":"jahannama"},{"ar":"خَٰلِدُونَ","tl":"khaliduna"}]},"104":{"id":"023104","word":[{"ar":"تَلۡفَحُ","tl":"talfahu"},{"ar":"وُجُوهَهُمُ","tl":"wujuhahumu"},{"ar":"ٱلنَّارُ","tl":"al-naru"},{"ar":"وَهُمۡ","tl":"wahum"},{"ar":"فِيهَا","tl":"fiha"},{"ar":"كَٰلِحُونَ","tl":"kalihuna"}]},"105":{"id":"023105","word":[{"ar":"أَلَمۡ","tl":"alam"},{"ar":"تَكُنۡ","tl":"takun"},{"ar":"ءَايَٰتِي","tl":"ayati"},{"ar":"تُتۡلَىٰ","tl":"tut'la"},{"ar":"عَلَيۡكُمۡ","tl":"alaykum"},{"ar":"فَكُنتُم","tl":"fakuntum"},{"ar":"بِهَا","tl":"biha"},{"ar":"تُكَذِّبُونَ","tl":"tukadhibuna"}]},"106":{"id":"023106","word":[{"ar":"قَالُواْ","tl":"qalu"},{"ar":"رَبَّنَا","tl":"rabbana"},{"ar":"غَلَبَتۡ","tl":"ghalabat"},{"ar":"عَلَيۡنَا","tl":"alayna"},{"ar":"شِقۡوَتُنَا","tl":"shiq'watuna"},{"ar":"وَكُنَّا","tl":"wakunna"},{"ar":"قَوۡمٗا","tl":"qawman"},{"ar":"ضَآلِّينَ","tl":"dallina"}]},"107":{"id":"023107","word":[{"ar":"رَبَّنَآ","tl":"rabbana"},{"ar":"أَخۡرِجۡنَا","tl":"akhrij'na"},{"ar":"مِنۡهَا","tl":"min'ha"},{"ar":"فَإِنۡ","tl":"fa-in"},{"ar":"عُدۡنَا","tl":"ud'na"},{"ar":"فَإِنَّا","tl":"fa-inna"},{"ar":"ظَٰلِمُونَ","tl":"zalimuna"}]},"108":{"id":"023108","word":[{"ar":"قَالَ","tl":"qala"},{"ar":"ٱخۡسَـُٔواْ","tl":"ikh'sau"},{"ar":"فِيهَا","tl":"fiha"},{"ar":"وَلَا","tl":"wala"},{"ar":"تُكَلِّمُونِ","tl":"tukallimuni"}]},"109":{"id":"023109","word":[{"ar":"إِنَّهُۥ","tl":"innahu"},{"ar":"كَانَ","tl":"kana"},{"ar":"فَرِيقٞ","tl":"fariqun"},{"ar":"مِّنۡ","tl":"min"},{"ar":"عِبَادِي","tl":"ibadi"},{"ar":"يَقُولُونَ","tl":"yaquluna"},{"ar":"رَبَّنَآ","tl":"rabbana"},{"ar":"ءَامَنَّا","tl":"amanna"},{"ar":"فَٱغۡفِرۡ","tl":"fa-igh'fir"},{"ar":"لَنَا","tl":"lana"},{"ar":"وَٱرۡحَمۡنَا","tl":"wa-ir'hamna"},{"ar":"وَأَنتَ","tl":"wa-anta"},{"ar":"خَيۡرُ","tl":"khayru"},{"ar":"ٱلرَّـٰحِمِينَ","tl":"al-rahimina"}]},"110":{"id":"023110","word":[{"ar":"فَٱتَّخَذۡتُمُوهُمۡ","tl":"fa-ittakhadhtumuhum"},{"ar":"سِخۡرِيًّا","tl":"sikh'riyyan"},{"ar":"حَتَّىٰٓ","tl":"hatta"},{"ar":"أَنسَوۡكُمۡ","tl":"ansawkum"},{"ar":"ذِكۡرِي","tl":"dhik'ri"},{"ar":"وَكُنتُم","tl":"wakuntum"},{"ar":"مِّنۡهُمۡ","tl":"min'hum"},{"ar":"تَضۡحَكُونَ","tl":"tadhakuna"}]},"111":{"id":"023111","word":[{"ar":"إِنِّي","tl":"inni"},{"ar":"جَزَيۡتُهُمُ","tl":"jazaytuhumu"},{"ar":"ٱلۡيَوۡمَ","tl":"al-yawma"},{"ar":"بِمَا","tl":"bima"},{"ar":"صَبَرُوٓاْ","tl":"sabaru"},{"ar":"أَنَّهُمۡ","tl":"annahum"},{"ar":"هُمُ","tl":"humu"},{"ar":"ٱلۡفَآئِزُونَ","tl":"al-faizuna"}]},"112":{"id":"023112","word":[{"ar":"قَٰلَ","tl":"qala"},{"ar":"كَمۡ","tl":"kam"},{"ar":"لَبِثۡتُمۡ","tl":"labith'tum"},{"ar":"فِي","tl":"fi"},{"ar":"ٱلۡأَرۡضِ","tl":"al-ardi"},{"ar":"عَدَدَ","tl":"adada"},{"ar":"سِنِينَ","tl":"sinina"}]},"113":{"id":"023113","word":[{"ar":"قَالُواْ","tl":"qalu"},{"ar":"لَبِثۡنَا","tl":"labith'na"},{"ar":"يَوۡمًا","tl":"yawman"},{"ar":"أَوۡ","tl":"aw"},{"ar":"بَعۡضَ","tl":"ba'da"},{"ar":"يَوۡمٖ","tl":"yawmin"},{"ar":"فَسۡـَٔلِ","tl":"fasali"},{"ar":"ٱلۡعَآدِّينَ","tl":"al-'adina"}]},"114":{"id":"023114","word":[{"ar":"قَٰلَ","tl":"qala"},{"ar":"إِن","tl":"in"},{"ar":"لَّبِثۡتُمۡ","tl":"labith'tum"},{"ar":"إِلَّا","tl":"illa"},{"ar":"قَلِيلٗاۖ","tl":"qalilan"},{"ar":"لَّوۡ","tl":"law"},{"ar":"أَنَّكُمۡ","tl":"annakum"},{"ar":"كُنتُمۡ","tl":"kuntum"},{"ar":"تَعۡلَمُونَ","tl":"ta'lamuna"}]},"115":{"id":"023115","word":[{"ar":"أَفَحَسِبۡتُمۡ","tl":"afahasib'tum"},{"ar":"أَنَّمَا","tl":"annama"},{"ar":"خَلَقۡنَٰكُمۡ","tl":"khalaqnakum"},{"ar":"عَبَثٗا","tl":"abathan"},{"ar":"وَأَنَّكُمۡ","tl":"wa-annakum"},{"ar":"إِلَيۡنَا","tl":"ilayna"},{"ar":"لَا","tl":"la"},{"ar":"تُرۡجَعُونَ","tl":"tur'ja'una"}]},"116":{"id":"023116","word":[{"ar":"فَتَعَٰلَى","tl":"fata'ala"},{"ar":"ٱللَّهُ","tl":"al-lahu"},{"ar":"ٱلۡمَلِكُ","tl":"al-maliku"},{"ar":"ٱلۡحَقُّۖ","tl":"al-haqu"},{"ar":"لَآ","tl":"la"},{"ar":"إِلَٰهَ","tl":"ilaha"},{"ar":"إِلَّا","tl":"illa"},{"ar":"هُوَ","tl":"huwa"},{"ar":"رَبُّ","tl":"rabbu"},{"ar":"ٱلۡعَرۡشِ","tl":"al-'arshi"},{"ar":"ٱلۡكَرِيمِ","tl":"al-karimi"}]},"117":{"id":"023117","word":[{"ar":"وَمَن","tl":"waman"},{"ar":"يَدۡعُ","tl":"yad'u"},{"ar":"مَعَ","tl":"ma'a"},{"ar":"ٱللَّهِ","tl":"al-lahi"},{"ar":"إِلَٰهًا","tl":"ilahan"},{"ar":"ءَاخَرَ","tl":"akhara"},{"ar":"لَا","tl":"la"},{"ar":"بُرۡهَٰنَ","tl":"bur'hana"},{"ar":"لَهُۥ","tl":"lahu"},{"ar":"بِهِۦ","tl":"bihi"},{"ar":"فَإِنَّمَا","tl":"fa-innama"},{"ar":"حِسَابُهُۥ","tl":"hisabuhu"},{"ar":"عِندَ","tl":"inda"},{"ar":"رَبِّهِۦٓۚ","tl":"rabbihi"},{"ar":"إِنَّهُۥ","tl":"innahu"},{"ar":"لَا","tl":"la"},{"ar":"يُفۡلِحُ","tl":"yuf'lihu"},{"ar":"ٱلۡكَٰفِرُونَ","tl":"al-kafiruna"}]},"118":{"id":"023118","word":[{"ar":"وَقُل","tl":"waqul"},{"ar":"رَّبِّ","tl":"rabbi"},{"ar":"ٱغۡفِرۡ","tl":"igh'fir"},{"ar":"وَٱرۡحَمۡ","tl":"wa-ir'ham"},{"ar":"وَأَنتَ","tl":"wa-anta"},{"ar":"خَيۡرُ","tl":"khayru"},{"ar":"ٱلرَّـٰحِمِينَ","tl":"al-rahimina"}]}}
+{
+	"1": {
+		"id": "023001",
+		"word": [
+			{ "ar": "قَدۡ", "tl": "qad" },
+			{ "ar": "أَفۡلَحَ", "tl": "aflaha" },
+			{ "ar": "ٱلۡمُؤۡمِنُونَ", "tl": "al-mu'minuna" }
+		]
+	},
+	"2": {
+		"id": "023002",
+		"word": [
+			{ "ar": "ٱلَّذِينَ", "tl": "alladhina" },
+			{ "ar": "هُمۡ", "tl": "hum" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "صَلَاتِهِمۡ", "tl": "salatihim" },
+			{ "ar": "خَٰشِعُونَ", "tl": "khashi'una" }
+		]
+	},
+	"3": {
+		"id": "023003",
+		"word": [
+			{ "ar": "وَٱلَّذِينَ", "tl": "wa-alladhina" },
+			{ "ar": "هُمۡ", "tl": "hum" },
+			{ "ar": "عَنِ", "tl": "ani" },
+			{ "ar": "ٱللَّغۡوِ", "tl": "al-laghwi" },
+			{ "ar": "مُعۡرِضُونَ", "tl": "mu'riduna" }
+		]
+	},
+	"4": {
+		"id": "023004",
+		"word": [
+			{ "ar": "وَٱلَّذِينَ", "tl": "wa-alladhina" },
+			{ "ar": "هُمۡ", "tl": "hum" },
+			{ "ar": "لِلزَّكَوٰةِ", "tl": "lilzzakati" },
+			{ "ar": "فَٰعِلُونَ", "tl": "fa'iluna" }
+		]
+	},
+	"5": {
+		"id": "023005",
+		"word": [
+			{ "ar": "وَٱلَّذِينَ", "tl": "wa-alladhina" },
+			{ "ar": "هُمۡ", "tl": "hum" },
+			{ "ar": "لِفُرُوجِهِمۡ", "tl": "lifurujihim" },
+			{ "ar": "حَٰفِظُونَ", "tl": "hafizuna" }
+		]
+	},
+	"6": {
+		"id": "023006",
+		"word": [
+			{ "ar": "إِلَّا", "tl": "illa" },
+			{ "ar": "عَلَىٰٓ", "tl": "ala" },
+			{ "ar": "أَزۡوَٰجِهِمۡ", "tl": "azwajihim" },
+			{ "ar": "أَوۡ", "tl": "aw" },
+			{ "ar": "مَا", "tl": "ma" },
+			{ "ar": "مَلَكَتۡ", "tl": "malakat" },
+			{ "ar": "أَيۡمَٰنُهُمۡ", "tl": "aymanuhum" },
+			{ "ar": "فَإِنَّهُمۡ", "tl": "fa-innahum" },
+			{ "ar": "غَيۡرُ", "tl": "ghayru" },
+			{ "ar": "مَلُومِينَ", "tl": "malumina" }
+		]
+	},
+	"7": {
+		"id": "023007",
+		"word": [
+			{ "ar": "فَمَنِ", "tl": "famani" },
+			{ "ar": "ٱبۡتَغَىٰ", "tl": "ib'tagha" },
+			{ "ar": "وَرَآءَ", "tl": "waraa" },
+			{ "ar": "ذَٰلِكَ", "tl": "dhalika" },
+			{ "ar": "فَأُوْلَـٰٓئِكَ", "tl": "fa-ulaika" },
+			{ "ar": "هُمُ", "tl": "humu" },
+			{ "ar": "ٱلۡعَادُونَ", "tl": "al-'aduna" }
+		]
+	},
+	"8": {
+		"id": "023008",
+		"word": [
+			{ "ar": "وَٱلَّذِينَ", "tl": "wa-alladhina" },
+			{ "ar": "هُمۡ", "tl": "hum" },
+			{ "ar": "لِأَمَٰنَٰتِهِمۡ", "tl": "li-amanatihim" },
+			{ "ar": "وَعَهۡدِهِمۡ", "tl": "wa'ahdihim" },
+			{ "ar": "رَٰعُونَ", "tl": "ra'una" }
+		]
+	},
+	"9": {
+		"id": "023009",
+		"word": [
+			{ "ar": "وَٱلَّذِينَ", "tl": "wa-alladhina" },
+			{ "ar": "هُمۡ", "tl": "hum" },
+			{ "ar": "عَلَىٰ", "tl": "ala" },
+			{ "ar": "صَلَوَٰتِهِمۡ", "tl": "salawatihim" },
+			{ "ar": "يُحَافِظُونَ", "tl": "yuhafizuna" }
+		]
+	},
+	"10": {
+		"id": "023010",
+		"word": [
+			{ "ar": "أُوْلَـٰٓئِكَ", "tl": "ulaika" },
+			{ "ar": "هُمُ", "tl": "humu" },
+			{ "ar": "ٱلۡوَٰرِثُونَ", "tl": "al-warithuna" }
+		]
+	},
+	"11": {
+		"id": "023011",
+		"word": [
+			{ "ar": "ٱلَّذِينَ", "tl": "alladhina" },
+			{ "ar": "يَرِثُونَ", "tl": "yarithuna" },
+			{ "ar": "ٱلۡفِرۡدَوۡسَ", "tl": "al-fir'dawsa" },
+			{ "ar": "هُمۡ", "tl": "hum" },
+			{ "ar": "فِيهَا", "tl": "fiha" },
+			{ "ar": "خَٰلِدُونَ", "tl": "khaliduna" }
+		]
+	},
+	"12": {
+		"id": "023012",
+		"word": [
+			{ "ar": "وَلَقَدۡ", "tl": "walaqad" },
+			{ "ar": "خَلَقۡنَا", "tl": "khalaqna" },
+			{ "ar": "ٱلۡإِنسَٰنَ", "tl": "al-insana" },
+			{ "ar": "مِن", "tl": "min" },
+			{ "ar": "سُلَٰلَةٖ", "tl": "sulalatin" },
+			{ "ar": "مِّن", "tl": "min" },
+			{ "ar": "طِينٖ", "tl": "tinin" }
+		]
+	},
+	"13": {
+		"id": "023013",
+		"word": [
+			{ "ar": "ثُمَّ", "tl": "thumma" },
+			{ "ar": "جَعَلۡنَٰهُ", "tl": "ja'alnahu" },
+			{ "ar": "نُطۡفَةٗ", "tl": "nut'fatan" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "قَرَارٖ", "tl": "qararin" },
+			{ "ar": "مَّكِينٖ", "tl": "makinin" }
+		]
+	},
+	"14": {
+		"id": "023014",
+		"word": [
+			{ "ar": "ثُمَّ", "tl": "thumma" },
+			{ "ar": "خَلَقۡنَا", "tl": "khalaqna" },
+			{ "ar": "ٱلنُّطۡفَةَ", "tl": "al-nut'fata" },
+			{ "ar": "عَلَقَةٗ", "tl": "alaqatan" },
+			{ "ar": "فَخَلَقۡنَا", "tl": "fakhalaqna" },
+			{ "ar": "ٱلۡعَلَقَةَ", "tl": "al-'alaqata" },
+			{ "ar": "مُضۡغَةٗ", "tl": "mud'ghatan" },
+			{ "ar": "فَخَلَقۡنَا", "tl": "fakhalaqna" },
+			{ "ar": "ٱلۡمُضۡغَةَ", "tl": "al-mud'ghata" },
+			{ "ar": "عِظَٰمٗا", "tl": "izaman" },
+			{ "ar": "فَكَسَوۡنَا", "tl": "fakasawna" },
+			{ "ar": "ٱلۡعِظَٰمَ", "tl": "al-'izama" },
+			{ "ar": "لَحۡمٗا", "tl": "lahman" },
+			{ "ar": "ثُمَّ", "tl": "thumma" },
+			{ "ar": "أَنشَأۡنَٰهُ", "tl": "anshanahu" },
+			{ "ar": "خَلۡقًا", "tl": "khalqan" },
+			{ "ar": "ءَاخَرَۚ", "tl": "akhara" },
+			{ "ar": "فَتَبَارَكَ", "tl": "fatabaraka" },
+			{ "ar": "ٱللَّهُ", "tl": "al-lahu" },
+			{ "ar": "أَحۡسَنُ", "tl": "ahsanu" },
+			{ "ar": "ٱلۡخَٰلِقِينَ", "tl": "al-khaliqina" }
+		]
+	},
+	"15": {
+		"id": "023015",
+		"word": [
+			{ "ar": "ثُمَّ", "tl": "thumma" },
+			{ "ar": "إِنَّكُم", "tl": "innakum" },
+			{ "ar": "بَعۡدَ", "tl": "ba'da" },
+			{ "ar": "ذَٰلِكَ", "tl": "dhalika" },
+			{ "ar": "لَمَيِّتُونَ", "tl": "lamayyituna" }
+		]
+	},
+	"16": {
+		"id": "023016",
+		"word": [
+			{ "ar": "ثُمَّ", "tl": "thumma" },
+			{ "ar": "إِنَّكُمۡ", "tl": "innakum" },
+			{ "ar": "يَوۡمَ", "tl": "yawma" },
+			{ "ar": "ٱلۡقِيَٰمَةِ", "tl": "al-qiyamati" },
+			{ "ar": "تُبۡعَثُونَ", "tl": "tub'athuna" }
+		]
+	},
+	"17": {
+		"id": "023017",
+		"word": [
+			{ "ar": "وَلَقَدۡ", "tl": "walaqad" },
+			{ "ar": "خَلَقۡنَا", "tl": "khalaqna" },
+			{ "ar": "فَوۡقَكُمۡ", "tl": "fawqakum" },
+			{ "ar": "سَبۡعَ", "tl": "sab'a" },
+			{ "ar": "طَرَآئِقَ", "tl": "taraiqa" },
+			{ "ar": "وَمَا", "tl": "wama" },
+			{ "ar": "كُنَّا", "tl": "kunna" },
+			{ "ar": "عَنِ", "tl": "ani" },
+			{ "ar": "ٱلۡخَلۡقِ", "tl": "al-khalqi" },
+			{ "ar": "غَٰفِلِينَ", "tl": "ghafilina" }
+		]
+	},
+	"18": {
+		"id": "023018",
+		"word": [
+			{ "ar": "وَأَنزَلۡنَا", "tl": "wa-anzalna" },
+			{ "ar": "مِنَ", "tl": "mina" },
+			{ "ar": "ٱلسَّمَآءِ", "tl": "al-samai" },
+			{ "ar": "مَآءَۢ", "tl": "maan" },
+			{ "ar": "بِقَدَرٖ", "tl": "biqadarin" },
+			{ "ar": "فَأَسۡكَنَّـٰهُ", "tl": "fa-askannahu" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "ٱلۡأَرۡضِۖ", "tl": "al-ardi" },
+			{ "ar": "وَإِنَّا", "tl": "wa-inna" },
+			{ "ar": "عَلَىٰ", "tl": "ala" },
+			{ "ar": "ذَهَابِۭ", "tl": "dhahabin" },
+			{ "ar": "بِهِۦ", "tl": "bihi" },
+			{ "ar": "لَقَٰدِرُونَ", "tl": "laqadiruna" }
+		]
+	},
+	"19": {
+		"id": "023019",
+		"word": [
+			{ "ar": "فَأَنشَأۡنَا", "tl": "fa-anshana" },
+			{ "ar": "لَكُم", "tl": "lakum" },
+			{ "ar": "بِهِۦ", "tl": "bihi" },
+			{ "ar": "جَنَّـٰتٖ", "tl": "jannatin" },
+			{ "ar": "مِّن", "tl": "min" },
+			{ "ar": "نَّخِيلٖ", "tl": "nakhilin" },
+			{ "ar": "وَأَعۡنَٰبٖ", "tl": "wa-a'nabin" },
+			{ "ar": "لَّكُمۡ", "tl": "lakum" },
+			{ "ar": "فِيهَا", "tl": "fiha" },
+			{ "ar": "فَوَٰكِهُ", "tl": "fawakihu" },
+			{ "ar": "كَثِيرَةٞ", "tl": "kathiratun" },
+			{ "ar": "وَمِنۡهَا", "tl": "wamin'ha" },
+			{ "ar": "تَأۡكُلُونَ", "tl": "takuluna" }
+		]
+	},
+	"20": {
+		"id": "023020",
+		"word": [
+			{ "ar": "وَشَجَرَةٗ", "tl": "washajaratan" },
+			{ "ar": "تَخۡرُجُ", "tl": "takhruju" },
+			{ "ar": "مِن", "tl": "min" },
+			{ "ar": "طُورِ", "tl": "turi" },
+			{ "ar": "سَيۡنَآءَ", "tl": "saynaa" },
+			{ "ar": "تَنۢبُتُ", "tl": "tanbutu" },
+			{ "ar": "بِٱلدُّهۡنِ", "tl": "bil-duh'ni" },
+			{ "ar": "وَصِبۡغٖ", "tl": "wasib'ghin" },
+			{ "ar": "لِّلۡأٓكِلِينَ", "tl": "lil'akilina" }
+		]
+	},
+	"21": {
+		"id": "023021",
+		"word": [
+			{ "ar": "وَإِنَّ", "tl": "wa-inna" },
+			{ "ar": "لَكُمۡ", "tl": "lakum" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "ٱلۡأَنۡعَٰمِ", "tl": "al-an'ami" },
+			{ "ar": "لَعِبۡرَةٗۖ", "tl": "la'ib'ratan" },
+			{ "ar": "نُّسۡقِيكُم", "tl": "nus'qikum" },
+			{ "ar": "مِّمَّا", "tl": "mimma" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "بُطُونِهَا", "tl": "butuniha" },
+			{ "ar": "وَلَكُمۡ", "tl": "walakum" },
+			{ "ar": "فِيهَا", "tl": "fiha" },
+			{ "ar": "مَنَٰفِعُ", "tl": "manafi'u" },
+			{ "ar": "كَثِيرَةٞ", "tl": "kathiratun" },
+			{ "ar": "وَمِنۡهَا", "tl": "wamin'ha" },
+			{ "ar": "تَأۡكُلُونَ", "tl": "takuluna" }
+		]
+	},
+	"22": {
+		"id": "023022",
+		"word": [
+			{ "ar": "وَعَلَيۡهَا", "tl": "wa'alayha" },
+			{ "ar": "وَعَلَى", "tl": "wa'ala" },
+			{ "ar": "ٱلۡفُلۡكِ", "tl": "al-ful'ki" },
+			{ "ar": "تُحۡمَلُونَ", "tl": "tuh'maluna" }
+		]
+	},
+	"23": {
+		"id": "023023",
+		"word": [
+			{ "ar": "وَلَقَدۡ", "tl": "walaqad" },
+			{ "ar": "أَرۡسَلۡنَا", "tl": "arsalna" },
+			{ "ar": "نُوحًا", "tl": "nuhan" },
+			{ "ar": "إِلَىٰ", "tl": "ila" },
+			{ "ar": "قَوۡمِهِۦ", "tl": "qawmihi" },
+			{ "ar": "فَقَالَ", "tl": "faqala" },
+			{ "ar": "يَٰقَوۡمِ", "tl": "yaqawmi" },
+			{ "ar": "ٱعۡبُدُواْ", "tl": "u'budu" },
+			{ "ar": "ٱللَّهَ", "tl": "al-laha" },
+			{ "ar": "مَا", "tl": "ma" },
+			{ "ar": "لَكُم", "tl": "lakum" },
+			{ "ar": "مِّنۡ", "tl": "min" },
+			{ "ar": "إِلَٰهٍ", "tl": "ilahin" },
+			{ "ar": "غَيۡرُهُۥٓۚ", "tl": "ghayruhu" },
+			{ "ar": "أَفَلَا", "tl": "afala" },
+			{ "ar": "تَتَّقُونَ", "tl": "tattaquna" }
+		]
+	},
+	"24": {
+		"id": "023024",
+		"word": [
+			{ "ar": "فَقَالَ", "tl": "faqala" },
+			{ "ar": "ٱلۡمَلَؤُاْ", "tl": "al-mala-u" },
+			{ "ar": "ٱلَّذِينَ", "tl": "alladhina" },
+			{ "ar": "كَفَرُواْ", "tl": "kafaru" },
+			{ "ar": "مِن", "tl": "min" },
+			{ "ar": "قَوۡمِهِۦ", "tl": "qawmihi" },
+			{ "ar": "مَا", "tl": "ma" },
+			{ "ar": "هَٰذَآ", "tl": "hadha" },
+			{ "ar": "إِلَّا", "tl": "illa" },
+			{ "ar": "بَشَرٞ", "tl": "basharun" },
+			{ "ar": "مِّثۡلُكُمۡ", "tl": "mith'lukum" },
+			{ "ar": "يُرِيدُ", "tl": "yuridu" },
+			{ "ar": "أَن", "tl": "an" },
+			{ "ar": "يَتَفَضَّلَ", "tl": "yatafaddala" },
+			{ "ar": "عَلَيۡكُمۡ", "tl": "alaykum" },
+			{ "ar": "وَلَوۡ", "tl": "walaw" },
+			{ "ar": "شَآءَ", "tl": "shaa" },
+			{ "ar": "ٱللَّهُ", "tl": "al-lahu" },
+			{ "ar": "لَأَنزَلَ", "tl": "la-anzala" },
+			{ "ar": "مَلَـٰٓئِكَةٗ", "tl": "malaikatan" },
+			{ "ar": "مَّا", "tl": "ma" },
+			{ "ar": "سَمِعۡنَا", "tl": "sami'na" },
+			{ "ar": "بِهَٰذَا", "tl": "bihadha" },
+			{ "ar": "فِيٓ", "tl": "fi" },
+			{ "ar": "ءَابَآئِنَا", "tl": "abaina" },
+			{ "ar": "ٱلۡأَوَّلِينَ", "tl": "al-awalina" }
+		]
+	},
+	"25": {
+		"id": "023025",
+		"word": [
+			{ "ar": "إِنۡ", "tl": "in" },
+			{ "ar": "هُوَ", "tl": "huwa" },
+			{ "ar": "إِلَّا", "tl": "illa" },
+			{ "ar": "رَجُلُۢ", "tl": "rajulun" },
+			{ "ar": "بِهِۦ", "tl": "bihi" },
+			{ "ar": "جِنَّةٞ", "tl": "jinnatun" },
+			{ "ar": "فَتَرَبَّصُواْ", "tl": "fatarabbasu" },
+			{ "ar": "بِهِۦ", "tl": "bihi" },
+			{ "ar": "حَتَّىٰ", "tl": "hatta" },
+			{ "ar": "حِينٖ", "tl": "hinin" }
+		]
+	},
+	"26": {
+		"id": "023026",
+		"word": [
+			{ "ar": "قَالَ", "tl": "qala" },
+			{ "ar": "رَبِّ", "tl": "rabbi" },
+			{ "ar": "ٱنصُرۡنِي", "tl": "unsur'ni" },
+			{ "ar": "بِمَا", "tl": "bima" },
+			{ "ar": "كَذَّبُونِ", "tl": "kadhabuni" }
+		]
+	},
+	"27": {
+		"id": "023027",
+		"word": [
+			{ "ar": "فَأَوۡحَيۡنَآ", "tl": "fa-awhayna" },
+			{ "ar": "إِلَيۡهِ", "tl": "ilayhi" },
+			{ "ar": "أَنِ", "tl": "ani" },
+			{ "ar": "ٱصۡنَعِ", "tl": "is'na'i" },
+			{ "ar": "ٱلۡفُلۡكَ", "tl": "al-ful'ka" },
+			{ "ar": "بِأَعۡيُنِنَا", "tl": "bi-a'yunina" },
+			{ "ar": "وَوَحۡيِنَا", "tl": "wawahyina" },
+			{ "ar": "فَإِذَا", "tl": "fa-idha" },
+			{ "ar": "جَآءَ", "tl": "jaa" },
+			{ "ar": "أَمۡرُنَا", "tl": "amruna" },
+			{ "ar": "وَفَارَ", "tl": "wafara" },
+			{ "ar": "ٱلتَّنُّورُ", "tl": "al-tanuru" },
+			{ "ar": "فَٱسۡلُكۡ", "tl": "fa-us'luk" },
+			{ "ar": "فِيهَا", "tl": "fiha" },
+			{ "ar": "مِن", "tl": "min" },
+			{ "ar": "كُلّٖ", "tl": "kullin" },
+			{ "ar": "زَوۡجَيۡنِ", "tl": "zawjayni" },
+			{ "ar": "ٱثۡنَيۡنِ", "tl": "ith'nayni" },
+			{ "ar": "وَأَهۡلَكَ", "tl": "wa-ahlaka" },
+			{ "ar": "إِلَّا", "tl": "illa" },
+			{ "ar": "مَن", "tl": "man" },
+			{ "ar": "سَبَقَ", "tl": "sabaqa" },
+			{ "ar": "عَلَيۡهِ", "tl": "alayhi" },
+			{ "ar": "ٱلۡقَوۡلُ", "tl": "al-qawlu" },
+			{ "ar": "مِنۡهُمۡۖ", "tl": "min'hum" },
+			{ "ar": "وَلَا", "tl": "wala" },
+			{ "ar": "تُخَٰطِبۡنِي", "tl": "tukhatib'ni" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "ٱلَّذِينَ", "tl": "alladhina" },
+			{ "ar": "ظَلَمُوٓاْ", "tl": "zalamu" },
+			{ "ar": "إِنَّهُم", "tl": "innahum" },
+			{ "ar": "مُّغۡرَقُونَ", "tl": "mugh'raquna" }
+		]
+	},
+	"28": {
+		"id": "023028",
+		"word": [
+			{ "ar": "فَإِذَا", "tl": "fa-idha" },
+			{ "ar": "ٱسۡتَوَيۡتَ", "tl": "is'tawayta" },
+			{ "ar": "أَنتَ", "tl": "anta" },
+			{ "ar": "وَمَن", "tl": "waman" },
+			{ "ar": "مَّعَكَ", "tl": "ma'aka" },
+			{ "ar": "عَلَى", "tl": "ala" },
+			{ "ar": "ٱلۡفُلۡكِ", "tl": "al-ful'ki" },
+			{ "ar": "فَقُلِ", "tl": "faquli" },
+			{ "ar": "ٱلۡحَمۡدُ", "tl": "al-hamdu" },
+			{ "ar": "لِلَّهِ", "tl": "lillahi" },
+			{ "ar": "ٱلَّذِي", "tl": "alladhi" },
+			{ "ar": "نَجَّىٰنَا", "tl": "najjana" },
+			{ "ar": "مِنَ", "tl": "mina" },
+			{ "ar": "ٱلۡقَوۡمِ", "tl": "al-qawmi" },
+			{ "ar": "ٱلظَّـٰلِمِينَ", "tl": "al-zalimina" }
+		]
+	},
+	"29": {
+		"id": "023029",
+		"word": [
+			{ "ar": "وَقُل", "tl": "waqul" },
+			{ "ar": "رَّبِّ", "tl": "rabbi" },
+			{ "ar": "أَنزِلۡنِي", "tl": "anzil'ni" },
+			{ "ar": "مُنزَلٗا", "tl": "munzalan" },
+			{ "ar": "مُّبَارَكٗا", "tl": "mubarakan" },
+			{ "ar": "وَأَنتَ", "tl": "wa-anta" },
+			{ "ar": "خَيۡرُ", "tl": "khayru" },
+			{ "ar": "ٱلۡمُنزِلِينَ", "tl": "al-munzilina" }
+		]
+	},
+	"30": {
+		"id": "023030",
+		"word": [
+			{ "ar": "إِنَّ", "tl": "inna" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "ذَٰلِكَ", "tl": "dhalika" },
+			{ "ar": "لَأٓيَٰتٖ", "tl": "laayatin" },
+			{ "ar": "وَإِن", "tl": "wa-in" },
+			{ "ar": "كُنَّا", "tl": "kunna" },
+			{ "ar": "لَمُبۡتَلِينَ", "tl": "lamub'talina" }
+		]
+	},
+	"31": {
+		"id": "023031",
+		"word": [
+			{ "ar": "ثُمَّ", "tl": "thumma" },
+			{ "ar": "أَنشَأۡنَا", "tl": "anshana" },
+			{ "ar": "مِنۢ", "tl": "min" },
+			{ "ar": "بَعۡدِهِمۡ", "tl": "ba'dihim" },
+			{ "ar": "قَرۡنًا", "tl": "qarnan" },
+			{ "ar": "ءَاخَرِينَ", "tl": "akharina" }
+		]
+	},
+	"32": {
+		"id": "023032",
+		"word": [
+			{ "ar": "فَأَرۡسَلۡنَا", "tl": "fa-arsalna" },
+			{ "ar": "فِيهِمۡ", "tl": "fihim" },
+			{ "ar": "رَسُولٗا", "tl": "rasulan" },
+			{ "ar": "مِّنۡهُمۡ", "tl": "min'hum" },
+			{ "ar": "أَنِ", "tl": "ani" },
+			{ "ar": "ٱعۡبُدُواْ", "tl": "u'budu" },
+			{ "ar": "ٱللَّهَ", "tl": "al-laha" },
+			{ "ar": "مَا", "tl": "ma" },
+			{ "ar": "لَكُم", "tl": "lakum" },
+			{ "ar": "مِّنۡ", "tl": "min" },
+			{ "ar": "إِلَٰهٍ", "tl": "ilahin" },
+			{ "ar": "غَيۡرُهُۥٓۚ", "tl": "ghayruhu" },
+			{ "ar": "أَفَلَا", "tl": "afala" },
+			{ "ar": "تَتَّقُونَ", "tl": "tattaquna" }
+		]
+	},
+	"33": {
+		"id": "023033",
+		"word": [
+			{ "ar": "وَقَالَ", "tl": "waqala" },
+			{ "ar": "ٱلۡمَلَأُ", "tl": "al-mala-u" },
+			{ "ar": "مِن", "tl": "min" },
+			{ "ar": "قَوۡمِهِ", "tl": "qawmihi" },
+			{ "ar": "ٱلَّذِينَ", "tl": "alladhina" },
+			{ "ar": "كَفَرُواْ", "tl": "kafaru" },
+			{ "ar": "وَكَذَّبُواْ", "tl": "wakadhabu" },
+			{ "ar": "بِلِقَآءِ", "tl": "biliqai" },
+			{ "ar": "ٱلۡأٓخِرَةِ", "tl": "al-akhirati" },
+			{ "ar": "وَأَتۡرَفۡنَٰهُمۡ", "tl": "wa-atrafnahum" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "ٱلۡحَيَوٰةِ", "tl": "al-hayati" },
+			{ "ar": "ٱلدُّنۡيَا", "tl": "al-dun'ya" },
+			{ "ar": "مَا", "tl": "ma" },
+			{ "ar": "هَٰذَآ", "tl": "hadha" },
+			{ "ar": "إِلَّا", "tl": "illa" },
+			{ "ar": "بَشَرٞ", "tl": "basharun" },
+			{ "ar": "مِّثۡلُكُمۡ", "tl": "mith'lukum" },
+			{ "ar": "يَأۡكُلُ", "tl": "yakulu" },
+			{ "ar": "مِمَّا", "tl": "mimma" },
+			{ "ar": "تَأۡكُلُونَ", "tl": "takuluna" },
+			{ "ar": "مِنۡهُ", "tl": "min'hu" },
+			{ "ar": "وَيَشۡرَبُ", "tl": "wayashrabu" },
+			{ "ar": "مِمَّا", "tl": "mimma" },
+			{ "ar": "تَشۡرَبُونَ", "tl": "tashrabuna" }
+		]
+	},
+	"34": {
+		"id": "023034",
+		"word": [
+			{ "ar": "وَلَئِنۡ", "tl": "wala-in" },
+			{ "ar": "أَطَعۡتُم", "tl": "ata'tum" },
+			{ "ar": "بَشَرٗا", "tl": "basharan" },
+			{ "ar": "مِّثۡلَكُمۡ", "tl": "mith'lakum" },
+			{ "ar": "إِنَّكُمۡ", "tl": "innakum" },
+			{ "ar": "إِذٗا", "tl": "idhan" },
+			{ "ar": "لَّخَٰسِرُونَ", "tl": "lakhasiruna" }
+		]
+	},
+	"35": {
+		"id": "023035",
+		"word": [
+			{ "ar": "أَيَعِدُكُمۡ", "tl": "aya'idukum" },
+			{ "ar": "أَنَّكُمۡ", "tl": "annakum" },
+			{ "ar": "إِذَا", "tl": "idha" },
+			{ "ar": "مِتُّمۡ", "tl": "mittum" },
+			{ "ar": "وَكُنتُمۡ", "tl": "wakuntum" },
+			{ "ar": "تُرَابٗا", "tl": "turaban" },
+			{ "ar": "وَعِظَٰمًا", "tl": "wa'izaman" },
+			{ "ar": "أَنَّكُم", "tl": "annakum" },
+			{ "ar": "مُّخۡرَجُونَ", "tl": "mukh'rajuna" }
+		]
+	},
+	"36": {
+		"id": "023036",
+		"word": [
+			{ "ar": "۞هَيۡهَاتَ", "tl": "hayhata" },
+			{ "ar": "هَيۡهَاتَ", "tl": "hayhata" },
+			{ "ar": "لِمَا", "tl": "lima" },
+			{ "ar": "تُوعَدُونَ", "tl": "tu'aduna" }
+		]
+	},
+	"37": {
+		"id": "023037",
+		"word": [
+			{ "ar": "إِنۡ", "tl": "in" },
+			{ "ar": "هِيَ", "tl": "hiya" },
+			{ "ar": "إِلَّا", "tl": "illa" },
+			{ "ar": "حَيَاتُنَا", "tl": "hayatuna" },
+			{ "ar": "ٱلدُّنۡيَا", "tl": "al-dun'ya" },
+			{ "ar": "نَمُوتُ", "tl": "namutu" },
+			{ "ar": "وَنَحۡيَا", "tl": "wanahya" },
+			{ "ar": "وَمَا", "tl": "wama" },
+			{ "ar": "نَحۡنُ", "tl": "nahnu" },
+			{ "ar": "بِمَبۡعُوثِينَ", "tl": "bimab'uthina" }
+		]
+	},
+	"38": {
+		"id": "023038",
+		"word": [
+			{ "ar": "إِنۡ", "tl": "in" },
+			{ "ar": "هُوَ", "tl": "huwa" },
+			{ "ar": "إِلَّا", "tl": "illa" },
+			{ "ar": "رَجُلٌ", "tl": "rajulun" },
+			{ "ar": "ٱفۡتَرَىٰ", "tl": "if'tara" },
+			{ "ar": "عَلَى", "tl": "ala" },
+			{ "ar": "ٱللَّهِ", "tl": "al-lahi" },
+			{ "ar": "كَذِبٗا", "tl": "kadhiban" },
+			{ "ar": "وَمَا", "tl": "wama" },
+			{ "ar": "نَحۡنُ", "tl": "nahnu" },
+			{ "ar": "لَهُۥ", "tl": "lahu" },
+			{ "ar": "بِمُؤۡمِنِينَ", "tl": "bimu'minina" }
+		]
+	},
+	"39": {
+		"id": "023039",
+		"word": [
+			{ "ar": "قَالَ", "tl": "qala" },
+			{ "ar": "رَبِّ", "tl": "rabbi" },
+			{ "ar": "ٱنصُرۡنِي", "tl": "unsur'ni" },
+			{ "ar": "بِمَا", "tl": "bima" },
+			{ "ar": "كَذَّبُونِ", "tl": "kadhabuni" }
+		]
+	},
+	"40": {
+		"id": "023040",
+		"word": [
+			{ "ar": "قَالَ", "tl": "qala" },
+			{ "ar": "عَمَّا", "tl": "amma" },
+			{ "ar": "قَلِيلٖ", "tl": "qalilin" },
+			{ "ar": "لَّيُصۡبِحُنَّ", "tl": "layus'bihunna" },
+			{ "ar": "نَٰدِمِينَ", "tl": "nadimina" }
+		]
+	},
+	"41": {
+		"id": "023041",
+		"word": [
+			{ "ar": "فَأَخَذَتۡهُمُ", "tl": "fa-akhadhathumu" },
+			{ "ar": "ٱلصَّيۡحَةُ", "tl": "al-sayhatu" },
+			{ "ar": "بِٱلۡحَقِّ", "tl": "bil-haqi" },
+			{ "ar": "فَجَعَلۡنَٰهُمۡ", "tl": "faja'alnahum" },
+			{ "ar": "غُثَآءٗۚ", "tl": "ghuthaan" },
+			{ "ar": "فَبُعۡدٗا", "tl": "fabu'dan" },
+			{ "ar": "لِّلۡقَوۡمِ", "tl": "lil'qawmi" },
+			{ "ar": "ٱلظَّـٰلِمِينَ", "tl": "al-zalimina" }
+		]
+	},
+	"42": {
+		"id": "023042",
+		"word": [
+			{ "ar": "ثُمَّ", "tl": "thumma" },
+			{ "ar": "أَنشَأۡنَا", "tl": "anshana" },
+			{ "ar": "مِنۢ", "tl": "min" },
+			{ "ar": "بَعۡدِهِمۡ", "tl": "ba'dihim" },
+			{ "ar": "قُرُونًا", "tl": "qurunan" },
+			{ "ar": "ءَاخَرِينَ", "tl": "akharina" }
+		]
+	},
+	"43": {
+		"id": "023043",
+		"word": [
+			{ "ar": "مَا", "tl": "ma" },
+			{ "ar": "تَسۡبِقُ", "tl": "tasbiqu" },
+			{ "ar": "مِنۡ", "tl": "min" },
+			{ "ar": "أُمَّةٍ", "tl": "ummatin" },
+			{ "ar": "أَجَلَهَا", "tl": "ajalaha" },
+			{ "ar": "وَمَا", "tl": "wama" },
+			{ "ar": "يَسۡتَـٔۡخِرُونَ", "tl": "yastakhiruna" }
+		]
+	},
+	"44": {
+		"id": "023044",
+		"word": [
+			{ "ar": "ثُمَّ", "tl": "thumma" },
+			{ "ar": "أَرۡسَلۡنَا", "tl": "arsalna" },
+			{ "ar": "رُسُلَنَا", "tl": "rusulana" },
+			{ "ar": "تَتۡرَاۖ", "tl": "tatra" },
+			{ "ar": "كُلَّ", "tl": "kulla" },
+			{ "ar": "مَا", "tl": "ma" },
+			{ "ar": "جَآءَ", "tl": "jaa" },
+			{ "ar": "أُمَّةٗ", "tl": "ummatan" },
+			{ "ar": "رَّسُولُهَا", "tl": "rasuluha" },
+			{ "ar": "كَذَّبُوهُۖ", "tl": "kadhabuhu" },
+			{ "ar": "فَأَتۡبَعۡنَا", "tl": "fa-atba'na" },
+			{ "ar": "بَعۡضَهُم", "tl": "ba'dahum" },
+			{ "ar": "بَعۡضٗا", "tl": "ba'dan" },
+			{ "ar": "وَجَعَلۡنَٰهُمۡ", "tl": "waja'alnahum" },
+			{ "ar": "أَحَادِيثَۚ", "tl": "ahaditha" },
+			{ "ar": "فَبُعۡدٗا", "tl": "fabu'dan" },
+			{ "ar": "لِّقَوۡمٖ", "tl": "liqawmin" },
+			{ "ar": "لَّا", "tl": "la" },
+			{ "ar": "يُؤۡمِنُونَ", "tl": "yu'minuna" }
+		]
+	},
+	"45": {
+		"id": "023045",
+		"word": [
+			{ "ar": "ثُمَّ", "tl": "thumma" },
+			{ "ar": "أَرۡسَلۡنَا", "tl": "arsalna" },
+			{ "ar": "مُوسَىٰ", "tl": "musa" },
+			{ "ar": "وَأَخَاهُ", "tl": "wa-akhahu" },
+			{ "ar": "هَٰرُونَ", "tl": "haruna" },
+			{ "ar": "بِـَٔايَٰتِنَا", "tl": "biayatina" },
+			{ "ar": "وَسُلۡطَٰنٖ", "tl": "wasul'tanin" },
+			{ "ar": "مُّبِينٍ", "tl": "mubinin" }
+		]
+	},
+	"46": {
+		"id": "023046",
+		"word": [
+			{ "ar": "إِلَىٰ", "tl": "ila" },
+			{ "ar": "فِرۡعَوۡنَ", "tl": "fir'awna" },
+			{ "ar": "وَمَلَإِيْهِۦ", "tl": "wamala-ihi" },
+			{ "ar": "فَٱسۡتَكۡبَرُواْ", "tl": "fa-is'takbaru" },
+			{ "ar": "وَكَانُواْ", "tl": "wakanu" },
+			{ "ar": "قَوۡمًا", "tl": "qawman" },
+			{ "ar": "عَالِينَ", "tl": "alina" }
+		]
+	},
+	"47": {
+		"id": "023047",
+		"word": [
+			{ "ar": "فَقَالُوٓاْ", "tl": "faqalu" },
+			{ "ar": "أَنُؤۡمِنُ", "tl": "anu'minu" },
+			{ "ar": "لِبَشَرَيۡنِ", "tl": "libasharayni" },
+			{ "ar": "مِثۡلِنَا", "tl": "mith'lina" },
+			{ "ar": "وَقَوۡمُهُمَا", "tl": "waqawmuhuma" },
+			{ "ar": "لَنَا", "tl": "lana" },
+			{ "ar": "عَٰبِدُونَ", "tl": "abiduna" }
+		]
+	},
+	"48": {
+		"id": "023048",
+		"word": [
+			{ "ar": "فَكَذَّبُوهُمَا", "tl": "fakadhabuhuma" },
+			{ "ar": "فَكَانُواْ", "tl": "fakanu" },
+			{ "ar": "مِنَ", "tl": "mina" },
+			{ "ar": "ٱلۡمُهۡلَكِينَ", "tl": "al-muh'lakina" }
+		]
+	},
+	"49": {
+		"id": "023049",
+		"word": [
+			{ "ar": "وَلَقَدۡ", "tl": "walaqad" },
+			{ "ar": "ءَاتَيۡنَا", "tl": "atayna" },
+			{ "ar": "مُوسَى", "tl": "musa" },
+			{ "ar": "ٱلۡكِتَٰبَ", "tl": "al-kitaba" },
+			{ "ar": "لَعَلَّهُمۡ", "tl": "la'allahum" },
+			{ "ar": "يَهۡتَدُونَ", "tl": "yahtaduna" }
+		]
+	},
+	"50": {
+		"id": "023050",
+		"word": [
+			{ "ar": "وَجَعَلۡنَا", "tl": "waja'alna" },
+			{ "ar": "ٱبۡنَ", "tl": "ib'na" },
+			{ "ar": "مَرۡيَمَ", "tl": "maryama" },
+			{ "ar": "وَأُمَّهُۥٓ", "tl": "wa-ummahu" },
+			{ "ar": "ءَايَةٗ", "tl": "ayatan" },
+			{ "ar": "وَءَاوَيۡنَٰهُمَآ", "tl": "waawaynahuma" },
+			{ "ar": "إِلَىٰ", "tl": "ila" },
+			{ "ar": "رَبۡوَةٖ", "tl": "rabwatin" },
+			{ "ar": "ذَاتِ", "tl": "dhati" },
+			{ "ar": "قَرَارٖ", "tl": "qararin" },
+			{ "ar": "وَمَعِينٖ", "tl": "wama'inin" }
+		]
+	},
+	"51": {
+		"id": "023051",
+		"word": [
+			{ "ar": "يَـٰٓأَيُّهَا", "tl": "yaayyuha" },
+			{ "ar": "ٱلرُّسُلُ", "tl": "al-rusulu" },
+			{ "ar": "كُلُواْ", "tl": "kulu" },
+			{ "ar": "مِنَ", "tl": "mina" },
+			{ "ar": "ٱلطَّيِّبَٰتِ", "tl": "al-tayibati" },
+			{ "ar": "وَٱعۡمَلُواْ", "tl": "wa-i'malu" },
+			{ "ar": "صَٰلِحًاۖ", "tl": "salihan" },
+			{ "ar": "إِنِّي", "tl": "inni" },
+			{ "ar": "بِمَا", "tl": "bima" },
+			{ "ar": "تَعۡمَلُونَ", "tl": "ta'maluna" },
+			{ "ar": "عَلِيمٞ", "tl": "alimun" }
+		]
+	},
+	"52": {
+		"id": "023052",
+		"word": [
+			{ "ar": "وَإِنَّ", "tl": "wa-inna" },
+			{ "ar": "هَٰذِهِۦٓ", "tl": "hadhihi" },
+			{ "ar": "أُمَّتُكُمۡ", "tl": "ummatukum" },
+			{ "ar": "أُمَّةٗ", "tl": "ummatan" },
+			{ "ar": "وَٰحِدَةٗ", "tl": "wahidatan" },
+			{ "ar": "وَأَنَا۠", "tl": "wa-ana" },
+			{ "ar": "رَبُّكُمۡ", "tl": "rabbukum" },
+			{ "ar": "فَٱتَّقُونِ", "tl": "fa-ittaquni" }
+		]
+	},
+	"53": {
+		"id": "023053",
+		"word": [
+			{ "ar": "فَتَقَطَّعُوٓاْ", "tl": "fataqatta'u" },
+			{ "ar": "أَمۡرَهُم", "tl": "amrahum" },
+			{ "ar": "بَيۡنَهُمۡ", "tl": "baynahum" },
+			{ "ar": "زُبُرٗاۖ", "tl": "zuburan" },
+			{ "ar": "كُلُّ", "tl": "kullu" },
+			{ "ar": "حِزۡبِۭ", "tl": "hiz'bin" },
+			{ "ar": "بِمَا", "tl": "bima" },
+			{ "ar": "لَدَيۡهِمۡ", "tl": "ladayhim" },
+			{ "ar": "فَرِحُونَ", "tl": "farihuna" }
+		]
+	},
+	"54": {
+		"id": "023054",
+		"word": [
+			{ "ar": "فَذَرۡهُمۡ", "tl": "fadharhum" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "غَمۡرَتِهِمۡ", "tl": "ghamratihim" },
+			{ "ar": "حَتَّىٰ", "tl": "hatta" },
+			{ "ar": "حِينٍ", "tl": "hinin" }
+		]
+	},
+	"55": {
+		"id": "023055",
+		"word": [
+			{ "ar": "أَيَحۡسَبُونَ", "tl": "ayahsabuna" },
+			{ "ar": "أَنَّمَا", "tl": "annama" },
+			{ "ar": "نُمِدُّهُم", "tl": "numidduhum" },
+			{ "ar": "بِهِۦ", "tl": "bihi" },
+			{ "ar": "مِن", "tl": "min" },
+			{ "ar": "مَّالٖ", "tl": "malin" },
+			{ "ar": "وَبَنِينَ", "tl": "wabanina" }
+		]
+	},
+	"56": {
+		"id": "023056",
+		"word": [
+			{ "ar": "نُسَارِعُ", "tl": "nusari'u" },
+			{ "ar": "لَهُمۡ", "tl": "lahum" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "ٱلۡخَيۡرَٰتِۚ", "tl": "al-khayrati" },
+			{ "ar": "بَل", "tl": "bal" },
+			{ "ar": "لَّا", "tl": "la" },
+			{ "ar": "يَشۡعُرُونَ", "tl": "yash'uruna" }
+		]
+	},
+	"57": {
+		"id": "023057",
+		"word": [
+			{ "ar": "إِنَّ", "tl": "inna" },
+			{ "ar": "ٱلَّذِينَ", "tl": "alladhina" },
+			{ "ar": "هُم", "tl": "hum" },
+			{ "ar": "مِّنۡ", "tl": "min" },
+			{ "ar": "خَشۡيَةِ", "tl": "khashyati" },
+			{ "ar": "رَبِّهِم", "tl": "rabbihim" },
+			{ "ar": "مُّشۡفِقُونَ", "tl": "mush'fiquna" }
+		]
+	},
+	"58": {
+		"id": "023058",
+		"word": [
+			{ "ar": "وَٱلَّذِينَ", "tl": "wa-alladhina" },
+			{ "ar": "هُم", "tl": "hum" },
+			{ "ar": "بِـَٔايَٰتِ", "tl": "biayati" },
+			{ "ar": "رَبِّهِمۡ", "tl": "rabbihim" },
+			{ "ar": "يُؤۡمِنُونَ", "tl": "yu'minuna" }
+		]
+	},
+	"59": {
+		"id": "023059",
+		"word": [
+			{ "ar": "وَٱلَّذِينَ", "tl": "wa-alladhina" },
+			{ "ar": "هُم", "tl": "hum" },
+			{ "ar": "بِرَبِّهِمۡ", "tl": "birabbihim" },
+			{ "ar": "لَا", "tl": "la" },
+			{ "ar": "يُشۡرِكُونَ", "tl": "yush'rikuna" }
+		]
+	},
+	"60": {
+		"id": "023060",
+		"word": [
+			{ "ar": "وَٱلَّذِينَ", "tl": "wa-alladhina" },
+			{ "ar": "يُؤۡتُونَ", "tl": "yu'tuna" },
+			{ "ar": "مَآ", "tl": "ma" },
+			{ "ar": "ءَاتَواْ", "tl": "ataw" },
+			{ "ar": "وَّقُلُوبُهُمۡ", "tl": "waqulubuhum" },
+			{ "ar": "وَجِلَةٌ", "tl": "wajilatun" },
+			{ "ar": "أَنَّهُمۡ", "tl": "annahum" },
+			{ "ar": "إِلَىٰ", "tl": "ila" },
+			{ "ar": "رَبِّهِمۡ", "tl": "rabbihim" },
+			{ "ar": "رَٰجِعُونَ", "tl": "raji'una" }
+		]
+	},
+	"61": {
+		"id": "023061",
+		"word": [
+			{ "ar": "أُوْلَـٰٓئِكَ", "tl": "ulaika" },
+			{ "ar": "يُسَٰرِعُونَ", "tl": "yusari'una" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "ٱلۡخَيۡرَٰتِ", "tl": "al-khayrati" },
+			{ "ar": "وَهُمۡ", "tl": "wahum" },
+			{ "ar": "لَهَا", "tl": "laha" },
+			{ "ar": "سَٰبِقُونَ", "tl": "sabiquna" }
+		]
+	},
+	"62": {
+		"id": "023062",
+		"word": [
+			{ "ar": "وَلَا", "tl": "wala" },
+			{ "ar": "نُكَلِّفُ", "tl": "nukallifu" },
+			{ "ar": "نَفۡسًا", "tl": "nafsan" },
+			{ "ar": "إِلَّا", "tl": "illa" },
+			{ "ar": "وُسۡعَهَاۚ", "tl": "wus'aha" },
+			{ "ar": "وَلَدَيۡنَا", "tl": "waladayna" },
+			{ "ar": "كِتَٰبٞ", "tl": "kitabun" },
+			{ "ar": "يَنطِقُ", "tl": "yantiqu" },
+			{ "ar": "بِٱلۡحَقِّ", "tl": "bil-haqi" },
+			{ "ar": "وَهُمۡ", "tl": "wahum" },
+			{ "ar": "لَا", "tl": "la" },
+			{ "ar": "يُظۡلَمُونَ", "tl": "yuz'lamuna" }
+		]
+	},
+	"63": {
+		"id": "023063",
+		"word": [
+			{ "ar": "بَلۡ", "tl": "bal" },
+			{ "ar": "قُلُوبُهُمۡ", "tl": "qulubuhum" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "غَمۡرَةٖ", "tl": "ghamratin" },
+			{ "ar": "مِّنۡ", "tl": "min" },
+			{ "ar": "هَٰذَا", "tl": "hadha" },
+			{ "ar": "وَلَهُمۡ", "tl": "walahum" },
+			{ "ar": "أَعۡمَٰلٞ", "tl": "a'malun" },
+			{ "ar": "مِّن", "tl": "min" },
+			{ "ar": "دُونِ", "tl": "duni" },
+			{ "ar": "ذَٰلِكَ", "tl": "dhalika" },
+			{ "ar": "هُمۡ", "tl": "hum" },
+			{ "ar": "لَهَا", "tl": "laha" },
+			{ "ar": "عَٰمِلُونَ", "tl": "amiluna" }
+		]
+	},
+	"64": {
+		"id": "023064",
+		"word": [
+			{ "ar": "حَتَّىٰٓ", "tl": "hatta" },
+			{ "ar": "إِذَآ", "tl": "idha" },
+			{ "ar": "أَخَذۡنَا", "tl": "akhadhna" },
+			{ "ar": "مُتۡرَفِيهِم", "tl": "mut'rafihim" },
+			{ "ar": "بِٱلۡعَذَابِ", "tl": "bil-'adhabi" },
+			{ "ar": "إِذَا", "tl": "idha" },
+			{ "ar": "هُمۡ", "tl": "hum" },
+			{ "ar": "يَجۡـَٔرُونَ", "tl": "yajaruna" }
+		]
+	},
+	"65": {
+		"id": "023065",
+		"word": [
+			{ "ar": "لَا", "tl": "la" },
+			{ "ar": "تَجۡـَٔرُواْ", "tl": "tajaru" },
+			{ "ar": "ٱلۡيَوۡمَۖ", "tl": "al-yawma" },
+			{ "ar": "إِنَّكُم", "tl": "innakum" },
+			{ "ar": "مِّنَّا", "tl": "minna" },
+			{ "ar": "لَا", "tl": "la" },
+			{ "ar": "تُنصَرُونَ", "tl": "tunsaruna" }
+		]
+	},
+	"66": {
+		"id": "023066",
+		"word": [
+			{ "ar": "قَدۡ", "tl": "qad" },
+			{ "ar": "كَانَتۡ", "tl": "kanat" },
+			{ "ar": "ءَايَٰتِي", "tl": "ayati" },
+			{ "ar": "تُتۡلَىٰ", "tl": "tut'la" },
+			{ "ar": "عَلَيۡكُمۡ", "tl": "alaykum" },
+			{ "ar": "فَكُنتُمۡ", "tl": "fakuntum" },
+			{ "ar": "عَلَىٰٓ", "tl": "ala" },
+			{ "ar": "أَعۡقَٰبِكُمۡ", "tl": "a'qabikum" },
+			{ "ar": "تَنكِصُونَ", "tl": "tankisuna" }
+		]
+	},
+	"67": {
+		"id": "023067",
+		"word": [
+			{ "ar": "مُسۡتَكۡبِرِينَ", "tl": "mus'takbirina" },
+			{ "ar": "بِهِۦ", "tl": "bihi" },
+			{ "ar": "سَٰمِرٗا", "tl": "samiran" },
+			{ "ar": "تَهۡجُرُونَ", "tl": "tahjuruna" }
+		]
+	},
+	"68": {
+		"id": "023068",
+		"word": [
+			{ "ar": "أَفَلَمۡ", "tl": "afalam" },
+			{ "ar": "يَدَّبَّرُواْ", "tl": "yaddabbaru" },
+			{ "ar": "ٱلۡقَوۡلَ", "tl": "al-qawla" },
+			{ "ar": "أَمۡ", "tl": "am" },
+			{ "ar": "جَآءَهُم", "tl": "jaahum" },
+			{ "ar": "مَّا", "tl": "ma" },
+			{ "ar": "لَمۡ", "tl": "lam" },
+			{ "ar": "يَأۡتِ", "tl": "yati" },
+			{ "ar": "ءَابَآءَهُمُ", "tl": "abaahumu" },
+			{ "ar": "ٱلۡأَوَّلِينَ", "tl": "al-awalina" }
+		]
+	},
+	"69": {
+		"id": "023069",
+		"word": [
+			{ "ar": "أَمۡ", "tl": "am" },
+			{ "ar": "لَمۡ", "tl": "lam" },
+			{ "ar": "يَعۡرِفُواْ", "tl": "ya'rifu" },
+			{ "ar": "رَسُولَهُمۡ", "tl": "rasulahum" },
+			{ "ar": "فَهُمۡ", "tl": "fahum" },
+			{ "ar": "لَهُۥ", "tl": "lahu" },
+			{ "ar": "مُنكِرُونَ", "tl": "munkiruna" }
+		]
+	},
+	"70": {
+		"id": "023070",
+		"word": [
+			{ "ar": "أَمۡ", "tl": "am" },
+			{ "ar": "يَقُولُونَ", "tl": "yaquluna" },
+			{ "ar": "بِهِۦ", "tl": "bihi" },
+			{ "ar": "جِنَّةُۢۚ", "tl": "jinnatun" },
+			{ "ar": "بَلۡ", "tl": "bal" },
+			{ "ar": "جَآءَهُم", "tl": "jaahum" },
+			{ "ar": "بِٱلۡحَقِّ", "tl": "bil-haqi" },
+			{ "ar": "وَأَكۡثَرُهُمۡ", "tl": "wa-aktharuhum" },
+			{ "ar": "لِلۡحَقِّ", "tl": "lil'haqqi" },
+			{ "ar": "كَٰرِهُونَ", "tl": "karihuna" }
+		]
+	},
+	"71": {
+		"id": "023071",
+		"word": [
+			{ "ar": "وَلَوِ", "tl": "walawi" },
+			{ "ar": "ٱتَّبَعَ", "tl": "ittaba'a" },
+			{ "ar": "ٱلۡحَقُّ", "tl": "al-haqu" },
+			{ "ar": "أَهۡوَآءَهُمۡ", "tl": "ahwaahum" },
+			{ "ar": "لَفَسَدَتِ", "tl": "lafasadati" },
+			{ "ar": "ٱلسَّمَٰوَٰتُ", "tl": "al-samawatu" },
+			{ "ar": "وَٱلۡأَرۡضُ", "tl": "wal-ardu" },
+			{ "ar": "وَمَن", "tl": "waman" },
+			{ "ar": "فِيهِنَّۚ", "tl": "fihinna" },
+			{ "ar": "بَلۡ", "tl": "bal" },
+			{ "ar": "أَتَيۡنَٰهُم", "tl": "ataynahum" },
+			{ "ar": "بِذِكۡرِهِمۡ", "tl": "bidhik'rihim" },
+			{ "ar": "فَهُمۡ", "tl": "fahum" },
+			{ "ar": "عَن", "tl": "an" },
+			{ "ar": "ذِكۡرِهِم", "tl": "dhik'rihim" },
+			{ "ar": "مُّعۡرِضُونَ", "tl": "mu'riduna" }
+		]
+	},
+	"72": {
+		"id": "023072",
+		"word": [
+			{ "ar": "أَمۡ", "tl": "am" },
+			{ "ar": "تَسۡـَٔلُهُمۡ", "tl": "tasaluhum" },
+			{ "ar": "خَرۡجٗا", "tl": "kharjan" },
+			{ "ar": "فَخَرَاجُ", "tl": "fakharaju" },
+			{ "ar": "رَبِّكَ", "tl": "rabbika" },
+			{ "ar": "خَيۡرٞۖ", "tl": "khayrun" },
+			{ "ar": "وَهُوَ", "tl": "wahuwa" },
+			{ "ar": "خَيۡرُ", "tl": "khayru" },
+			{ "ar": "ٱلرَّـٰزِقِينَ", "tl": "al-raziqina" }
+		]
+	},
+	"73": {
+		"id": "023073",
+		"word": [
+			{ "ar": "وَإِنَّكَ", "tl": "wa-innaka" },
+			{ "ar": "لَتَدۡعُوهُمۡ", "tl": "latad'uhum" },
+			{ "ar": "إِلَىٰ", "tl": "ila" },
+			{ "ar": "صِرَٰطٖ", "tl": "siratin" },
+			{ "ar": "مُّسۡتَقِيمٖ", "tl": "mus'taqimin" }
+		]
+	},
+	"74": {
+		"id": "023074",
+		"word": [
+			{ "ar": "وَإِنَّ", "tl": "wa-inna" },
+			{ "ar": "ٱلَّذِينَ", "tl": "alladhina" },
+			{ "ar": "لَا", "tl": "la" },
+			{ "ar": "يُؤۡمِنُونَ", "tl": "yu'minuna" },
+			{ "ar": "بِٱلۡأٓخِرَةِ", "tl": "bil-akhirati" },
+			{ "ar": "عَنِ", "tl": "ani" },
+			{ "ar": "ٱلصِّرَٰطِ", "tl": "al-sirati" },
+			{ "ar": "لَنَٰكِبُونَ", "tl": "lanakibuna" }
+		]
+	},
+	"75": {
+		"id": "023075",
+		"word": [
+			{ "ar": "۞وَلَوۡ", "tl": "walaw" },
+			{ "ar": "رَحِمۡنَٰهُمۡ", "tl": "rahim'nahum" },
+			{ "ar": "وَكَشَفۡنَا", "tl": "wakashafna" },
+			{ "ar": "مَا", "tl": "ma" },
+			{ "ar": "بِهِم", "tl": "bihim" },
+			{ "ar": "مِّن", "tl": "min" },
+			{ "ar": "ضُرّٖ", "tl": "durrin" },
+			{ "ar": "لَّلَجُّواْ", "tl": "lalajju" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "طُغۡيَٰنِهِمۡ", "tl": "tugh'yanihim" },
+			{ "ar": "يَعۡمَهُونَ", "tl": "ya'mahuna" }
+		]
+	},
+	"76": {
+		"id": "023076",
+		"word": [
+			{ "ar": "وَلَقَدۡ", "tl": "walaqad" },
+			{ "ar": "أَخَذۡنَٰهُم", "tl": "akhadhnahum" },
+			{ "ar": "بِٱلۡعَذَابِ", "tl": "bil-'adhabi" },
+			{ "ar": "فَمَا", "tl": "fama" },
+			{ "ar": "ٱسۡتَكَانُواْ", "tl": "is'takanu" },
+			{ "ar": "لِرَبِّهِمۡ", "tl": "lirabbihim" },
+			{ "ar": "وَمَا", "tl": "wama" },
+			{ "ar": "يَتَضَرَّعُونَ", "tl": "yatadarra'una" }
+		]
+	},
+	"77": {
+		"id": "023077",
+		"word": [
+			{ "ar": "حَتَّىٰٓ", "tl": "hatta" },
+			{ "ar": "إِذَا", "tl": "idha" },
+			{ "ar": "فَتَحۡنَا", "tl": "fatahna" },
+			{ "ar": "عَلَيۡهِم", "tl": "alayhim" },
+			{ "ar": "بَابٗا", "tl": "baban" },
+			{ "ar": "ذَا", "tl": "dha" },
+			{ "ar": "عَذَابٖ", "tl": "adhabin" },
+			{ "ar": "شَدِيدٍ", "tl": "shadidin" },
+			{ "ar": "إِذَا", "tl": "idha" },
+			{ "ar": "هُمۡ", "tl": "hum" },
+			{ "ar": "فِيهِ", "tl": "fihi" },
+			{ "ar": "مُبۡلِسُونَ", "tl": "mub'lisuna" }
+		]
+	},
+	"78": {
+		"id": "023078",
+		"word": [
+			{ "ar": "وَهُوَ", "tl": "wahuwa" },
+			{ "ar": "ٱلَّذِيٓ", "tl": "alladhi" },
+			{ "ar": "أَنشَأَ", "tl": "ansha-a" },
+			{ "ar": "لَكُمُ", "tl": "lakumu" },
+			{ "ar": "ٱلسَّمۡعَ", "tl": "al-sam'a" },
+			{ "ar": "وَٱلۡأَبۡصَٰرَ", "tl": "wal-absara" },
+			{ "ar": "وَٱلۡأَفۡـِٔدَةَۚ", "tl": "wal-afidata" },
+			{ "ar": "قَلِيلٗا", "tl": "qalilan" },
+			{ "ar": "مَّا", "tl": "ma" },
+			{ "ar": "تَشۡكُرُونَ", "tl": "tashkuruna" }
+		]
+	},
+	"79": {
+		"id": "023079",
+		"word": [
+			{ "ar": "وَهُوَ", "tl": "wahuwa" },
+			{ "ar": "ٱلَّذِي", "tl": "alladhi" },
+			{ "ar": "ذَرَأَكُمۡ", "tl": "dhara-akum" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "ٱلۡأَرۡضِ", "tl": "al-ardi" },
+			{ "ar": "وَإِلَيۡهِ", "tl": "wa-ilayhi" },
+			{ "ar": "تُحۡشَرُونَ", "tl": "tuh'sharuna" }
+		]
+	},
+	"80": {
+		"id": "023080",
+		"word": [
+			{ "ar": "وَهُوَ", "tl": "wahuwa" },
+			{ "ar": "ٱلَّذِي", "tl": "alladhi" },
+			{ "ar": "يُحۡيِۦ", "tl": "yuh'yi" },
+			{ "ar": "وَيُمِيتُ", "tl": "wayumitu" },
+			{ "ar": "وَلَهُ", "tl": "walahu" },
+			{ "ar": "ٱخۡتِلَٰفُ", "tl": "ikh'tilafu" },
+			{ "ar": "ٱلَّيۡلِ", "tl": "al-layli" },
+			{ "ar": "وَٱلنَّهَارِۚ", "tl": "wal-nahari" },
+			{ "ar": "أَفَلَا", "tl": "afala" },
+			{ "ar": "تَعۡقِلُونَ", "tl": "ta'qiluna" }
+		]
+	},
+	"81": {
+		"id": "023081",
+		"word": [
+			{ "ar": "بَلۡ", "tl": "bal" },
+			{ "ar": "قَالُواْ", "tl": "qalu" },
+			{ "ar": "مِثۡلَ", "tl": "mith'la" },
+			{ "ar": "مَا", "tl": "ma" },
+			{ "ar": "قَالَ", "tl": "qala" },
+			{ "ar": "ٱلۡأَوَّلُونَ", "tl": "al-awaluna" }
+		]
+	},
+	"82": {
+		"id": "023082",
+		"word": [
+			{ "ar": "قَالُوٓاْ", "tl": "qalu" },
+			{ "ar": "أَءِذَا", "tl": "a-idha" },
+			{ "ar": "مِتۡنَا", "tl": "mit'na" },
+			{ "ar": "وَكُنَّا", "tl": "wakunna" },
+			{ "ar": "تُرَابٗا", "tl": "turaban" },
+			{ "ar": "وَعِظَٰمًا", "tl": "wa'izaman" },
+			{ "ar": "أَءِنَّا", "tl": "a-inna" },
+			{ "ar": "لَمَبۡعُوثُونَ", "tl": "lamab'uthuna" }
+		]
+	},
+	"83": {
+		"id": "023083",
+		"word": [
+			{ "ar": "لَقَدۡ", "tl": "laqad" },
+			{ "ar": "وُعِدۡنَا", "tl": "wu'id'na" },
+			{ "ar": "نَحۡنُ", "tl": "nahnu" },
+			{ "ar": "وَءَابَآؤُنَا", "tl": "waabauna" },
+			{ "ar": "هَٰذَا", "tl": "hadha" },
+			{ "ar": "مِن", "tl": "min" },
+			{ "ar": "قَبۡلُ", "tl": "qablu" },
+			{ "ar": "إِنۡ", "tl": "in" },
+			{ "ar": "هَٰذَآ", "tl": "hadha" },
+			{ "ar": "إِلَّآ", "tl": "illa" },
+			{ "ar": "أَسَٰطِيرُ", "tl": "asatiru" },
+			{ "ar": "ٱلۡأَوَّلِينَ", "tl": "al-awalina" }
+		]
+	},
+	"84": {
+		"id": "023084",
+		"word": [
+			{ "ar": "قُل", "tl": "qul" },
+			{ "ar": "لِّمَنِ", "tl": "limani" },
+			{ "ar": "ٱلۡأَرۡضُ", "tl": "al-ardu" },
+			{ "ar": "وَمَن", "tl": "waman" },
+			{ "ar": "فِيهَآ", "tl": "fiha" },
+			{ "ar": "إِن", "tl": "in" },
+			{ "ar": "كُنتُمۡ", "tl": "kuntum" },
+			{ "ar": "تَعۡلَمُونَ", "tl": "ta'lamuna" }
+		]
+	},
+	"85": {
+		"id": "023085",
+		"word": [
+			{ "ar": "سَيَقُولُونَ", "tl": "sayaquluna" },
+			{ "ar": "لِلَّهِۚ", "tl": "lillahi" },
+			{ "ar": "قُلۡ", "tl": "qul" },
+			{ "ar": "أَفَلَا", "tl": "afala" },
+			{ "ar": "تَذَكَّرُونَ", "tl": "tadhakkaruna" }
+		]
+	},
+	"86": {
+		"id": "023086",
+		"word": [
+			{ "ar": "قُلۡ", "tl": "qul" },
+			{ "ar": "مَن", "tl": "man" },
+			{ "ar": "رَّبُّ", "tl": "rabbu" },
+			{ "ar": "ٱلسَّمَٰوَٰتِ", "tl": "al-samawati" },
+			{ "ar": "ٱلسَّبۡعِ", "tl": "al-sab'i" },
+			{ "ar": "وَرَبُّ", "tl": "warabbu" },
+			{ "ar": "ٱلۡعَرۡشِ", "tl": "al-'arshi" },
+			{ "ar": "ٱلۡعَظِيمِ", "tl": "al-'azimi" }
+		]
+	},
+	"87": {
+		"id": "023087",
+		"word": [
+			{ "ar": "سَيَقُولُونَ", "tl": "sayaquluna" },
+			{ "ar": "لِلَّهِۚ", "tl": "lillahi" },
+			{ "ar": "قُلۡ", "tl": "qul" },
+			{ "ar": "أَفَلَا", "tl": "afala" },
+			{ "ar": "تَتَّقُونَ", "tl": "tattaquna" }
+		]
+	},
+	"88": {
+		"id": "023088",
+		"word": [
+			{ "ar": "قُلۡ", "tl": "qul" },
+			{ "ar": "مَنۢ", "tl": "man" },
+			{ "ar": "بِيَدِهِۦ", "tl": "biyadihi" },
+			{ "ar": "مَلَكُوتُ", "tl": "malakutu" },
+			{ "ar": "كُلِّ", "tl": "kulli" },
+			{ "ar": "شَيۡءٖ", "tl": "shayin" },
+			{ "ar": "وَهُوَ", "tl": "wahuwa" },
+			{ "ar": "يُجِيرُ", "tl": "yujiru" },
+			{ "ar": "وَلَا", "tl": "wala" },
+			{ "ar": "يُجَارُ", "tl": "yujaru" },
+			{ "ar": "عَلَيۡهِ", "tl": "alayhi" },
+			{ "ar": "إِن", "tl": "in" },
+			{ "ar": "كُنتُمۡ", "tl": "kuntum" },
+			{ "ar": "تَعۡلَمُونَ", "tl": "ta'lamuna" }
+		]
+	},
+	"89": {
+		"id": "023089",
+		"word": [
+			{ "ar": "سَيَقُولُونَ", "tl": "sayaquluna" },
+			{ "ar": "لِلَّهِۚ", "tl": "lillahi" },
+			{ "ar": "قُلۡ", "tl": "qul" },
+			{ "ar": "فَأَنَّىٰ", "tl": "fa-anna" },
+			{ "ar": "تُسۡحَرُونَ", "tl": "tus'haruna" }
+		]
+	},
+	"90": {
+		"id": "023090",
+		"word": [
+			{ "ar": "بَلۡ", "tl": "bal" },
+			{ "ar": "أَتَيۡنَٰهُم", "tl": "ataynahum" },
+			{ "ar": "بِٱلۡحَقِّ", "tl": "bil-haqi" },
+			{ "ar": "وَإِنَّهُمۡ", "tl": "wa-innahum" },
+			{ "ar": "لَكَٰذِبُونَ", "tl": "lakadhibuna" }
+		]
+	},
+	"91": {
+		"id": "023091",
+		"word": [
+			{ "ar": "مَا", "tl": "ma" },
+			{ "ar": "ٱتَّخَذَ", "tl": "ittakhadha" },
+			{ "ar": "ٱللَّهُ", "tl": "al-lahu" },
+			{ "ar": "مِن", "tl": "min" },
+			{ "ar": "وَلَدٖ", "tl": "waladin" },
+			{ "ar": "وَمَا", "tl": "wama" },
+			{ "ar": "كَانَ", "tl": "kana" },
+			{ "ar": "مَعَهُۥ", "tl": "ma'ahu" },
+			{ "ar": "مِنۡ", "tl": "min" },
+			{ "ar": "إِلَٰهٍۚ", "tl": "ilahin" },
+			{ "ar": "إِذٗا", "tl": "idhan" },
+			{ "ar": "لَّذَهَبَ", "tl": "ladhahaba" },
+			{ "ar": "كُلُّ", "tl": "kullu" },
+			{ "ar": "إِلَٰهِۭ", "tl": "ilahin" },
+			{ "ar": "بِمَا", "tl": "bima" },
+			{ "ar": "خَلَقَ", "tl": "khalaqa" },
+			{ "ar": "وَلَعَلَا", "tl": "wala'ala" },
+			{ "ar": "بَعۡضُهُمۡ", "tl": "ba'duhum" },
+			{ "ar": "عَلَىٰ", "tl": "ala" },
+			{ "ar": "بَعۡضٖۚ", "tl": "ba'din" },
+			{ "ar": "سُبۡحَٰنَ", "tl": "sub'hana" },
+			{ "ar": "ٱللَّهِ", "tl": "al-lahi" },
+			{ "ar": "عَمَّا", "tl": "amma" },
+			{ "ar": "يَصِفُونَ", "tl": "yasifuna" }
+		]
+	},
+	"92": {
+		"id": "023092",
+		"word": [
+			{ "ar": "عَٰلِمِ", "tl": "alimi" },
+			{ "ar": "ٱلۡغَيۡبِ", "tl": "al-ghaybi" },
+			{ "ar": "وَٱلشَّهَٰدَةِ", "tl": "wal-shahadati" },
+			{ "ar": "فَتَعَٰلَىٰ", "tl": "fata'ala" },
+			{ "ar": "عَمَّا", "tl": "amma" },
+			{ "ar": "يُشۡرِكُونَ", "tl": "yush'rikuna" }
+		]
+	},
+	"93": {
+		"id": "023093",
+		"word": [
+			{ "ar": "قُل", "tl": "qul" },
+			{ "ar": "رَّبِّ", "tl": "rabbi" },
+			{ "ar": "إِمَّا", "tl": "imma" },
+			{ "ar": "تُرِيَنِّي", "tl": "turiyanni" },
+			{ "ar": "مَا", "tl": "ma" },
+			{ "ar": "يُوعَدُونَ", "tl": "yu'aduna" }
+		]
+	},
+	"94": {
+		"id": "023094",
+		"word": [
+			{ "ar": "رَبِّ", "tl": "rabbi" },
+			{ "ar": "فَلَا", "tl": "fala" },
+			{ "ar": "تَجۡعَلۡنِي", "tl": "taj'alni" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "ٱلۡقَوۡمِ", "tl": "al-qawmi" },
+			{ "ar": "ٱلظَّـٰلِمِينَ", "tl": "al-zalimina" }
+		]
+	},
+	"95": {
+		"id": "023095",
+		"word": [
+			{ "ar": "وَإِنَّا", "tl": "wa-inna" },
+			{ "ar": "عَلَىٰٓ", "tl": "ala" },
+			{ "ar": "أَن", "tl": "an" },
+			{ "ar": "نُّرِيَكَ", "tl": "nuriyaka" },
+			{ "ar": "مَا", "tl": "ma" },
+			{ "ar": "نَعِدُهُمۡ", "tl": "na'iduhum" },
+			{ "ar": "لَقَٰدِرُونَ", "tl": "laqadiruna" }
+		]
+	},
+	"96": {
+		"id": "023096",
+		"word": [
+			{ "ar": "ٱدۡفَعۡ", "tl": "id'fa'" },
+			{ "ar": "بِٱلَّتِي", "tl": "bi-allati" },
+			{ "ar": "هِيَ", "tl": "hiya" },
+			{ "ar": "أَحۡسَنُ", "tl": "ahsanu" },
+			{ "ar": "ٱلسَّيِّئَةَۚ", "tl": "al-sayi-ata" },
+			{ "ar": "نَحۡنُ", "tl": "nahnu" },
+			{ "ar": "أَعۡلَمُ", "tl": "a'lamu" },
+			{ "ar": "بِمَا", "tl": "bima" },
+			{ "ar": "يَصِفُونَ", "tl": "yasifuna" }
+		]
+	},
+	"97": {
+		"id": "023097",
+		"word": [
+			{ "ar": "وَقُل", "tl": "waqul" },
+			{ "ar": "رَّبِّ", "tl": "rabbi" },
+			{ "ar": "أَعُوذُ", "tl": "a'udhu" },
+			{ "ar": "بِكَ", "tl": "bika" },
+			{ "ar": "مِنۡ", "tl": "min" },
+			{ "ar": "هَمَزَٰتِ", "tl": "hamazati" },
+			{ "ar": "ٱلشَّيَٰطِينِ", "tl": "al-shayatini" }
+		]
+	},
+	"98": {
+		"id": "023098",
+		"word": [
+			{ "ar": "وَأَعُوذُ", "tl": "wa-a'udhu" },
+			{ "ar": "بِكَ", "tl": "bika" },
+			{ "ar": "رَبِّ", "tl": "rabbi" },
+			{ "ar": "أَن", "tl": "an" },
+			{ "ar": "يَحۡضُرُونِ", "tl": "yahduruni" }
+		]
+	},
+	"99": {
+		"id": "023099",
+		"word": [
+			{ "ar": "حَتَّىٰٓ", "tl": "hatta" },
+			{ "ar": "إِذَا", "tl": "idha" },
+			{ "ar": "جَآءَ", "tl": "jaa" },
+			{ "ar": "أَحَدَهُمُ", "tl": "ahadahumu" },
+			{ "ar": "ٱلۡمَوۡتُ", "tl": "al-mawtu" },
+			{ "ar": "قَالَ", "tl": "qala" },
+			{ "ar": "رَبِّ", "tl": "rabbi" },
+			{ "ar": "ٱرۡجِعُونِ", "tl": "ir'ji'uni" }
+		]
+	},
+	"100": {
+		"id": "023100",
+		"word": [
+			{ "ar": "لَعَلِّيٓ", "tl": "la'alli" },
+			{ "ar": "أَعۡمَلُ", "tl": "a'malu" },
+			{ "ar": "صَٰلِحٗا", "tl": "salihan" },
+			{ "ar": "فِيمَا", "tl": "fima" },
+			{ "ar": "تَرَكۡتُۚ", "tl": "taraktu" },
+			{ "ar": "كَلَّآۚ", "tl": "kalla" },
+			{ "ar": "إِنَّهَا", "tl": "innaha" },
+			{ "ar": "كَلِمَةٌ", "tl": "kalimatun" },
+			{ "ar": "هُوَ", "tl": "huwa" },
+			{ "ar": "قَآئِلُهَاۖ", "tl": "qailuha" },
+			{ "ar": "وَمِن", "tl": "wamin" },
+			{ "ar": "وَرَآئِهِم", "tl": "waraihim" },
+			{ "ar": "بَرۡزَخٌ", "tl": "barzakhun" },
+			{ "ar": "إِلَىٰ", "tl": "ila" },
+			{ "ar": "يَوۡمِ", "tl": "yawmi" },
+			{ "ar": "يُبۡعَثُونَ", "tl": "yub'athuna" }
+		]
+	},
+	"101": {
+		"id": "023101",
+		"word": [
+			{ "ar": "فَإِذَا", "tl": "fa-idha" },
+			{ "ar": "نُفِخَ", "tl": "nufikha" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "ٱلصُّورِ", "tl": "al-suri" },
+			{ "ar": "فَلَآ", "tl": "fala" },
+			{ "ar": "أَنسَابَ", "tl": "ansaba" },
+			{ "ar": "بَيۡنَهُمۡ", "tl": "baynahum" },
+			{ "ar": "يَوۡمَئِذٖ", "tl": "yawma-idhin" },
+			{ "ar": "وَلَا", "tl": "wala" },
+			{ "ar": "يَتَسَآءَلُونَ", "tl": "yatasaaluna" }
+		]
+	},
+	"102": {
+		"id": "023102",
+		"word": [
+			{ "ar": "فَمَن", "tl": "faman" },
+			{ "ar": "ثَقُلَتۡ", "tl": "thaqulat" },
+			{ "ar": "مَوَٰزِينُهُۥ", "tl": "mawazinuhu" },
+			{ "ar": "فَأُوْلَـٰٓئِكَ", "tl": "fa-ulaika" },
+			{ "ar": "هُمُ", "tl": "humu" },
+			{ "ar": "ٱلۡمُفۡلِحُونَ", "tl": "al-muf'lihuna" }
+		]
+	},
+	"103": {
+		"id": "023103",
+		"word": [
+			{ "ar": "وَمَنۡ", "tl": "waman" },
+			{ "ar": "خَفَّتۡ", "tl": "khaffat" },
+			{ "ar": "مَوَٰزِينُهُۥ", "tl": "mawazinuhu" },
+			{ "ar": "فَأُوْلَـٰٓئِكَ", "tl": "fa-ulaika" },
+			{ "ar": "ٱلَّذِينَ", "tl": "alladhina" },
+			{ "ar": "خَسِرُوٓاْ", "tl": "khasiru" },
+			{ "ar": "أَنفُسَهُمۡ", "tl": "anfusahum" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "جَهَنَّمَ", "tl": "jahannama" },
+			{ "ar": "خَٰلِدُونَ", "tl": "khaliduna" }
+		]
+	},
+	"104": {
+		"id": "023104",
+		"word": [
+			{ "ar": "تَلۡفَحُ", "tl": "talfahu" },
+			{ "ar": "وُجُوهَهُمُ", "tl": "wujuhahumu" },
+			{ "ar": "ٱلنَّارُ", "tl": "al-naru" },
+			{ "ar": "وَهُمۡ", "tl": "wahum" },
+			{ "ar": "فِيهَا", "tl": "fiha" },
+			{ "ar": "كَٰلِحُونَ", "tl": "kalihuna" }
+		]
+	},
+	"105": {
+		"id": "023105",
+		"word": [
+			{ "ar": "أَلَمۡ", "tl": "alam" },
+			{ "ar": "تَكُنۡ", "tl": "takun" },
+			{ "ar": "ءَايَٰتِي", "tl": "ayati" },
+			{ "ar": "تُتۡلَىٰ", "tl": "tut'la" },
+			{ "ar": "عَلَيۡكُمۡ", "tl": "alaykum" },
+			{ "ar": "فَكُنتُم", "tl": "fakuntum" },
+			{ "ar": "بِهَا", "tl": "biha" },
+			{ "ar": "تُكَذِّبُونَ", "tl": "tukadhibuna" }
+		]
+	},
+	"106": {
+		"id": "023106",
+		"word": [
+			{ "ar": "قَالُواْ", "tl": "qalu" },
+			{ "ar": "رَبَّنَا", "tl": "rabbana" },
+			{ "ar": "غَلَبَتۡ", "tl": "ghalabat" },
+			{ "ar": "عَلَيۡنَا", "tl": "alayna" },
+			{ "ar": "شِقۡوَتُنَا", "tl": "shiq'watuna" },
+			{ "ar": "وَكُنَّا", "tl": "wakunna" },
+			{ "ar": "قَوۡمٗا", "tl": "qawman" },
+			{ "ar": "ضَآلِّينَ", "tl": "dallina" }
+		]
+	},
+	"107": {
+		"id": "023107",
+		"word": [
+			{ "ar": "رَبَّنَآ", "tl": "rabbana" },
+			{ "ar": "أَخۡرِجۡنَا", "tl": "akhrij'na" },
+			{ "ar": "مِنۡهَا", "tl": "min'ha" },
+			{ "ar": "فَإِنۡ", "tl": "fa-in" },
+			{ "ar": "عُدۡنَا", "tl": "ud'na" },
+			{ "ar": "فَإِنَّا", "tl": "fa-inna" },
+			{ "ar": "ظَٰلِمُونَ", "tl": "zalimuna" }
+		]
+	},
+	"108": {
+		"id": "023108",
+		"word": [
+			{ "ar": "قَالَ", "tl": "qala" },
+			{ "ar": "ٱخۡسَـُٔواْ", "tl": "ikh'sau" },
+			{ "ar": "فِيهَا", "tl": "fiha" },
+			{ "ar": "وَلَا", "tl": "wala" },
+			{ "ar": "تُكَلِّمُونِ", "tl": "tukallimuni" }
+		]
+	},
+	"109": {
+		"id": "023109",
+		"word": [
+			{ "ar": "إِنَّهُۥ", "tl": "innahu" },
+			{ "ar": "كَانَ", "tl": "kana" },
+			{ "ar": "فَرِيقٞ", "tl": "fariqun" },
+			{ "ar": "مِّنۡ", "tl": "min" },
+			{ "ar": "عِبَادِي", "tl": "ibadi" },
+			{ "ar": "يَقُولُونَ", "tl": "yaquluna" },
+			{ "ar": "رَبَّنَآ", "tl": "rabbana" },
+			{ "ar": "ءَامَنَّا", "tl": "amanna" },
+			{ "ar": "فَٱغۡفِرۡ", "tl": "fa-igh'fir" },
+			{ "ar": "لَنَا", "tl": "lana" },
+			{ "ar": "وَٱرۡحَمۡنَا", "tl": "wa-ir'hamna" },
+			{ "ar": "وَأَنتَ", "tl": "wa-anta" },
+			{ "ar": "خَيۡرُ", "tl": "khayru" },
+			{ "ar": "ٱلرَّـٰحِمِينَ", "tl": "al-rahimina" }
+		]
+	},
+	"110": {
+		"id": "023110",
+		"word": [
+			{ "ar": "فَٱتَّخَذۡتُمُوهُمۡ", "tl": "fa-ittakhadhtumuhum" },
+			{ "ar": "سِخۡرِيًّا", "tl": "sikh'riyyan" },
+			{ "ar": "حَتَّىٰٓ", "tl": "hatta" },
+			{ "ar": "أَنسَوۡكُمۡ", "tl": "ansawkum" },
+			{ "ar": "ذِكۡرِي", "tl": "dhik'ri" },
+			{ "ar": "وَكُنتُم", "tl": "wakuntum" },
+			{ "ar": "مِّنۡهُمۡ", "tl": "min'hum" },
+			{ "ar": "تَضۡحَكُونَ", "tl": "tadhakuna" }
+		]
+	},
+	"111": {
+		"id": "023111",
+		"word": [
+			{ "ar": "إِنِّي", "tl": "inni" },
+			{ "ar": "جَزَيۡتُهُمُ", "tl": "jazaytuhumu" },
+			{ "ar": "ٱلۡيَوۡمَ", "tl": "al-yawma" },
+			{ "ar": "بِمَا", "tl": "bima" },
+			{ "ar": "صَبَرُوٓاْ", "tl": "sabaru" },
+			{ "ar": "أَنَّهُمۡ", "tl": "annahum" },
+			{ "ar": "هُمُ", "tl": "humu" },
+			{ "ar": "ٱلۡفَآئِزُونَ", "tl": "al-faizuna" }
+		]
+	},
+	"112": {
+		"id": "023112",
+		"word": [
+			{ "ar": "قَٰلَ", "tl": "qala" },
+			{ "ar": "كَمۡ", "tl": "kam" },
+			{ "ar": "لَبِثۡتُمۡ", "tl": "labith'tum" },
+			{ "ar": "فِي", "tl": "fi" },
+			{ "ar": "ٱلۡأَرۡضِ", "tl": "al-ardi" },
+			{ "ar": "عَدَدَ", "tl": "adada" },
+			{ "ar": "سِنِينَ", "tl": "sinina" }
+		]
+	},
+	"113": {
+		"id": "023113",
+		"word": [
+			{ "ar": "قَالُواْ", "tl": "qalu" },
+			{ "ar": "لَبِثۡنَا", "tl": "labith'na" },
+			{ "ar": "يَوۡمًا", "tl": "yawman" },
+			{ "ar": "أَوۡ", "tl": "aw" },
+			{ "ar": "بَعۡضَ", "tl": "ba'da" },
+			{ "ar": "يَوۡمٖ", "tl": "yawmin" },
+			{ "ar": "فَسۡـَٔلِ", "tl": "fasali" },
+			{ "ar": "ٱلۡعَآدِّينَ", "tl": "al-'adina" }
+		]
+	},
+	"114": {
+		"id": "023114",
+		"word": [
+			{ "ar": "قَٰلَ", "tl": "qala" },
+			{ "ar": "إِن", "tl": "in" },
+			{ "ar": "لَّبِثۡتُمۡ", "tl": "labith'tum" },
+			{ "ar": "إِلَّا", "tl": "illa" },
+			{ "ar": "قَلِيلٗاۖ", "tl": "qalilan" },
+			{ "ar": "لَّوۡ", "tl": "law" },
+			{ "ar": "أَنَّكُمۡ", "tl": "annakum" },
+			{ "ar": "كُنتُمۡ", "tl": "kuntum" },
+			{ "ar": "تَعۡلَمُونَ", "tl": "ta'lamuna" }
+		]
+	},
+	"115": {
+		"id": "023115",
+		"word": [
+			{ "ar": "أَفَحَسِبۡتُمۡ", "tl": "afahasib'tum" },
+			{ "ar": "أَنَّمَا", "tl": "annama" },
+			{ "ar": "خَلَقۡنَٰكُمۡ", "tl": "khalaqnakum" },
+			{ "ar": "عَبَثٗا", "tl": "abathan" },
+			{ "ar": "وَأَنَّكُمۡ", "tl": "wa-annakum" },
+			{ "ar": "إِلَيۡنَا", "tl": "ilayna" },
+			{ "ar": "لَا", "tl": "la" },
+			{ "ar": "تُرۡجَعُونَ", "tl": "tur'ja'una" }
+		]
+	},
+	"116": {
+		"id": "023116",
+		"word": [
+			{ "ar": "فَتَعَٰلَى", "tl": "fata'ala" },
+			{ "ar": "ٱللَّهُ", "tl": "al-lahu" },
+			{ "ar": "ٱلۡمَلِكُ", "tl": "al-maliku" },
+			{ "ar": "ٱلۡحَقُّۖ", "tl": "al-haqu" },
+			{ "ar": "لَآ", "tl": "la" },
+			{ "ar": "إِلَٰهَ", "tl": "ilaha" },
+			{ "ar": "إِلَّا", "tl": "illa" },
+			{ "ar": "هُوَ", "tl": "huwa" },
+			{ "ar": "رَبُّ", "tl": "rabbu" },
+			{ "ar": "ٱلۡعَرۡشِ", "tl": "al-'arshi" },
+			{ "ar": "ٱلۡكَرِيمِ", "tl": "al-karimi" }
+		]
+	},
+	"117": {
+		"id": "023117",
+		"word": [
+			{ "ar": "وَمَن", "tl": "waman" },
+			{ "ar": "يَدۡعُ", "tl": "yad'u" },
+			{ "ar": "مَعَ", "tl": "ma'a" },
+			{ "ar": "ٱللَّهِ", "tl": "al-lahi" },
+			{ "ar": "إِلَٰهًا", "tl": "ilahan" },
+			{ "ar": "ءَاخَرَ", "tl": "akhara" },
+			{ "ar": "لَا", "tl": "la" },
+			{ "ar": "بُرۡهَٰنَ", "tl": "bur'hana" },
+			{ "ar": "لَهُۥ", "tl": "lahu" },
+			{ "ar": "بِهِۦ", "tl": "bihi" },
+			{ "ar": "فَإِنَّمَا", "tl": "fa-innama" },
+			{ "ar": "حِسَابُهُۥ", "tl": "hisabuhu" },
+			{ "ar": "عِندَ", "tl": "inda" },
+			{ "ar": "رَبِّهِۦٓۚ", "tl": "rabbihi" },
+			{ "ar": "إِنَّهُۥ", "tl": "innahu" },
+			{ "ar": "لَا", "tl": "la" },
+			{ "ar": "يُفۡلِحُ", "tl": "yuf'lihu" },
+			{ "ar": "ٱلۡكَٰفِرُونَ", "tl": "al-kafiruna" }
+		]
+	},
+	"118": {
+		"id": "023118",
+		"word": [
+			{ "ar": "وَقُل", "tl": "waqul" },
+			{ "ar": "رَّبِّ", "tl": "rabbi" },
+			{ "ar": "ٱغۡفِرۡ", "tl": "igh'fir" },
+			{ "ar": "وَٱرۡحَمۡ", "tl": "wa-ir'ham" },
+			{ "ar": "وَأَنتَ", "tl": "wa-anta" },
+			{ "ar": "خَيۡرُ", "tl": "khayru" },
+			{ "ar": "ٱلرَّـٰحِمِينَ", "tl": "al-rahimina" }
+		]
+	}
+}

@@ -6,7 +6,6 @@
 	// console.log(data);
 </script>
 
-
 <div class="flex flex-col gap-5 relative max-w-5xl m-auto h-screen">
 	<div class="flex flex-wrap md:flex-nowrap w-full top-0 z-10 bg-base-100 p-5 items-center">
 		<a href="/" class="m-auto px-10 py-5">
@@ -54,14 +53,14 @@
 						{d.arti}
 					</p>
 				</div>
-        <div class="text-center">
-          <div class="arabic text-lg px-2">
-            {d.asma}
-          </div>
-          <div class="text-xs opacity-60">
-            {d.ayat}
-          </div>
-        </div>
+				<div class="text-center">
+					<div class="arabic text-lg px-2">
+						{d.asma}
+					</div>
+					<div class="text-xs opacity-60">
+						{d.ayat}
+					</div>
+				</div>
 			</a>
 		{/each}
 	</div>

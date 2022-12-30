@@ -1,1 +1,36 @@
-{"1":{"word":[{"locale":"katakanlah"},{"locale":"aku berlindung"},{"locale":"Tuhannya"},{"locale":"manusia"}],"aya":"Katakanlah: \"Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia."},"2":{"word":[{"locale":"Rajanya"},{"locale":"manusia"}],"aya":"Raja manusia."},"3":{"word":[{"locale":"Tuhannya"},{"locale":"manusia"}],"aya":"Sembahan manusia."},"4":{"word":[{"locale":"dari"},{"locale":"kejahatan"},{"locale":"bisikkan"},{"locale":"menunggu-nunggu/bersembunyi"}],"aya":"Dari kejahatan (bisikan) syaitan yang biasa bersembunyi,"},"5":{"word":[{"locale":"yang"},{"locale":"membisik-bisikan"},{"locale":"dalam"},{"locale":"dada"},{"locale":"manusia"}],"aya":"yang membisikkan (kejahatan) ke dalam dada manusia,"},"6":{"word":[{"locale":"dari"},{"locale":"jin"},{"locale":"dan manusia"}],"aya":"dari (golongan) jin dan manusia."}}
+{
+	"1": {
+		"word": [
+			{ "locale": "katakanlah" },
+			{ "locale": "aku berlindung" },
+			{ "locale": "Tuhannya" },
+			{ "locale": "manusia" }
+		],
+		"aya": "Katakanlah: \"Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia."
+	},
+	"2": { "word": [{ "locale": "Rajanya" }, { "locale": "manusia" }], "aya": "Raja manusia." },
+	"3": { "word": [{ "locale": "Tuhannya" }, { "locale": "manusia" }], "aya": "Sembahan manusia." },
+	"4": {
+		"word": [
+			{ "locale": "dari" },
+			{ "locale": "kejahatan" },
+			{ "locale": "bisikkan" },
+			{ "locale": "menunggu-nunggu/bersembunyi" }
+		],
+		"aya": "Dari kejahatan (bisikan) syaitan yang biasa bersembunyi,"
+	},
+	"5": {
+		"word": [
+			{ "locale": "yang" },
+			{ "locale": "membisik-bisikan" },
+			{ "locale": "dalam" },
+			{ "locale": "dada" },
+			{ "locale": "manusia" }
+		],
+		"aya": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+	},
+	"6": {
+		"word": [{ "locale": "dari" }, { "locale": "jin" }, { "locale": "dan manusia" }],
+		"aya": "dari (golongan) jin dan manusia."
+	}
+}

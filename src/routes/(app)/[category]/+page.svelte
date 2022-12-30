@@ -18,7 +18,7 @@
 	const loadNext = (e: any) => {
 		load = e.detail?.isIntersecting;
 	};
-  
+
 	onMount(async () => {
 		intersect();
 	});
@@ -96,6 +96,6 @@
 				{/if}
 			{/each}
 		</div>
-		<div data-intersect on:intersect={loadNext} class="h-20"></div>
+		<div data-intersect on:intersect={loadNext} class="h-20" />
 	</div>
 </div>

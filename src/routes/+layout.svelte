@@ -4,7 +4,6 @@
 
 	import '../app.css';
 
-  
 	let theme = 'cupcake';
 
 	if (browser) {

@@ -1,1 +1,221 @@
-{"1":{"word":[{"locale":"apabila"},{"locale":"matahari"},{"locale":"digulung"}],"aya":"Apabila matahari digulung,"},"2":{"word":[{"locale":"dan apabila"},{"locale":"bintang-bintang"},{"locale":"berjatuhan"}],"aya":"dan apabila bintang-bintang berjatuhan,"},"3":{"word":[{"locale":"dan apabila"},{"locale":"gunung-gunung"},{"locale":"dijalankan/dihancurkan"}],"aya":"dan apabila gunung-gunung dihancurkan,"},"4":{"word":[{"locale":"dan apabila"},{"locale":"unta-unta bunting"},{"locale":"dibiarkan/ditinggalkan"}],"aya":"dan apabila unta-unta yang bunting ditinggalkan (tidak diperdulikan)"},"5":{"word":[{"locale":"dan apabila"},{"locale":"binatang-binatang liar/buas"},{"locale":"dikumpulkan"}],"aya":"dan apabila binatang-binatang liar dikumpulkan,"},"6":{"word":[{"locale":"dan apabila"},{"locale":"lautan"},{"locale":"dijadikan meluap"}],"aya":"dan apabila lautan dijadikan meluap"},"7":{"word":[{"locale":"dan apabila"},{"locale":"jiwa/ruh-ruh"},{"locale":"dijodohkan/dipertemukan"}],"aya":"dan apabila ruh-ruh dipertemukan (dengan tubuh)"},"8":{"word":[{"locale":"dan apabila"},{"locale":"bayi perempuan dikubur hidup-hidup"},{"locale":"ditanya"}],"aya":"dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya,"},"9":{"word":[{"locale":"karena"},{"locale":"dosa"},{"locale":"ia dibunuh"}],"aya":"karena dosa apakah dia dibunuh,"},"10":{"word":[{"locale":"dan apabila"},{"locale":"lembaran-lembaran/catatan"},{"locale":"disebarkan/dibuka"}],"aya":"dan apabila catatan-catatan (amal perbuatan manusia) dibuka,"},"11":{"word":[{"locale":"dan apabila"},{"locale":"langit"},{"locale":"dibuka/tabirnya/dilenyapkan"}],"aya":"dan apabila langit dilenyapkan,"},"12":{"word":[{"locale":"dan apabila"},{"locale":"neraka"},{"locale":"dinyalakan"}],"aya":"dan apabila neraka Jahim dinyalakan,"},"13":{"word":[{"locale":"dan apabila"},{"locale":"surga"},{"locale":"didekatkan"}],"aya":"dan apabila surga didekatkan,"},"14":{"word":[{"locale":"mengetahu"},{"locale":"diri/jiwa"},{"locale":"apa"},{"locale":"ia sediakan/kerjakan"}],"aya":"maka tiap-tiap jiwa akan mengetahui apa yang telah dikerjakannya."},"15":{"word":[{"locale":"maka sungguh"},{"locale":"Aku bersumpah"},{"locale":"dengan bintang-bintang"}],"aya":"Sungguh, Aku bersumpah dengan bintang-bintang,"},"16":{"word":[{"locale":"beredar/terbit"},{"locale":"berlindung/terbenam"}],"aya":"yang beredar dan terbenam,"},"17":{"word":[{"locale":"dan malam"},{"locale":"apabila"},{"locale":"hampir habis/pergi"}],"aya":"demi malam apabila telah hampir meninggalkan gelapnya,"},"18":{"word":[{"locale":"dan pagi/subuh"},{"locale":"apabila"},{"locale":"menyingsing/mulai terang"}],"aya":"dan demi subuh apabila fajarnya mulai menyingsing,"},"19":{"word":[{"locale":"sesungguhnya ia"},{"locale":"benar-benar firman"},{"locale":"utusan"},{"locale":"mulia"}],"aya":"sesungguhnya Al Quran itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril),"},"20":{"word":[{"locale":"mempunyai"},{"locale":"kekuatan"},{"locale":"disisi"},{"locale":"mempunyai"},{"locale":"'Arsy'"},{"locale":"kedudukan tinggi"}],"aya":"yang mempunyai kekuatan, yang mempunyai kedudukan tinggi di sisi Allah yang mempunyai 'Arsy,"},"21":{"word":[{"locale":"ditaati"},{"locale":"kemudian"},{"locale":"dipercaya"}],"aya":"yang ditaati di sana (di alam malaikat) lagi dipercaya."},"22":{"word":[{"locale":"dan tidak/bukanlah"},{"locale":"temanmu"},{"locale":"orang gila"}],"aya":"Dan temanmu (Muhammad) itu bukanlah sekali-kali orang yang gila."},"23":{"word":[{"locale":"dan sesungguhnya"},{"locale":"dia telah melihat"},{"locale":"di tepi langit/di ufuk"},{"locale":"nyata/terang"}],"aya":"Dan sesungguhnya Muhammad itu melihat Jibril di ufuk yang terang."},"24":{"word":[{"locale":"dan tidak"},{"locale":"dia"},{"locale":"atas"},{"locale":"gaib"},{"locale":"dengan kikir"}],"aya":"Dan dia (Muhammad) bukanlah orang yang bakhil untuk menerangkan yang ghaib."},"25":{"word":[{"locale":"dan tidak"},{"locale":"ia"},{"locale":"perkataan"},{"locale":"syaitan"},{"locale":"terkutuk"}],"aya":"Dan Al Quran itu bukanlah perkataan syaitan yang terkutuk,"},"26":{"word":[{"locale":"maka kemana"},{"locale":"kamu pergi"}],"aya":"maka ke manakah kamu akan pergi?"},"27":{"word":[{"locale":"sesungguhnya"},{"locale":"ia"},{"locale":"kecuali"},{"locale":"peringatan"},{"locale":"bagi semesta alam"}],"aya":"Al Quran itu tiada lain hanyalah peringatan bagi semesta alam,"},"28":{"word":[{"locale":"bagi siapa"},{"locale":"menghendaki"},{"locale":"diantara kamu"},{"locale":"untuk"},{"locale":"menempuh jalan yang lurus"}],"aya":"(yaitu) bagi siapa di antara kamu yang mau menempuh jalan yang lurus."},"29":{"word":[{"locale":"dan tidak"},{"locale":"kamu menghendaki"},{"locale":"kecuali"},{"locale":"bahwa"},{"locale":"menghendaki"},{"locale":"Allah"},{"locale":"Tuhan/Pemelihara"},{"locale":"semesta alam"}],"aya":"Dan kamu tidak dapat menghendaki (menempuh jalan itu) kecuali apabila dikehendaki Allah, Tuhan semesta alam."}}
+{
+	"1": {
+		"word": [{ "locale": "apabila" }, { "locale": "matahari" }, { "locale": "digulung" }],
+		"aya": "Apabila matahari digulung,"
+	},
+	"2": {
+		"word": [
+			{ "locale": "dan apabila" },
+			{ "locale": "bintang-bintang" },
+			{ "locale": "berjatuhan" }
+		],
+		"aya": "dan apabila bintang-bintang berjatuhan,"
+	},
+	"3": {
+		"word": [
+			{ "locale": "dan apabila" },
+			{ "locale": "gunung-gunung" },
+			{ "locale": "dijalankan/dihancurkan" }
+		],
+		"aya": "dan apabila gunung-gunung dihancurkan,"
+	},
+	"4": {
+		"word": [
+			{ "locale": "dan apabila" },
+			{ "locale": "unta-unta bunting" },
+			{ "locale": "dibiarkan/ditinggalkan" }
+		],
+		"aya": "dan apabila unta-unta yang bunting ditinggalkan (tidak diperdulikan)"
+	},
+	"5": {
+		"word": [
+			{ "locale": "dan apabila" },
+			{ "locale": "binatang-binatang liar/buas" },
+			{ "locale": "dikumpulkan" }
+		],
+		"aya": "dan apabila binatang-binatang liar dikumpulkan,"
+	},
+	"6": {
+		"word": [{ "locale": "dan apabila" }, { "locale": "lautan" }, { "locale": "dijadikan meluap" }],
+		"aya": "dan apabila lautan dijadikan meluap"
+	},
+	"7": {
+		"word": [
+			{ "locale": "dan apabila" },
+			{ "locale": "jiwa/ruh-ruh" },
+			{ "locale": "dijodohkan/dipertemukan" }
+		],
+		"aya": "dan apabila ruh-ruh dipertemukan (dengan tubuh)"
+	},
+	"8": {
+		"word": [
+			{ "locale": "dan apabila" },
+			{ "locale": "bayi perempuan dikubur hidup-hidup" },
+			{ "locale": "ditanya" }
+		],
+		"aya": "dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya,"
+	},
+	"9": {
+		"word": [{ "locale": "karena" }, { "locale": "dosa" }, { "locale": "ia dibunuh" }],
+		"aya": "karena dosa apakah dia dibunuh,"
+	},
+	"10": {
+		"word": [
+			{ "locale": "dan apabila" },
+			{ "locale": "lembaran-lembaran/catatan" },
+			{ "locale": "disebarkan/dibuka" }
+		],
+		"aya": "dan apabila catatan-catatan (amal perbuatan manusia) dibuka,"
+	},
+	"11": {
+		"word": [
+			{ "locale": "dan apabila" },
+			{ "locale": "langit" },
+			{ "locale": "dibuka/tabirnya/dilenyapkan" }
+		],
+		"aya": "dan apabila langit dilenyapkan,"
+	},
+	"12": {
+		"word": [{ "locale": "dan apabila" }, { "locale": "neraka" }, { "locale": "dinyalakan" }],
+		"aya": "dan apabila neraka Jahim dinyalakan,"
+	},
+	"13": {
+		"word": [{ "locale": "dan apabila" }, { "locale": "surga" }, { "locale": "didekatkan" }],
+		"aya": "dan apabila surga didekatkan,"
+	},
+	"14": {
+		"word": [
+			{ "locale": "mengetahu" },
+			{ "locale": "diri/jiwa" },
+			{ "locale": "apa" },
+			{ "locale": "ia sediakan/kerjakan" }
+		],
+		"aya": "maka tiap-tiap jiwa akan mengetahui apa yang telah dikerjakannya."
+	},
+	"15": {
+		"word": [
+			{ "locale": "maka sungguh" },
+			{ "locale": "Aku bersumpah" },
+			{ "locale": "dengan bintang-bintang" }
+		],
+		"aya": "Sungguh, Aku bersumpah dengan bintang-bintang,"
+	},
+	"16": {
+		"word": [{ "locale": "beredar/terbit" }, { "locale": "berlindung/terbenam" }],
+		"aya": "yang beredar dan terbenam,"
+	},
+	"17": {
+		"word": [
+			{ "locale": "dan malam" },
+			{ "locale": "apabila" },
+			{ "locale": "hampir habis/pergi" }
+		],
+		"aya": "demi malam apabila telah hampir meninggalkan gelapnya,"
+	},
+	"18": {
+		"word": [
+			{ "locale": "dan pagi/subuh" },
+			{ "locale": "apabila" },
+			{ "locale": "menyingsing/mulai terang" }
+		],
+		"aya": "dan demi subuh apabila fajarnya mulai menyingsing,"
+	},
+	"19": {
+		"word": [
+			{ "locale": "sesungguhnya ia" },
+			{ "locale": "benar-benar firman" },
+			{ "locale": "utusan" },
+			{ "locale": "mulia" }
+		],
+		"aya": "sesungguhnya Al Quran itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril),"
+	},
+	"20": {
+		"word": [
+			{ "locale": "mempunyai" },
+			{ "locale": "kekuatan" },
+			{ "locale": "disisi" },
+			{ "locale": "mempunyai" },
+			{ "locale": "'Arsy'" },
+			{ "locale": "kedudukan tinggi" }
+		],
+		"aya": "yang mempunyai kekuatan, yang mempunyai kedudukan tinggi di sisi Allah yang mempunyai 'Arsy,"
+	},
+	"21": {
+		"word": [{ "locale": "ditaati" }, { "locale": "kemudian" }, { "locale": "dipercaya" }],
+		"aya": "yang ditaati di sana (di alam malaikat) lagi dipercaya."
+	},
+	"22": {
+		"word": [
+			{ "locale": "dan tidak/bukanlah" },
+			{ "locale": "temanmu" },
+			{ "locale": "orang gila" }
+		],
+		"aya": "Dan temanmu (Muhammad) itu bukanlah sekali-kali orang yang gila."
+	},
+	"23": {
+		"word": [
+			{ "locale": "dan sesungguhnya" },
+			{ "locale": "dia telah melihat" },
+			{ "locale": "di tepi langit/di ufuk" },
+			{ "locale": "nyata/terang" }
+		],
+		"aya": "Dan sesungguhnya Muhammad itu melihat Jibril di ufuk yang terang."
+	},
+	"24": {
+		"word": [
+			{ "locale": "dan tidak" },
+			{ "locale": "dia" },
+			{ "locale": "atas" },
+			{ "locale": "gaib" },
+			{ "locale": "dengan kikir" }
+		],
+		"aya": "Dan dia (Muhammad) bukanlah orang yang bakhil untuk menerangkan yang ghaib."
+	},
+	"25": {
+		"word": [
+			{ "locale": "dan tidak" },
+			{ "locale": "ia" },
+			{ "locale": "perkataan" },
+			{ "locale": "syaitan" },
+			{ "locale": "terkutuk" }
+		],
+		"aya": "Dan Al Quran itu bukanlah perkataan syaitan yang terkutuk,"
+	},
+	"26": {
+		"word": [{ "locale": "maka kemana" }, { "locale": "kamu pergi" }],
+		"aya": "maka ke manakah kamu akan pergi?"
+	},
+	"27": {
+		"word": [
+			{ "locale": "sesungguhnya" },
+			{ "locale": "ia" },
+			{ "locale": "kecuali" },
+			{ "locale": "peringatan" },
+			{ "locale": "bagi semesta alam" }
+		],
+		"aya": "Al Quran itu tiada lain hanyalah peringatan bagi semesta alam,"
+	},
+	"28": {
+		"word": [
+			{ "locale": "bagi siapa" },
+			{ "locale": "menghendaki" },
+			{ "locale": "diantara kamu" },
+			{ "locale": "untuk" },
+			{ "locale": "menempuh jalan yang lurus" }
+		],
+		"aya": "(yaitu) bagi siapa di antara kamu yang mau menempuh jalan yang lurus."
+	},
+	"29": {
+		"word": [
+			{ "locale": "dan tidak" },
+			{ "locale": "kamu menghendaki" },
+			{ "locale": "kecuali" },
+			{ "locale": "bahwa" },
+			{ "locale": "menghendaki" },
+			{ "locale": "Allah" },
+			{ "locale": "Tuhan/Pemelihara" },
+			{ "locale": "semesta alam" }
+		],
+		"aya": "Dan kamu tidak dapat menghendaki (menempuh jalan itu) kecuali apabila dikehendaki Allah, Tuhan semesta alam."
+	}
+}

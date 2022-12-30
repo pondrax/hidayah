@@ -1,1 +1,24 @@
-{"1":{"word":[{"start":1.15,"end":null}]},"2":{"word":[{"start":0.03,"end":1.07},{"start":1.07,"end":3.01},{"start":3.01,"end":3.55},{"start":3.55,"end":null}]},"3":{"word":[{"start":0.03,"end":0.58},{"start":0.58,"end":1.68},{"start":1.68,"end":2.75},{"start":2.75,"end":3.51},{"start":3.51,"end":5.58},{"start":5.58,"end":7.04},{"start":7.04,"end":8.12},{"start":8.12,"end":9.56},{"start":9.56,"end":null}]}}
+{
+	"1": { "word": [{ "start": 1.15, "end": null }] },
+	"2": {
+		"word": [
+			{ "start": 0.03, "end": 1.07 },
+			{ "start": 1.07, "end": 3.01 },
+			{ "start": 3.01, "end": 3.55 },
+			{ "start": 3.55, "end": null }
+		]
+	},
+	"3": {
+		"word": [
+			{ "start": 0.03, "end": 0.58 },
+			{ "start": 0.58, "end": 1.68 },
+			{ "start": 1.68, "end": 2.75 },
+			{ "start": 2.75, "end": 3.51 },
+			{ "start": 3.51, "end": 5.58 },
+			{ "start": 5.58, "end": 7.04 },
+			{ "start": 7.04, "end": 8.12 },
+			{ "start": 8.12, "end": 9.56 },
+			{ "start": 9.56, "end": null }
+		]
+	}
+}

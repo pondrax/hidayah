@@ -34,18 +34,16 @@ html {
 	/* border: 3px solid orange;  creates padding around scroll thumb */
 }
 
-
-
 @font-face {
-  font-family: font-arabic;
-  src: url('/fonts/Uthmani.woff2');
+	font-family: font-arabic;
+	src: url('/fonts/Uthmani.woff2');
 }
 
 .arabic {
-  font-family: font-arabic;
-  /* /* font-size: 1.8rem; */
-  line-height: 2em;
-  /* margin-top: 5px; */
-  /* margin-right: 0; */ 
-  direction: rtl;
+	font-family: font-arabic;
+	/* /* font-size: 1.8rem; */
+	line-height: 2em;
+	/* margin-top: 5px; */
+	/* margin-right: 0; */
+	direction: rtl;
 }

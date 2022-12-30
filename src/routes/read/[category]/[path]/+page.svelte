@@ -87,7 +87,12 @@
 						{id}
 					</div>
 					<label class="swap text-2xl">
-						<input type="checkbox" checked={activeID === aya.id} on:click={() => play(aya.id)} aria-label="Audio Player"/>
+						<input
+							type="checkbox"
+							checked={activeID === aya.id}
+							on:click={() => play(aya.id)}
+							aria-label="Audio Player"
+						/>
 						<div class="swap-on ri-pause-line" />
 						<div class="swap-off ri-play-line" />
 					</label>

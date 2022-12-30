@@ -1,1 +1,204 @@
-{"1":{"word":[{"locale":"demi langit"},{"locale":"memiliki"},{"locale":"gugusan bintang-bintang"}],"aya":"Demi langit yang mempunyai gugusan bintang,"},"2":{"word":[{"locale":"dan hari"},{"locale":"dijanjikan"}],"aya":"dan hari yang dijanjikan,"},"3":{"word":[{"locale":"Demi yang menyaksikan"},{"locale":"dan yang disaksikan"}],"aya":"dan yang menyaksikan dan yang disaksikan."},"4":{"word":[{"locale":"dibunuh/dibinasakan"},{"locale":"kaum/orang-orang"},{"locale":"pembuat parit"}],"aya":"Binasa dan terlaknatlah orang-orang yang membuat parit,"},"5":{"word":[{"locale":"api"},{"locale":"mempunyai"},{"locale":"kayu bakar"}],"aya":"yang berapi (dinyalakan dengan) kayu bakar,"},"6":{"word":[{"locale":"ketika"},{"locale":"mereka"},{"locale":"atas mereka"},{"locale":"duduk"}],"aya":"ketika mereka duduk di sekitarnya,"},"7":{"word":[{"locale":"dan mereka"},{"locale":"atas"},{"locale":"apa"},{"locale":"mereka perbuat"},{"locale":"terhadap orang-orang yang beriman"},{"locale":"menyaksikan"}],"aya":"sedang mereka menyaksikan apa yang mereka perbuat terhadap orang-orang yang beriman."},"8":{"word":[{"locale":"dan tidak"},{"locale":"mereka menyiksa"},{"locale":"di antara mereka"},{"locale":"kecuali"},{"locale":"bahwa"},{"locale":"mereka beriman"},{"locale":"kepada Allah"},{"locale":"Maha Perkasa"},{"locale":"Maha Terpuji"}],"aya":"Dan mereka tidak menyiksa orang-orang mukmin itu melainkan karena orang-orang mukmin itu beriman kepada Allah Yang Maha Perkasa lagi Maha Terpuji,"},"9":{"word":[{"locale":"yang"},{"locale":"bagiNya/mempunyai"},{"locale":"kerajaan"},{"locale":"langit(jamak)"},{"locale":"dan bumi"},{"locale":"dan Allah"},{"locale":"atas"},{"locale":"setiap"},{"locale":"sesuatu"},{"locale":"Maha Menyaksikan"}],"aya":"Yang mempunyai kerajaan langit dan bumi; dan Allah Maha Menyaksikan segala sesuatu."},"10":{"word":[{"locale":"sesungguhnya"},{"locale":"orang-orang yang"},{"locale":"mereka (menfitnah)"},{"locale":"orang-orang mu'min (beriman) laki-laki"},{"locale":"orang-orang mu'min (beriman) perempuan"},{"locale":"kemudian"},{"locale":"tidak"},{"locale":"bertaubat"},{"locale":"maka mereka"},{"locale":"siksa/azab"},{"locale":"neraka jahanam"},{"locale":"dan bagi mereka"},{"locale":"siksa/azab"},{"locale":"membakar"}],"aya":"Sesungguhnya orang-orang yang mendatangkan cobaan kepada orang-orang yang mukmin laki-laki dan perempuan kemudian mereka tidak bertaubat, maka bagi mereka azab Jahannam dan bagi mereka azab (neraka) yang membakar."},"11":{"word":[{"locale":"sesungguhnya"},{"locale":"orang-orang yang"},{"locale":"beriman"},{"locale":"dan beramal"},{"locale":"saleh"},{"locale":"bagi mereka"},{"locale":"surga"},{"locale":"mengalir"},{"locale":"dari"},{"locale":"bawahnya"},{"locale":"sungai"},{"locale":"demikian/itu"},{"locale":"keberuntungan"},{"locale":"besar"}],"aya":"Sesungguhnya orang-orang yang beriman dan mengerjakan amal-amal yang saleh bagi mereka surga yang mengalir di bawahnya sungai-sungai; itulah keberuntungan yang besar."},"12":{"word":[{"locale":"sesungguhnya"},{"locale":"kekuatan (azab)"},{"locale":"Tuhanmu"},{"locale":"benar-benar/sangat keras"}],"aya":"Sesungguhnya azab Tuhanmu benar-benar keras."},"13":{"word":[{"locale":"sesungguhnya Dia"},{"locale":"Dia"},{"locale":"Dia memulai menciptakan"},{"locale":"dan Dia mengulangi"}],"aya":"Sesungguhnya Dialah Yang menciptakan (makhluk) dari permulaan dan menghidupkannya (kembali)."},"14":{"word":[{"locale":"dan Dia"},{"locale":"Maha Pengampun"},{"locale":"Maha Pengasih"}],"aya":"Dialah Yang Maha Pengampun lagi Maha Pengasih,"},"15":{"word":[{"locale":"memiliki/mempunyai"},{"locale":"'Arsy"},{"locale":"maha Terpuji/Mulia"}],"aya":"yang mempunyai 'Arsy, lagi Maha Mulia,"},"16":{"word":[{"locale":"berbuat"},{"locale":"terhadap apa"},{"locale":"yang dikehendaki"}],"aya":"Maha Kuasa berbuat apa yang dikehendaki-Nya."},"17":{"word":[{"locale":"apakah"},{"locale":"datang kepadamu"},{"locale":"berita"},{"locale":"bala tentara"}],"aya":"Sudahkah datang kepadamu berita kaum-kaum penentang,"},"18":{"word":[{"locale":"Fir'aun"},{"locale":"dan Samud"}],"aya":"(yaitu kaum) Fir'aun dan (kaum) Tsamud?"},"19":{"word":[{"locale":"bahkan"},{"locale":"orang-orang yang"},{"locale":"kafir/ingkar"},{"locale":"dalam"},{"locale":"kedustaan"}],"aya":"Sesungguhnya orang-orang kafir selalu mendustakan,"},"20":{"word":[{"locale":"dan Allah"},{"locale":"dari"},{"locale":"belakang mereka"},{"locale":"meliputi/mengepung"}],"aya":"padahal Allah mengepung mereka dari belakang mereka."},"21":{"word":[{"locale":"bahkan"},{"locale":"dia"},{"locale":"Quran"},{"locale":"agung/mulia"}],"aya":"Bahkan yang didustakan mereka itu ialah Al Quran yang mulia,"},"22":{"word":[{"locale":"pada"},{"locale":"papan/batu tulis"},{"locale":"terpelihara"}],"aya":"yang (tersimpan) dalam Lauh Mahfuzh."}}
+{
+	"1": {
+		"word": [
+			{ "locale": "demi langit" },
+			{ "locale": "memiliki" },
+			{ "locale": "gugusan bintang-bintang" }
+		],
+		"aya": "Demi langit yang mempunyai gugusan bintang,"
+	},
+	"2": {
+		"word": [{ "locale": "dan hari" }, { "locale": "dijanjikan" }],
+		"aya": "dan hari yang dijanjikan,"
+	},
+	"3": {
+		"word": [{ "locale": "Demi yang menyaksikan" }, { "locale": "dan yang disaksikan" }],
+		"aya": "dan yang menyaksikan dan yang disaksikan."
+	},
+	"4": {
+		"word": [
+			{ "locale": "dibunuh/dibinasakan" },
+			{ "locale": "kaum/orang-orang" },
+			{ "locale": "pembuat parit" }
+		],
+		"aya": "Binasa dan terlaknatlah orang-orang yang membuat parit,"
+	},
+	"5": {
+		"word": [{ "locale": "api" }, { "locale": "mempunyai" }, { "locale": "kayu bakar" }],
+		"aya": "yang berapi (dinyalakan dengan) kayu bakar,"
+	},
+	"6": {
+		"word": [
+			{ "locale": "ketika" },
+			{ "locale": "mereka" },
+			{ "locale": "atas mereka" },
+			{ "locale": "duduk" }
+		],
+		"aya": "ketika mereka duduk di sekitarnya,"
+	},
+	"7": {
+		"word": [
+			{ "locale": "dan mereka" },
+			{ "locale": "atas" },
+			{ "locale": "apa" },
+			{ "locale": "mereka perbuat" },
+			{ "locale": "terhadap orang-orang yang beriman" },
+			{ "locale": "menyaksikan" }
+		],
+		"aya": "sedang mereka menyaksikan apa yang mereka perbuat terhadap orang-orang yang beriman."
+	},
+	"8": {
+		"word": [
+			{ "locale": "dan tidak" },
+			{ "locale": "mereka menyiksa" },
+			{ "locale": "di antara mereka" },
+			{ "locale": "kecuali" },
+			{ "locale": "bahwa" },
+			{ "locale": "mereka beriman" },
+			{ "locale": "kepada Allah" },
+			{ "locale": "Maha Perkasa" },
+			{ "locale": "Maha Terpuji" }
+		],
+		"aya": "Dan mereka tidak menyiksa orang-orang mukmin itu melainkan karena orang-orang mukmin itu beriman kepada Allah Yang Maha Perkasa lagi Maha Terpuji,"
+	},
+	"9": {
+		"word": [
+			{ "locale": "yang" },
+			{ "locale": "bagiNya/mempunyai" },
+			{ "locale": "kerajaan" },
+			{ "locale": "langit(jamak)" },
+			{ "locale": "dan bumi" },
+			{ "locale": "dan Allah" },
+			{ "locale": "atas" },
+			{ "locale": "setiap" },
+			{ "locale": "sesuatu" },
+			{ "locale": "Maha Menyaksikan" }
+		],
+		"aya": "Yang mempunyai kerajaan langit dan bumi; dan Allah Maha Menyaksikan segala sesuatu."
+	},
+	"10": {
+		"word": [
+			{ "locale": "sesungguhnya" },
+			{ "locale": "orang-orang yang" },
+			{ "locale": "mereka (menfitnah)" },
+			{ "locale": "orang-orang mu'min (beriman) laki-laki" },
+			{ "locale": "orang-orang mu'min (beriman) perempuan" },
+			{ "locale": "kemudian" },
+			{ "locale": "tidak" },
+			{ "locale": "bertaubat" },
+			{ "locale": "maka mereka" },
+			{ "locale": "siksa/azab" },
+			{ "locale": "neraka jahanam" },
+			{ "locale": "dan bagi mereka" },
+			{ "locale": "siksa/azab" },
+			{ "locale": "membakar" }
+		],
+		"aya": "Sesungguhnya orang-orang yang mendatangkan cobaan kepada orang-orang yang mukmin laki-laki dan perempuan kemudian mereka tidak bertaubat, maka bagi mereka azab Jahannam dan bagi mereka azab (neraka) yang membakar."
+	},
+	"11": {
+		"word": [
+			{ "locale": "sesungguhnya" },
+			{ "locale": "orang-orang yang" },
+			{ "locale": "beriman" },
+			{ "locale": "dan beramal" },
+			{ "locale": "saleh" },
+			{ "locale": "bagi mereka" },
+			{ "locale": "surga" },
+			{ "locale": "mengalir" },
+			{ "locale": "dari" },
+			{ "locale": "bawahnya" },
+			{ "locale": "sungai" },
+			{ "locale": "demikian/itu" },
+			{ "locale": "keberuntungan" },
+			{ "locale": "besar" }
+		],
+		"aya": "Sesungguhnya orang-orang yang beriman dan mengerjakan amal-amal yang saleh bagi mereka surga yang mengalir di bawahnya sungai-sungai; itulah keberuntungan yang besar."
+	},
+	"12": {
+		"word": [
+			{ "locale": "sesungguhnya" },
+			{ "locale": "kekuatan (azab)" },
+			{ "locale": "Tuhanmu" },
+			{ "locale": "benar-benar/sangat keras" }
+		],
+		"aya": "Sesungguhnya azab Tuhanmu benar-benar keras."
+	},
+	"13": {
+		"word": [
+			{ "locale": "sesungguhnya Dia" },
+			{ "locale": "Dia" },
+			{ "locale": "Dia memulai menciptakan" },
+			{ "locale": "dan Dia mengulangi" }
+		],
+		"aya": "Sesungguhnya Dialah Yang menciptakan (makhluk) dari permulaan dan menghidupkannya (kembali)."
+	},
+	"14": {
+		"word": [
+			{ "locale": "dan Dia" },
+			{ "locale": "Maha Pengampun" },
+			{ "locale": "Maha Pengasih" }
+		],
+		"aya": "Dialah Yang Maha Pengampun lagi Maha Pengasih,"
+	},
+	"15": {
+		"word": [
+			{ "locale": "memiliki/mempunyai" },
+			{ "locale": "'Arsy" },
+			{ "locale": "maha Terpuji/Mulia" }
+		],
+		"aya": "yang mempunyai 'Arsy, lagi Maha Mulia,"
+	},
+	"16": {
+		"word": [
+			{ "locale": "berbuat" },
+			{ "locale": "terhadap apa" },
+			{ "locale": "yang dikehendaki" }
+		],
+		"aya": "Maha Kuasa berbuat apa yang dikehendaki-Nya."
+	},
+	"17": {
+		"word": [
+			{ "locale": "apakah" },
+			{ "locale": "datang kepadamu" },
+			{ "locale": "berita" },
+			{ "locale": "bala tentara" }
+		],
+		"aya": "Sudahkah datang kepadamu berita kaum-kaum penentang,"
+	},
+	"18": {
+		"word": [{ "locale": "Fir'aun" }, { "locale": "dan Samud" }],
+		"aya": "(yaitu kaum) Fir'aun dan (kaum) Tsamud?"
+	},
+	"19": {
+		"word": [
+			{ "locale": "bahkan" },
+			{ "locale": "orang-orang yang" },
+			{ "locale": "kafir/ingkar" },
+			{ "locale": "dalam" },
+			{ "locale": "kedustaan" }
+		],
+		"aya": "Sesungguhnya orang-orang kafir selalu mendustakan,"
+	},
+	"20": {
+		"word": [
+			{ "locale": "dan Allah" },
+			{ "locale": "dari" },
+			{ "locale": "belakang mereka" },
+			{ "locale": "meliputi/mengepung" }
+		],
+		"aya": "padahal Allah mengepung mereka dari belakang mereka."
+	},
+	"21": {
+		"word": [
+			{ "locale": "bahkan" },
+			{ "locale": "dia" },
+			{ "locale": "Quran" },
+			{ "locale": "agung/mulia" }
+		],
+		"aya": "Bahkan yang didustakan mereka itu ialah Al Quran yang mulia,"
+	},
+	"22": {
+		"word": [{ "locale": "pada" }, { "locale": "papan/batu tulis" }, { "locale": "terpelihara" }],
+		"aya": "yang (tersimpan) dalam Lauh Mahfuzh."
+	}
+}

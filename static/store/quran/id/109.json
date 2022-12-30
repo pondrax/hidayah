@@ -1,1 +1,54 @@
-{"1":{"word":[{"locale":"katakanlah"},{"locale":"wahai"},{"locale":"orang-orang kafir"}],"aya":"Katakanlah: \"Hai orang-orang kafir,"},"2":{"word":[{"locale":"tidak"},{"locale":"aku menyembah"},{"locale":"apa"},{"locale":"kamu sembah"}],"aya":"Aku tidak akan menyembah apa yang kamu sembah."},"3":{"word":[{"locale":"dan tidak"},{"locale":"kamu"},{"locale":"menyembah"},{"locale":"apa"},{"locale":"aku sembah"}],"aya":"Dan kamu bukan penyembah Tuhan yang aku sembah."},"4":{"word":[{"locale":"dan bukanlah"},{"locale":"aku"},{"locale":"menjadi penyembah"},{"locale":"apa"},{"locale":"kamu sembah"}],"aya":"Dan aku tidak pernah menjadi penyembah apa yang kamu sembah,"},"5":{"word":[{"locale":"dan bukanlah"},{"locale":"kamu"},{"locale":"menyembah"},{"locale":"apa"},{"locale":"aku sembah"}],"aya":"dan kamu tidak pernah (pula) menjadi penyembah Tuhan yang aku sembah."},"6":{"word":[{"locale":"bagi kalian"},{"locale":"agamamu"},{"locale":"bagiku"},{"locale":"agamaku"}],"aya":"Untukmu agamamu, dan untukkulah, agamaku\"."}}
+{
+	"1": {
+		"word": [{ "locale": "katakanlah" }, { "locale": "wahai" }, { "locale": "orang-orang kafir" }],
+		"aya": "Katakanlah: \"Hai orang-orang kafir,"
+	},
+	"2": {
+		"word": [
+			{ "locale": "tidak" },
+			{ "locale": "aku menyembah" },
+			{ "locale": "apa" },
+			{ "locale": "kamu sembah" }
+		],
+		"aya": "Aku tidak akan menyembah apa yang kamu sembah."
+	},
+	"3": {
+		"word": [
+			{ "locale": "dan tidak" },
+			{ "locale": "kamu" },
+			{ "locale": "menyembah" },
+			{ "locale": "apa" },
+			{ "locale": "aku sembah" }
+		],
+		"aya": "Dan kamu bukan penyembah Tuhan yang aku sembah."
+	},
+	"4": {
+		"word": [
+			{ "locale": "dan bukanlah" },
+			{ "locale": "aku" },
+			{ "locale": "menjadi penyembah" },
+			{ "locale": "apa" },
+			{ "locale": "kamu sembah" }
+		],
+		"aya": "Dan aku tidak pernah menjadi penyembah apa yang kamu sembah,"
+	},
+	"5": {
+		"word": [
+			{ "locale": "dan bukanlah" },
+			{ "locale": "kamu" },
+			{ "locale": "menyembah" },
+			{ "locale": "apa" },
+			{ "locale": "aku sembah" }
+		],
+		"aya": "dan kamu tidak pernah (pula) menjadi penyembah Tuhan yang aku sembah."
+	},
+	"6": {
+		"word": [
+			{ "locale": "bagi kalian" },
+			{ "locale": "agamamu" },
+			{ "locale": "bagiku" },
+			{ "locale": "agamaku" }
+		],
+		"aya": "Untukmu agamamu, dan untukkulah, agamaku\"."
+	}
+}

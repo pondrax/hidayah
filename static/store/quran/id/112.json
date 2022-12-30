@@ -1,1 +1,34 @@
-{"1":{"word":[{"locale":"katakanlah"},{"locale":"Dia"},{"locale":"Allah"},{"locale":"Esa"}],"aya":"Katakanlah: \"Dialah Allah, Yang Maha Esa."},"2":{"word":[{"locale":"Allah"},{"locale":"tempat bergantung"}],"aya":"Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu."},"3":{"word":[{"locale":"tidak"},{"locale":"beranak"},{"locale":"dan tidak"},{"locale":"diperanakkan"}],"aya":"Dia tiada beranak dan tidak pula diperanakkan,"},"4":{"word":[{"locale":"dan tidak"},{"locale":"ada"},{"locale":"baginya"},{"locale":"menyamai/setara"},{"locale":"seorang"}],"aya":"dan tidak ada seorangpun yang setara dengan Dia\"."}}
+{
+	"1": {
+		"word": [
+			{ "locale": "katakanlah" },
+			{ "locale": "Dia" },
+			{ "locale": "Allah" },
+			{ "locale": "Esa" }
+		],
+		"aya": "Katakanlah: \"Dialah Allah, Yang Maha Esa."
+	},
+	"2": {
+		"word": [{ "locale": "Allah" }, { "locale": "tempat bergantung" }],
+		"aya": "Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu."
+	},
+	"3": {
+		"word": [
+			{ "locale": "tidak" },
+			{ "locale": "beranak" },
+			{ "locale": "dan tidak" },
+			{ "locale": "diperanakkan" }
+		],
+		"aya": "Dia tiada beranak dan tidak pula diperanakkan,"
+	},
+	"4": {
+		"word": [
+			{ "locale": "dan tidak" },
+			{ "locale": "ada" },
+			{ "locale": "baginya" },
+			{ "locale": "menyamai/setara" },
+			{ "locale": "seorang" }
+		],
+		"aya": "dan tidak ada seorangpun yang setara dengan Dia\"."
+	}
+}

@@ -4,6 +4,7 @@
 	import type { PageData } from './$types';
 
 	export let data: PageData;
+	console.log(data);
 	// data.list = $lastRead
 	// console.log(data);
 	let list: any = Object.entries($lastRead);
@@ -48,7 +49,7 @@
 				>
 					<div class="w-16 p-3 text-right border-r-2x">
 						<div class="text-xl text-center ">{d.no}</div>
-            <div class="text-xs text-center ">{d.id}</div>
+						<div class="text-xs text-center ">{d.id}</div>
 					</div>
 					<div class="card-body py-2">
 						<h2 class="card-title text-sm">
@@ -58,9 +59,9 @@
 							{d.subtitle}
 						</p>
 					</div>
-          <div class="text-sm text-center p-2">
-            {@html new Date(d.time).toISOString().replace(/\..*/g,'').replace('T','<br>')}
-          </div>
+					<div class="text-sm text-center p-2">
+						{@html new Date(d.time).toISOString().replace(/\..*/g, '').replace('T', '<br>')}
+					</div>
 				</a>
 			{/each}
 		</div>

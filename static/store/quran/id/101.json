@@ -1,1 +1,82 @@
-{"1":{"word":[{"locale":"hari kiamat"}],"aya":"Hari Kiamat,"},"2":{"word":[{"locale":"apakah"},{"locale":"hari kiamat"}],"aya":"apakah hari Kiamat itu?"},"3":{"word":[{"locale":"dan apakah"},{"locale":"kamu tahu"},{"locale":"apa"},{"locale":"hari kiamat"}],"aya":"Tahukah kamu apakah hari Kiamat itu?"},"4":{"word":[{"locale":"hari"},{"locale":"adalah"},{"locale":"manusia"},{"locale":"seperti anai-anai"},{"locale":"bertebaran"}],"aya":"Pada hari itu manusia adalah seperti anai-anai yang bertebaran,"},"5":{"word":[{"locale":"dan adalah"},{"locale":"gunung-gunung"},{"locale":"seperti bulu"},{"locale":"dihambur-hamburkan"}],"aya":"dan gunung-gunung adalah seperti bulu yang dihambur-hamburkan."},"6":{"word":[{"locale":"maka adapun"},{"locale":"siapa/orang"},{"locale":"berat"},{"locale":"timbangannya"}],"aya":"Dan adapun orang-orang yang berat timbangan (kebaikan)nya,"},"7":{"word":[{"locale":"maka dia"},{"locale":"dalam"},{"locale":"kehidupan"},{"locale":"memuaskan"}],"aya":"maka dia berada dalam kehidupan yang memuaskan."},"8":{"word":[{"locale":"dan adapun"},{"locale":"orang"},{"locale":"ringan"},{"locale":"timbangannya"}],"aya":"Dan adapun orang-orang yang ringan timbangan (kebaikan)nya,"},"9":{"word":[{"locale":"maka tempat kembalinya"},{"locale":"jurang yang dalam/neraka Hawiyah"}],"aya":"maka tempat kembalinya adalah neraka Hawiyah."},"10":{"word":[{"locale":"dan apakah"},{"locale":"kamu tahu"},{"locale":"apa"},{"locale":"itu"}],"aya":"Tahukah kamu apakah neraka Hawiyah itu?"},"11":{"word":[{"locale":"api"},{"locale":"sangat panas"}],"aya":"(Yaitu) api yang sangat panas."}}
+{
+	"1": { "word": [{ "locale": "hari kiamat" }], "aya": "Hari Kiamat," },
+	"2": {
+		"word": [{ "locale": "apakah" }, { "locale": "hari kiamat" }],
+		"aya": "apakah hari Kiamat itu?"
+	},
+	"3": {
+		"word": [
+			{ "locale": "dan apakah" },
+			{ "locale": "kamu tahu" },
+			{ "locale": "apa" },
+			{ "locale": "hari kiamat" }
+		],
+		"aya": "Tahukah kamu apakah hari Kiamat itu?"
+	},
+	"4": {
+		"word": [
+			{ "locale": "hari" },
+			{ "locale": "adalah" },
+			{ "locale": "manusia" },
+			{ "locale": "seperti anai-anai" },
+			{ "locale": "bertebaran" }
+		],
+		"aya": "Pada hari itu manusia adalah seperti anai-anai yang bertebaran,"
+	},
+	"5": {
+		"word": [
+			{ "locale": "dan adalah" },
+			{ "locale": "gunung-gunung" },
+			{ "locale": "seperti bulu" },
+			{ "locale": "dihambur-hamburkan" }
+		],
+		"aya": "dan gunung-gunung adalah seperti bulu yang dihambur-hamburkan."
+	},
+	"6": {
+		"word": [
+			{ "locale": "maka adapun" },
+			{ "locale": "siapa/orang" },
+			{ "locale": "berat" },
+			{ "locale": "timbangannya" }
+		],
+		"aya": "Dan adapun orang-orang yang berat timbangan (kebaikan)nya,"
+	},
+	"7": {
+		"word": [
+			{ "locale": "maka dia" },
+			{ "locale": "dalam" },
+			{ "locale": "kehidupan" },
+			{ "locale": "memuaskan" }
+		],
+		"aya": "maka dia berada dalam kehidupan yang memuaskan."
+	},
+	"8": {
+		"word": [
+			{ "locale": "dan adapun" },
+			{ "locale": "orang" },
+			{ "locale": "ringan" },
+			{ "locale": "timbangannya" }
+		],
+		"aya": "Dan adapun orang-orang yang ringan timbangan (kebaikan)nya,"
+	},
+	"9": {
+		"word": [
+			{ "locale": "maka tempat kembalinya" },
+			{ "locale": "jurang yang dalam/neraka Hawiyah" }
+		],
+		"aya": "maka tempat kembalinya adalah neraka Hawiyah."
+	},
+	"10": {
+		"word": [
+			{ "locale": "dan apakah" },
+			{ "locale": "kamu tahu" },
+			{ "locale": "apa" },
+			{ "locale": "itu" }
+		],
+		"aya": "Tahukah kamu apakah neraka Hawiyah itu?"
+	},
+	"11": {
+		"word": [{ "locale": "api" }, { "locale": "sangat panas" }],
+		"aya": "(Yaitu) api yang sangat panas."
+	}
+}

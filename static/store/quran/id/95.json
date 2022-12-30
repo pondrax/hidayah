@@ -1,1 +1,66 @@
-{"1":{"word":[{"locale":"demi tin"},{"locale":"dan zaitun"}],"aya":"Demi (buah) Tin dan (buah) Zaitun,"},"2":{"word":[{"locale":"dan bukit"},{"locale":"Sinai"}],"aya":"dan demi bukit Sinai,"},"3":{"word":[{"locale":"dan ini"},{"locale":"negri"},{"locale":"aman"}],"aya":"dan demi kota (Mekah) ini yang aman,"},"4":{"word":[{"locale":"sesungguhnya"},{"locale":"Kami telah menciptakan"},{"locale":"manusia"},{"locale":"dalam"},{"locale":"sebaik-baik"},{"locale":"bentuk"}],"aya":"sesungguhnya Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya."},"5":{"word":[{"locale":"kemudian"},{"locale":"Kami kembalikan"},{"locale":"lebih rendah/paling rendah"},{"locale":"tempat yang rendah"}],"aya":"Kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya (neraka),"},"6":{"word":[{"locale":"kecuali"},{"locale":"orang-orang yang"},{"locale":"beriman"},{"locale":"dan mereka berbuat/beramal"},{"locale":"kebajikan/saleh"},{"locale":"maka bagi mereka"},{"locale":"pahala"},{"locale":"bukan/tidak"},{"locale":"terputus"}],"aya":"kecuali orang-orang yang beriman dan mengerjakan amal saleh; maka bagi mereka pahala yang tiada putus-putusnya."},"7":{"word":[{"locale":"maka apakah"},{"locale":"mendustakanmu"},{"locale":"sesudah"},{"locale":"hari pembalasan/agama"}],"aya":"Maka apakah yang menyebabkan kamu mendustakan (hari) pembalasan sesudah (adanya keterangan-keterangan) itu?"},"8":{"word":[{"locale":"bukankah"},{"locale":"Allah"},{"locale":"lebih bijaksana/seadil-adilnya"},{"locale":"para hakim"}],"aya":"Bukankah Allah Hakim yang seadil-adilnya?"}}
+{
+	"1": {
+		"word": [{ "locale": "demi tin" }, { "locale": "dan zaitun" }],
+		"aya": "Demi (buah) Tin dan (buah) Zaitun,"
+	},
+	"2": {
+		"word": [{ "locale": "dan bukit" }, { "locale": "Sinai" }],
+		"aya": "dan demi bukit Sinai,"
+	},
+	"3": {
+		"word": [{ "locale": "dan ini" }, { "locale": "negri" }, { "locale": "aman" }],
+		"aya": "dan demi kota (Mekah) ini yang aman,"
+	},
+	"4": {
+		"word": [
+			{ "locale": "sesungguhnya" },
+			{ "locale": "Kami telah menciptakan" },
+			{ "locale": "manusia" },
+			{ "locale": "dalam" },
+			{ "locale": "sebaik-baik" },
+			{ "locale": "bentuk" }
+		],
+		"aya": "sesungguhnya Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya."
+	},
+	"5": {
+		"word": [
+			{ "locale": "kemudian" },
+			{ "locale": "Kami kembalikan" },
+			{ "locale": "lebih rendah/paling rendah" },
+			{ "locale": "tempat yang rendah" }
+		],
+		"aya": "Kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya (neraka),"
+	},
+	"6": {
+		"word": [
+			{ "locale": "kecuali" },
+			{ "locale": "orang-orang yang" },
+			{ "locale": "beriman" },
+			{ "locale": "dan mereka berbuat/beramal" },
+			{ "locale": "kebajikan/saleh" },
+			{ "locale": "maka bagi mereka" },
+			{ "locale": "pahala" },
+			{ "locale": "bukan/tidak" },
+			{ "locale": "terputus" }
+		],
+		"aya": "kecuali orang-orang yang beriman dan mengerjakan amal saleh; maka bagi mereka pahala yang tiada putus-putusnya."
+	},
+	"7": {
+		"word": [
+			{ "locale": "maka apakah" },
+			{ "locale": "mendustakanmu" },
+			{ "locale": "sesudah" },
+			{ "locale": "hari pembalasan/agama" }
+		],
+		"aya": "Maka apakah yang menyebabkan kamu mendustakan (hari) pembalasan sesudah (adanya keterangan-keterangan) itu?"
+	},
+	"8": {
+		"word": [
+			{ "locale": "bukankah" },
+			{ "locale": "Allah" },
+			{ "locale": "lebih bijaksana/seadil-adilnya" },
+			{ "locale": "para hakim" }
+		],
+		"aya": "Bukankah Allah Hakim yang seadil-adilnya?"
+	}
+}

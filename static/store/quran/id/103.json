@@ -1,1 +1,26 @@
-{"1":{"word":[{"locale":"demi waktu"}],"aya":"Demi masa."},"2":{"word":[{"locale":"sesungguhnya"},{"locale":"manusia"},{"locale":"benar-benar dalam"},{"locale":"kerugian"}],"aya":"Sesungguhnya manusia itu benar-benar dalam kerugian,"},"3":{"word":[{"locale":"kecuali"},{"locale":"orang-orang yang"},{"locale":"beriman"},{"locale":"dan mereka berbuat/beramal"},{"locale":"kebajikan/sholeh"},{"locale":"dan mereka saling berwasiat/menasehati"},{"locale":"dengan kebenaran"},{"locale":"dan mereka saling berwasiat/menasehati"},{"locale":"dengan kesabaran"}],"aya":"kecuali orang-orang yang beriman dan mengerjakan amal saleh dan nasehat menasehati supaya mentaati kebenaran dan nasehat menasehati supaya menetapi kesabaran."}}
+{
+	"1": { "word": [{ "locale": "demi waktu" }], "aya": "Demi masa." },
+	"2": {
+		"word": [
+			{ "locale": "sesungguhnya" },
+			{ "locale": "manusia" },
+			{ "locale": "benar-benar dalam" },
+			{ "locale": "kerugian" }
+		],
+		"aya": "Sesungguhnya manusia itu benar-benar dalam kerugian,"
+	},
+	"3": {
+		"word": [
+			{ "locale": "kecuali" },
+			{ "locale": "orang-orang yang" },
+			{ "locale": "beriman" },
+			{ "locale": "dan mereka berbuat/beramal" },
+			{ "locale": "kebajikan/sholeh" },
+			{ "locale": "dan mereka saling berwasiat/menasehati" },
+			{ "locale": "dengan kebenaran" },
+			{ "locale": "dan mereka saling berwasiat/menasehati" },
+			{ "locale": "dengan kesabaran" }
+		],
+		"aya": "kecuali orang-orang yang beriman dan mengerjakan amal saleh dan nasehat menasehati supaya mentaati kebenaran dan nasehat menasehati supaya menetapi kesabaran."
+	}
+}

@@ -1,1 +1,135 @@
-{"1":{"word":[{"locale":"dan langit"},{"locale":"dan yang datang di malam hari"}],"aya":"Demi langit dan yang datang pada malam hari,"},"2":{"word":[{"locale":"dan apa"},{"locale":"kamu tahu"},{"locale":"apa"},{"locale":"yang datang dimalam hari"}],"aya":"tahukah kamu apakah yang datang pada malam hari itu?"},"3":{"word":[{"locale":"bintang"},{"locale":"cemerlang/menembus"}],"aya":"(yaitu) bintang yang cahayanya menembus,"},"4":{"word":[{"locale":"tidak"},{"locale":"setiap"},{"locale":"jiwa/diri"},{"locale":"melainkan"},{"locale":"atasnya"},{"locale":"penjaga"}],"aya":"tidak ada suatu jiwapun (diri) melainkan ada penjaganya."},"5":{"word":[{"locale":"maka hendaklah memperhatikan"},{"locale":"manusia"},{"locale":"dari apa"},{"locale":"ia diciptakan"}],"aya":"Maka hendaklah manusia memperhatikan dari apakah dia diciptakan?"},"6":{"word":[{"locale":"ia diciptakan"},{"locale":"dari"},{"locale":"air"},{"locale":"terpancar"}],"aya":"Dia diciptakan dari air yang dipancarkan,"},"7":{"word":[{"locale":"ia keluar"},{"locale":"dari"},{"locale":"antara"},{"locale":"tulang belakang"},{"locale":"dan tulang dada"}],"aya":"yang keluar dari antara tulang sulbi laki-laki dan tulang dada perempuan."},"8":{"word":[{"locale":"sesungguhnya Dia"},{"locale":"atas"},{"locale":"mengembalikanya"},{"locale":"benar-benar berkuasa"}],"aya":"Sesungguhnya Allah benar-benar kuasa untuk mengembalikannya (hidup sesudah mati)."},"9":{"word":[{"locale":"hari"},{"locale":"dibuka/dinampakkan"},{"locale":"rahasia-rahasia"}],"aya":"Pada hari dinampakkan segala rahasia,"},"10":{"word":[{"locale":"maka tidak"},{"locale":"baginya"},{"locale":"dari"},{"locale":"kekuatan"},{"locale":"dan tidak"},{"locale":"seorang penolong"}],"aya":"maka sekali-kali tidak ada bagi manusia itu suatu kekuatanpun dan tidak (pula) seorang penolong."},"11":{"word":[{"locale":"dan langit"},{"locale":"mempunyai/mengandung"},{"locale":"air/hujan"}],"aya":"Demi langit yang mengandung hujan"},"12":{"word":[{"locale":"dan bumi"},{"locale":"mempunyai"},{"locale":"tumbuh-tumbuhan"}],"aya":"dan bumi yang mempunyai tumbuh-tumbuhan,"},"13":{"word":[{"locale":"sesungguhnya ia (Al Qur'an)"},{"locale":"perkataan/firman"},{"locale":"terpisah"}],"aya":"sesungguhnya Al Quran itu benar-benar firman yang memisahkan antara yang hak dan yang bathil."},"14":{"word":[{"locale":"dan tidak"},{"locale":"ia (Al Qur'an)"},{"locale":"dengan sia-sia/senda gurau"}],"aya":"dan sekali-kali bukanlah dia senda gurau."},"15":{"word":[{"locale":"sesungguhnya mereka"},{"locale":"mereka membuat tipu daya"},{"locale":"tipu daya"}],"aya":"Sesungguhnya orang kafir itu merencanakan tipu daya yang jahat dengan sebenar-benarnya."},"16":{"word":[{"locale":"dan AKu membuat tipu daya"},{"locale":"tipu daya"}],"aya":"Dan Akupun membuat rencana (pula) dengan sebenar-benarnya."},"17":{"word":[{"locale":"maka beri tangguhlah"},{"locale":"orang-orang kafir"},{"locale":"beritangguhlah mereka"},{"locale":"sedikit/sebentar"}],"aya":"Karena itu beri tangguhlah orang-orang kafir itu yaitu beri tangguhlah mereka itu barang sebentar."}}
+{
+	"1": {
+		"word": [{ "locale": "dan langit" }, { "locale": "dan yang datang di malam hari" }],
+		"aya": "Demi langit dan yang datang pada malam hari,"
+	},
+	"2": {
+		"word": [
+			{ "locale": "dan apa" },
+			{ "locale": "kamu tahu" },
+			{ "locale": "apa" },
+			{ "locale": "yang datang dimalam hari" }
+		],
+		"aya": "tahukah kamu apakah yang datang pada malam hari itu?"
+	},
+	"3": {
+		"word": [{ "locale": "bintang" }, { "locale": "cemerlang/menembus" }],
+		"aya": "(yaitu) bintang yang cahayanya menembus,"
+	},
+	"4": {
+		"word": [
+			{ "locale": "tidak" },
+			{ "locale": "setiap" },
+			{ "locale": "jiwa/diri" },
+			{ "locale": "melainkan" },
+			{ "locale": "atasnya" },
+			{ "locale": "penjaga" }
+		],
+		"aya": "tidak ada suatu jiwapun (diri) melainkan ada penjaganya."
+	},
+	"5": {
+		"word": [
+			{ "locale": "maka hendaklah memperhatikan" },
+			{ "locale": "manusia" },
+			{ "locale": "dari apa" },
+			{ "locale": "ia diciptakan" }
+		],
+		"aya": "Maka hendaklah manusia memperhatikan dari apakah dia diciptakan?"
+	},
+	"6": {
+		"word": [
+			{ "locale": "ia diciptakan" },
+			{ "locale": "dari" },
+			{ "locale": "air" },
+			{ "locale": "terpancar" }
+		],
+		"aya": "Dia diciptakan dari air yang dipancarkan,"
+	},
+	"7": {
+		"word": [
+			{ "locale": "ia keluar" },
+			{ "locale": "dari" },
+			{ "locale": "antara" },
+			{ "locale": "tulang belakang" },
+			{ "locale": "dan tulang dada" }
+		],
+		"aya": "yang keluar dari antara tulang sulbi laki-laki dan tulang dada perempuan."
+	},
+	"8": {
+		"word": [
+			{ "locale": "sesungguhnya Dia" },
+			{ "locale": "atas" },
+			{ "locale": "mengembalikanya" },
+			{ "locale": "benar-benar berkuasa" }
+		],
+		"aya": "Sesungguhnya Allah benar-benar kuasa untuk mengembalikannya (hidup sesudah mati)."
+	},
+	"9": {
+		"word": [
+			{ "locale": "hari" },
+			{ "locale": "dibuka/dinampakkan" },
+			{ "locale": "rahasia-rahasia" }
+		],
+		"aya": "Pada hari dinampakkan segala rahasia,"
+	},
+	"10": {
+		"word": [
+			{ "locale": "maka tidak" },
+			{ "locale": "baginya" },
+			{ "locale": "dari" },
+			{ "locale": "kekuatan" },
+			{ "locale": "dan tidak" },
+			{ "locale": "seorang penolong" }
+		],
+		"aya": "maka sekali-kali tidak ada bagi manusia itu suatu kekuatanpun dan tidak (pula) seorang penolong."
+	},
+	"11": {
+		"word": [
+			{ "locale": "dan langit" },
+			{ "locale": "mempunyai/mengandung" },
+			{ "locale": "air/hujan" }
+		],
+		"aya": "Demi langit yang mengandung hujan"
+	},
+	"12": {
+		"word": [{ "locale": "dan bumi" }, { "locale": "mempunyai" }, { "locale": "tumbuh-tumbuhan" }],
+		"aya": "dan bumi yang mempunyai tumbuh-tumbuhan,"
+	},
+	"13": {
+		"word": [
+			{ "locale": "sesungguhnya ia (Al Qur'an)" },
+			{ "locale": "perkataan/firman" },
+			{ "locale": "terpisah" }
+		],
+		"aya": "sesungguhnya Al Quran itu benar-benar firman yang memisahkan antara yang hak dan yang bathil."
+	},
+	"14": {
+		"word": [
+			{ "locale": "dan tidak" },
+			{ "locale": "ia (Al Qur'an)" },
+			{ "locale": "dengan sia-sia/senda gurau" }
+		],
+		"aya": "dan sekali-kali bukanlah dia senda gurau."
+	},
+	"15": {
+		"word": [
+			{ "locale": "sesungguhnya mereka" },
+			{ "locale": "mereka membuat tipu daya" },
+			{ "locale": "tipu daya" }
+		],
+		"aya": "Sesungguhnya orang kafir itu merencanakan tipu daya yang jahat dengan sebenar-benarnya."
+	},
+	"16": {
+		"word": [{ "locale": "dan AKu membuat tipu daya" }, { "locale": "tipu daya" }],
+		"aya": "Dan Akupun membuat rencana (pula) dengan sebenar-benarnya."
+	},
+	"17": {
+		"word": [
+			{ "locale": "maka beri tangguhlah" },
+			{ "locale": "orang-orang kafir" },
+			{ "locale": "beritangguhlah mereka" },
+			{ "locale": "sedikit/sebentar" }
+		],
+		"aya": "Karena itu beri tangguhlah orang-orang kafir itu yaitu beri tangguhlah mereka itu barang sebentar."
+	}
+}

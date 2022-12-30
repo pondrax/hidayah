@@ -1,1 +1,167 @@
-{"1":{"word":[{"locale":"sungguh"},{"locale":"Aku bersumpah"},{"locale":"dengan ini"},{"locale":"negeri"}],"aya":"Aku benar-benar bersumpah dengan kota ini (Mekah),"},"2":{"word":[{"locale":"dan kamu"},{"locale":"halal/bertempat"},{"locale":"dengan ini"},{"locale":"negeri"}],"aya":"dan kamu (Muhammad) bertempat di kota Mekah ini,"},"3":{"word":[{"locale":"demi bapak"},{"locale":"dan apa"},{"locale":"ia lahirkan (anak)"}],"aya":"dan demi bapak dan anaknya."},"4":{"word":[{"locale":"sesungguhnya"},{"locale":"Kami telah menciptakan"},{"locale":"manusia"},{"locale":"dalam"},{"locale":"susah payah"}],"aya":"Sesungguhnya Kami telah menciptakan manusia berada dalam susah payah."},"5":{"word":[{"locale":"apakah (manusia) menyangka"},{"locale":"bahwa"},{"locale":"tidak"},{"locale":"berkuasa"},{"locale":"atasnya"},{"locale":"seseorang/satu"}],"aya":"Apakah manusia itu menyangka bahwa sekali-kali tiada seorangpun yang berkuasa atasnya?"},"6":{"word":[{"locale":"ia berkata"},{"locale":"aku telah binasakan/habiskan"},{"locale":"harta"},{"locale":"banyak"}],"aya":"Dan mengatakan: \"Aku telah menghabiskan harta yang banyak\"."},"7":{"word":[{"locale":"apakah ia menyangka"},{"locale":"bahwa"},{"locale":"tidak"},{"locale":"berkuasa"},{"locale":"seorang/satu"}],"aya":"Apakah dia menyangka bahwa tiada seorangpun yang melihatnya?"},"8":{"word":[{"locale":"bukankah"},{"locale":"Kami jadikan"},{"locale":"baginya"},{"locale":"dua buah mata"}],"aya":"Bukankah Kami telah memberikan kepadanya dua buah mata,"},"9":{"word":[{"locale":"dan lisan/lidah"},{"locale":"dan dua buah bibir"}],"aya":"lidah dan dua buah bibir."},"10":{"word":[{"locale":"dan Kami telah tunjukannya"},{"locale":"dua jalan"}],"aya":"Dan Kami telah menunjukkan kepadanya dua jalan,"},"11":{"word":[{"locale":"maka/tetapi tidak"},{"locale":"ia menempuh"},{"locale":"pendakian/mendaki"}],"aya":"Tetapi dia tiada menempuh jalan yang mendaki lagi sukar."},"12":{"word":[{"locale":"da apakah"},{"locale":"kamu tahu"},{"locale":"apa"},{"locale":"pendakian itu"}],"aya":"Tahukah kamu apakah jalan yang mendaki lagi sukar itu?"},"13":{"word":[{"locale":"memerdekakan"},{"locale":"budak"}],"aya":"(yaitu) melepaskan budak dari perbudakan,"},"14":{"word":[{"locale":"atau"},{"locale":"memberi makan"},{"locale":"pada"},{"locale":"hari"},{"locale":"mempunyai"},{"locale":"kelaparan"}],"aya":"atau memberi makan pada hari kelaparan,"},"15":{"word":[{"locale":"anak yatim"},{"locale":"mempunyai"},{"locale":"dekat/kerabat"}],"aya":"(kepada) anak yatim yang ada hubungan kerabat,"},"16":{"word":[{"locale":"atau"},{"locale":"orang miskin"},{"locale":"mempunyai"},{"locale":"sangat payah/melarat"}],"aya":"atau kepada orang miskin yang sangat fakir."},"17":{"word":[{"locale":"kemudian"},{"locale":"adalah ia"},{"locale":"dari"},{"locale":"orang-orang yang"},{"locale":"beriman"},{"locale":"dan mereka saling berwasiat/berpesan"},{"locale":"dengan kesabaran"},{"locale":"dan mereka saling berwasiat/berpesan"},{"locale":"dengan kasih-sayang"}],"aya":"Dan dia (tidak pula) termasuk orang-orang yang beriman dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang."},"18":{"word":[{"locale":"mereka itu"},{"locale":"golongan"},{"locale":"kanan"}],"aya":"Mereka (orang-orang yang beriman dan saling berpesan itu) adalah golongan kanan."},"19":{"word":[{"locale":"dan orang-orang yang"},{"locale":"kafir/ingkar"},{"locale":"dengan ayat-ayat Kami"},{"locale":"mereka"},{"locale":"golongan"},{"locale":"kiri"}],"aya":"Dan orang-orang yang kafir kepada ayat-ayat Kami, mereka itu adalah golongan kiri."},"20":{"word":[{"locale":"atas/untuk mereka"},{"locale":"api/neraka"},{"locale":"tertutup rapat"}],"aya":"Mereka berada dalam neraka yang ditutup rapat."}}
+{
+	"1": {
+		"word": [
+			{ "locale": "sungguh" },
+			{ "locale": "Aku bersumpah" },
+			{ "locale": "dengan ini" },
+			{ "locale": "negeri" }
+		],
+		"aya": "Aku benar-benar bersumpah dengan kota ini (Mekah),"
+	},
+	"2": {
+		"word": [
+			{ "locale": "dan kamu" },
+			{ "locale": "halal/bertempat" },
+			{ "locale": "dengan ini" },
+			{ "locale": "negeri" }
+		],
+		"aya": "dan kamu (Muhammad) bertempat di kota Mekah ini,"
+	},
+	"3": {
+		"word": [
+			{ "locale": "demi bapak" },
+			{ "locale": "dan apa" },
+			{ "locale": "ia lahirkan (anak)" }
+		],
+		"aya": "dan demi bapak dan anaknya."
+	},
+	"4": {
+		"word": [
+			{ "locale": "sesungguhnya" },
+			{ "locale": "Kami telah menciptakan" },
+			{ "locale": "manusia" },
+			{ "locale": "dalam" },
+			{ "locale": "susah payah" }
+		],
+		"aya": "Sesungguhnya Kami telah menciptakan manusia berada dalam susah payah."
+	},
+	"5": {
+		"word": [
+			{ "locale": "apakah (manusia) menyangka" },
+			{ "locale": "bahwa" },
+			{ "locale": "tidak" },
+			{ "locale": "berkuasa" },
+			{ "locale": "atasnya" },
+			{ "locale": "seseorang/satu" }
+		],
+		"aya": "Apakah manusia itu menyangka bahwa sekali-kali tiada seorangpun yang berkuasa atasnya?"
+	},
+	"6": {
+		"word": [
+			{ "locale": "ia berkata" },
+			{ "locale": "aku telah binasakan/habiskan" },
+			{ "locale": "harta" },
+			{ "locale": "banyak" }
+		],
+		"aya": "Dan mengatakan: \"Aku telah menghabiskan harta yang banyak\"."
+	},
+	"7": {
+		"word": [
+			{ "locale": "apakah ia menyangka" },
+			{ "locale": "bahwa" },
+			{ "locale": "tidak" },
+			{ "locale": "berkuasa" },
+			{ "locale": "seorang/satu" }
+		],
+		"aya": "Apakah dia menyangka bahwa tiada seorangpun yang melihatnya?"
+	},
+	"8": {
+		"word": [
+			{ "locale": "bukankah" },
+			{ "locale": "Kami jadikan" },
+			{ "locale": "baginya" },
+			{ "locale": "dua buah mata" }
+		],
+		"aya": "Bukankah Kami telah memberikan kepadanya dua buah mata,"
+	},
+	"9": {
+		"word": [{ "locale": "dan lisan/lidah" }, { "locale": "dan dua buah bibir" }],
+		"aya": "lidah dan dua buah bibir."
+	},
+	"10": {
+		"word": [{ "locale": "dan Kami telah tunjukannya" }, { "locale": "dua jalan" }],
+		"aya": "Dan Kami telah menunjukkan kepadanya dua jalan,"
+	},
+	"11": {
+		"word": [
+			{ "locale": "maka/tetapi tidak" },
+			{ "locale": "ia menempuh" },
+			{ "locale": "pendakian/mendaki" }
+		],
+		"aya": "Tetapi dia tiada menempuh jalan yang mendaki lagi sukar."
+	},
+	"12": {
+		"word": [
+			{ "locale": "da apakah" },
+			{ "locale": "kamu tahu" },
+			{ "locale": "apa" },
+			{ "locale": "pendakian itu" }
+		],
+		"aya": "Tahukah kamu apakah jalan yang mendaki lagi sukar itu?"
+	},
+	"13": {
+		"word": [{ "locale": "memerdekakan" }, { "locale": "budak" }],
+		"aya": "(yaitu) melepaskan budak dari perbudakan,"
+	},
+	"14": {
+		"word": [
+			{ "locale": "atau" },
+			{ "locale": "memberi makan" },
+			{ "locale": "pada" },
+			{ "locale": "hari" },
+			{ "locale": "mempunyai" },
+			{ "locale": "kelaparan" }
+		],
+		"aya": "atau memberi makan pada hari kelaparan,"
+	},
+	"15": {
+		"word": [{ "locale": "anak yatim" }, { "locale": "mempunyai" }, { "locale": "dekat/kerabat" }],
+		"aya": "(kepada) anak yatim yang ada hubungan kerabat,"
+	},
+	"16": {
+		"word": [
+			{ "locale": "atau" },
+			{ "locale": "orang miskin" },
+			{ "locale": "mempunyai" },
+			{ "locale": "sangat payah/melarat" }
+		],
+		"aya": "atau kepada orang miskin yang sangat fakir."
+	},
+	"17": {
+		"word": [
+			{ "locale": "kemudian" },
+			{ "locale": "adalah ia" },
+			{ "locale": "dari" },
+			{ "locale": "orang-orang yang" },
+			{ "locale": "beriman" },
+			{ "locale": "dan mereka saling berwasiat/berpesan" },
+			{ "locale": "dengan kesabaran" },
+			{ "locale": "dan mereka saling berwasiat/berpesan" },
+			{ "locale": "dengan kasih-sayang" }
+		],
+		"aya": "Dan dia (tidak pula) termasuk orang-orang yang beriman dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang."
+	},
+	"18": {
+		"word": [{ "locale": "mereka itu" }, { "locale": "golongan" }, { "locale": "kanan" }],
+		"aya": "Mereka (orang-orang yang beriman dan saling berpesan itu) adalah golongan kanan."
+	},
+	"19": {
+		"word": [
+			{ "locale": "dan orang-orang yang" },
+			{ "locale": "kafir/ingkar" },
+			{ "locale": "dengan ayat-ayat Kami" },
+			{ "locale": "mereka" },
+			{ "locale": "golongan" },
+			{ "locale": "kiri" }
+		],
+		"aya": "Dan orang-orang yang kafir kepada ayat-ayat Kami, mereka itu adalah golongan kiri."
+	},
+	"20": {
+		"word": [
+			{ "locale": "atas/untuk mereka" },
+			{ "locale": "api/neraka" },
+			{ "locale": "tertutup rapat" }
+		],
+		"aya": "Mereka berada dalam neraka yang ditutup rapat."
+	}
+}

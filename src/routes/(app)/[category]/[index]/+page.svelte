@@ -146,17 +146,17 @@
 				/>
 			</div>
 		</div>
-    <div class="px-5">
-      <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
-      <div tabindex="0" class="collapse collapse-arrow md:-my-5">
-        <div class="collapse-title text-lg font-medium">
-          {header.no} : {header.title}
-        </div>
-        <div class="collapse-content">
-          <p>{@html header.description}</p>
-          <br/>
-        </div>
-      </div>
+		<div class="px-5">
+			<!-- svelte-ignore a11y-no-noninteractive-tabindex -->
+			<div tabindex="0" class="collapse collapse-arrow md:-my-5">
+				<div class="collapse-title text-lg font-medium">
+					{header.no} : {header.title}
+				</div>
+				<div class="collapse-content">
+					<p>{@html header.description}</p>
+					<br />
+				</div>
+			</div>
 		</div>
 	</div>
 	<div class="flex justify-between px-6 z-10">

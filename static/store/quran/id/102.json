@@ -1,1 +1,67 @@
-{"1":{"word":[{"locale":"telah melalaikan kamu"},{"locale":"berbanyak-banyak/bermegah-megah"}],"aya":"Bermegah-megahan telah melalaikan kamu,"},"2":{"word":[{"locale":"hingga"},{"locale":"kamu melewati/masuk"},{"locale":"kuburan-kuburan"}],"aya":"sampai kamu masuk ke dalam kubur."},"3":{"word":[{"locale":"sekali-kali tidak"},{"locale":"kelak"},{"locale":"(kalian) mengetahui"}],"aya":"Janganlah begitu, kelak kamu akan mengetahui (akibat perbuatanmu itu),"},"4":{"word":[{"locale":"kemudian"},{"locale":"sekali-kali tidak"},{"locale":"kelak"},{"locale":"(kalian) mengetahui"}],"aya":"dan janganlah begitu, kelak kamu akan mengetahui."},"5":{"word":[{"locale":"sekali-kali tidak"},{"locale":"jika"},{"locale":"(kalian) mengetahui"},{"locale":"pengetahuan"},{"locale":"pasti/yakin"}],"aya":"Janganlah begitu, jika kamu mengetahui dengan pengetahuan yang yakin,"},"6":{"word":[{"locale":"sungguh kamu akan melihat"},{"locale":"neraka Jahim"}],"aya":"niscaya kamu benar-benar akan melihat neraka Jahiim,"},"7":{"word":[{"locale":"kemudian"},{"locale":"sungguh kamu akan melihatnya"},{"locale":"mata/penglihatan"},{"locale":"pasti/yakin"}],"aya":"dan sesungguhnya kamu benar-benar akan melihatnya dengan 'ainul yaqin."},"8":{"word":[{"locale":"kemudian"},{"locale":"sungguh kamu akan ditanya"},{"locale":"pada hari itu"},{"locale":"dari/tetang"},{"locale":"kenikmatan"}],"aya":"kemudian kamu pasti akan ditanyai pada hari itu tentang kenikmatan (yang kamu megah-megahkan di dunia itu)."}}
+{
+	"1": {
+		"word": [
+			{ "locale": "telah melalaikan kamu" },
+			{ "locale": "berbanyak-banyak/bermegah-megah" }
+		],
+		"aya": "Bermegah-megahan telah melalaikan kamu,"
+	},
+	"2": {
+		"word": [
+			{ "locale": "hingga" },
+			{ "locale": "kamu melewati/masuk" },
+			{ "locale": "kuburan-kuburan" }
+		],
+		"aya": "sampai kamu masuk ke dalam kubur."
+	},
+	"3": {
+		"word": [
+			{ "locale": "sekali-kali tidak" },
+			{ "locale": "kelak" },
+			{ "locale": "(kalian) mengetahui" }
+		],
+		"aya": "Janganlah begitu, kelak kamu akan mengetahui (akibat perbuatanmu itu),"
+	},
+	"4": {
+		"word": [
+			{ "locale": "kemudian" },
+			{ "locale": "sekali-kali tidak" },
+			{ "locale": "kelak" },
+			{ "locale": "(kalian) mengetahui" }
+		],
+		"aya": "dan janganlah begitu, kelak kamu akan mengetahui."
+	},
+	"5": {
+		"word": [
+			{ "locale": "sekali-kali tidak" },
+			{ "locale": "jika" },
+			{ "locale": "(kalian) mengetahui" },
+			{ "locale": "pengetahuan" },
+			{ "locale": "pasti/yakin" }
+		],
+		"aya": "Janganlah begitu, jika kamu mengetahui dengan pengetahuan yang yakin,"
+	},
+	"6": {
+		"word": [{ "locale": "sungguh kamu akan melihat" }, { "locale": "neraka Jahim" }],
+		"aya": "niscaya kamu benar-benar akan melihat neraka Jahiim,"
+	},
+	"7": {
+		"word": [
+			{ "locale": "kemudian" },
+			{ "locale": "sungguh kamu akan melihatnya" },
+			{ "locale": "mata/penglihatan" },
+			{ "locale": "pasti/yakin" }
+		],
+		"aya": "dan sesungguhnya kamu benar-benar akan melihatnya dengan 'ainul yaqin."
+	},
+	"8": {
+		"word": [
+			{ "locale": "kemudian" },
+			{ "locale": "sungguh kamu akan ditanya" },
+			{ "locale": "pada hari itu" },
+			{ "locale": "dari/tetang" },
+			{ "locale": "kenikmatan" }
+		],
+		"aya": "kemudian kamu pasti akan ditanyai pada hari itu tentang kenikmatan (yang kamu megah-megahkan di dunia itu)."
+	}
+}

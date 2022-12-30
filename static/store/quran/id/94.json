@@ -1,1 +1,61 @@
-{"1":{"word":[{"locale":"apakah tidak/bukankah"},{"locale":"Kami melapangkan"},{"locale":"bagimu"},{"locale":"dadamu"}],"aya":"Bukankah Kami telah melapangkan untukmu dadamu?,"},"2":{"word":[{"locale":"dan Kami letakkan/turunkan"},{"locale":"dari kamu"},{"locale":"bebanmu"}],"aya":"dan Kami telah menghilangkan daripadamu bebanmu,"},"3":{"word":[{"locale":"yang"},{"locale":"memberatkan"},{"locale":"punggungmu"}],"aya":"yang memberatkan punggungmu?"},"4":{"word":[{"locale":"dan Kami tinggikan"},{"locale":"bagimu"},{"locale":"sebutanmu"}],"aya":"Dan Kami tinggikan bagimu sebutan (nama)mu,"},"5":{"word":[{"locale":"maka sesungguhnya"},{"locale":"beserta"},{"locale":"kesulitan"},{"locale":"kemudahan"}],"aya":"Karena sesungguhnya sesudah kesulitan itu ada kemudahan,"},"6":{"word":[{"locale":"sesungguhnya"},{"locale":"beserta"},{"locale":"kesulitan"},{"locale":"kemudahan"}],"aya":"sesungguhnya sesudah kesulitan itu ada kemudahan."},"7":{"word":[{"locale":"maka apabila"},{"locale":"kamu telah selesai"},{"locale":"maka kerja keraslah kamu"}],"aya":"Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain,"},"8":{"word":[{"locale":"dan hanya"},{"locale":"Tuhanmu"},{"locale":"maka kamu berharap"}],"aya":"dan hanya kepada Tuhanmulah hendaknya kamu berharap."}}
+{
+	"1": {
+		"word": [
+			{ "locale": "apakah tidak/bukankah" },
+			{ "locale": "Kami melapangkan" },
+			{ "locale": "bagimu" },
+			{ "locale": "dadamu" }
+		],
+		"aya": "Bukankah Kami telah melapangkan untukmu dadamu?,"
+	},
+	"2": {
+		"word": [
+			{ "locale": "dan Kami letakkan/turunkan" },
+			{ "locale": "dari kamu" },
+			{ "locale": "bebanmu" }
+		],
+		"aya": "dan Kami telah menghilangkan daripadamu bebanmu,"
+	},
+	"3": {
+		"word": [{ "locale": "yang" }, { "locale": "memberatkan" }, { "locale": "punggungmu" }],
+		"aya": "yang memberatkan punggungmu?"
+	},
+	"4": {
+		"word": [{ "locale": "dan Kami tinggikan" }, { "locale": "bagimu" }, { "locale": "sebutanmu" }],
+		"aya": "Dan Kami tinggikan bagimu sebutan (nama)mu,"
+	},
+	"5": {
+		"word": [
+			{ "locale": "maka sesungguhnya" },
+			{ "locale": "beserta" },
+			{ "locale": "kesulitan" },
+			{ "locale": "kemudahan" }
+		],
+		"aya": "Karena sesungguhnya sesudah kesulitan itu ada kemudahan,"
+	},
+	"6": {
+		"word": [
+			{ "locale": "sesungguhnya" },
+			{ "locale": "beserta" },
+			{ "locale": "kesulitan" },
+			{ "locale": "kemudahan" }
+		],
+		"aya": "sesungguhnya sesudah kesulitan itu ada kemudahan."
+	},
+	"7": {
+		"word": [
+			{ "locale": "maka apabila" },
+			{ "locale": "kamu telah selesai" },
+			{ "locale": "maka kerja keraslah kamu" }
+		],
+		"aya": "Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain,"
+	},
+	"8": {
+		"word": [
+			{ "locale": "dan hanya" },
+			{ "locale": "Tuhanmu" },
+			{ "locale": "maka kamu berharap" }
+		],
+		"aya": "dan hanya kepada Tuhanmulah hendaknya kamu berharap."
+	}
+}

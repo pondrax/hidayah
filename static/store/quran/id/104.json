@@ -1,1 +1,72 @@
-{"1":{"word":[{"locale":"kecelakaan"},{"locale":"bagi setiap"},{"locale":"pengumpat"},{"locale":"pencela"}],"aya":"Kecelakaanlah bagi setiap pengumpat lagi pencela,"},"2":{"word":[{"locale":"yang"},{"locale":"mengumpulkan"},{"locale":"harta"},{"locale":"dan dia menghitungnya"}],"aya":"yang mengumpulkan harta dan menghitung-hitung,"},"3":{"word":[{"locale":"dia mengira"},{"locale":"bahwasanya"},{"locale":"hartanya"},{"locale":"mengekalkannya"}],"aya":"dia mengira bahwa hartanya itu dapat mengkekalkannya,"},"4":{"word":[{"locale":"sekali-kali tidak"},{"locale":"sungguh dia akan dilemparkan"},{"locale":"dalam"},{"locale":"Hutamah"}],"aya":"sekali-kali tidak! Sesungguhnya dia benar-benar akan dilemparkan ke dalam Huthamah."},"5":{"word":[{"locale":"dan apakah"},{"locale":"kamu tahu"},{"locale":"apa"},{"locale":"Hutamah"}],"aya":"Dan tahukah kamu apa Huthamah itu?"},"6":{"word":[{"locale":"api"},{"locale":"Allah"},{"locale":"dinyalakan"}],"aya":"(yaitu) api (yang disediakan) Allah yang dinyalakan,"},"7":{"word":[{"locale":"yang"},{"locale":"naik"},{"locale":"ke atas/sampai"},{"locale":"hati"}],"aya":"yang (membakar) sampai ke hati."},"8":{"word":[{"locale":"sesungguhnya ia (api)"},{"locale":"atas mereka"},{"locale":"terikat/ditutup rapat"}],"aya":"Sesungguhnya api itu ditutup rapat atas mereka,"},"9":{"word":[{"locale":"dalam/pada"},{"locale":"tiang"},{"locale":"panjang"}],"aya":"(sedang mereka itu) diikat pada tiang-tiang yang panjang."}}
+{
+	"1": {
+		"word": [
+			{ "locale": "kecelakaan" },
+			{ "locale": "bagi setiap" },
+			{ "locale": "pengumpat" },
+			{ "locale": "pencela" }
+		],
+		"aya": "Kecelakaanlah bagi setiap pengumpat lagi pencela,"
+	},
+	"2": {
+		"word": [
+			{ "locale": "yang" },
+			{ "locale": "mengumpulkan" },
+			{ "locale": "harta" },
+			{ "locale": "dan dia menghitungnya" }
+		],
+		"aya": "yang mengumpulkan harta dan menghitung-hitung,"
+	},
+	"3": {
+		"word": [
+			{ "locale": "dia mengira" },
+			{ "locale": "bahwasanya" },
+			{ "locale": "hartanya" },
+			{ "locale": "mengekalkannya" }
+		],
+		"aya": "dia mengira bahwa hartanya itu dapat mengkekalkannya,"
+	},
+	"4": {
+		"word": [
+			{ "locale": "sekali-kali tidak" },
+			{ "locale": "sungguh dia akan dilemparkan" },
+			{ "locale": "dalam" },
+			{ "locale": "Hutamah" }
+		],
+		"aya": "sekali-kali tidak! Sesungguhnya dia benar-benar akan dilemparkan ke dalam Huthamah."
+	},
+	"5": {
+		"word": [
+			{ "locale": "dan apakah" },
+			{ "locale": "kamu tahu" },
+			{ "locale": "apa" },
+			{ "locale": "Hutamah" }
+		],
+		"aya": "Dan tahukah kamu apa Huthamah itu?"
+	},
+	"6": {
+		"word": [{ "locale": "api" }, { "locale": "Allah" }, { "locale": "dinyalakan" }],
+		"aya": "(yaitu) api (yang disediakan) Allah yang dinyalakan,"
+	},
+	"7": {
+		"word": [
+			{ "locale": "yang" },
+			{ "locale": "naik" },
+			{ "locale": "ke atas/sampai" },
+			{ "locale": "hati" }
+		],
+		"aya": "yang (membakar) sampai ke hati."
+	},
+	"8": {
+		"word": [
+			{ "locale": "sesungguhnya ia (api)" },
+			{ "locale": "atas mereka" },
+			{ "locale": "terikat/ditutup rapat" }
+		],
+		"aya": "Sesungguhnya api itu ditutup rapat atas mereka,"
+	},
+	"9": {
+		"word": [{ "locale": "dalam/pada" }, { "locale": "tiang" }, { "locale": "panjang" }],
+		"aya": "(sedang mereka itu) diikat pada tiang-tiang yang panjang."
+	}
+}

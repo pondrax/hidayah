@@ -1,1 +1,36 @@
-{"1":{"word":[{"locale":"karena kebiasaan"},{"locale":"orang-orang Qurais"}],"aya":"Karena kebiasaan orang-orang Quraisy,"},"2":{"word":[{"locale":"kebiasaan mereka"},{"locale":"perjalanan/bepergian"},{"locale":"dimusim dingin"},{"locale":"dan musim panas"}],"aya":"(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."},"3":{"word":[{"locale":"maka hendaklah mereka menyembah"},{"locale":"Tuhan"},{"locale":"ini"},{"locale":"rumah"}],"aya":"Maka hendaklah mereka menyembah Tuhan Pemilik rumah ini (Ka'bah)."},"4":{"word":[{"locale":"yang"},{"locale":"Dia memberi makan mereka"},{"locale":"dari"},{"locale":"kelaparan"},{"locale":"dan Dia memberikan keamanan mereka"},{"locale":"dari"},{"locale":"ketakutan"}],"aya":"Yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari ketakutan."}}
+{
+	"1": {
+		"word": [{ "locale": "karena kebiasaan" }, { "locale": "orang-orang Qurais" }],
+		"aya": "Karena kebiasaan orang-orang Quraisy,"
+	},
+	"2": {
+		"word": [
+			{ "locale": "kebiasaan mereka" },
+			{ "locale": "perjalanan/bepergian" },
+			{ "locale": "dimusim dingin" },
+			{ "locale": "dan musim panas" }
+		],
+		"aya": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
+	},
+	"3": {
+		"word": [
+			{ "locale": "maka hendaklah mereka menyembah" },
+			{ "locale": "Tuhan" },
+			{ "locale": "ini" },
+			{ "locale": "rumah" }
+		],
+		"aya": "Maka hendaklah mereka menyembah Tuhan Pemilik rumah ini (Ka'bah)."
+	},
+	"4": {
+		"word": [
+			{ "locale": "yang" },
+			{ "locale": "Dia memberi makan mereka" },
+			{ "locale": "dari" },
+			{ "locale": "kelaparan" },
+			{ "locale": "dan Dia memberikan keamanan mereka" },
+			{ "locale": "dari" },
+			{ "locale": "ketakutan" }
+		],
+		"aya": "Yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari ketakutan."
+	}
+}
