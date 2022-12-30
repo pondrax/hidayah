@@ -3,6 +3,8 @@
 	import { PUBLIC_APP_NAME } from '$env/static/public';
 
 	import '../app.css';
+
+  
 	let theme = 'cupcake';
 
 	if (browser) {
